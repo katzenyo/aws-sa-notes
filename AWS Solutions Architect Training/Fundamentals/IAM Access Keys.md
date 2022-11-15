@@ -1,0 +1,9 @@
+- Long-term credentials for accessing AWS programmatically
+- All long-term creds are used with IAM users
+- Password for IAM user is optional; access can be granted solely through access keys
+- IAM user can have 2 access keys max
+- Keys can be created, deleted, inactivated, or activated
+- Access keys include an Access Key ID (public) and Secret Access Key (private)
+	- Secret Access key is only shown once and never again, so it's important to save the Secret Access key as soon as it's shown
+	- If Secret Access key is lost (or if creds are compromised), the entire access key must be deleted
+- Root users **should not** be given access keys
