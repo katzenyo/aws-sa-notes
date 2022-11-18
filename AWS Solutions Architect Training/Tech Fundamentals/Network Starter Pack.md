@@ -94,6 +94,16 @@ graph TD
 ## Layer 3 - Network Layer
 
 >[!Definition] Layer 3 - Network Layer
+>Provides:
+>	IP Addressing (IPv4/v6) - cross network addressing
+>	ARP - finds the MAC address for a specific IP
+>	Routing - where to forward a packet
+>	Route Tables - indexing multiple routes for faster resolution
+>	Router - moves packets from SRC to DST. Encapsulates in L2 along the way
+>	Device to Device comms over the internet
+>Does not provide:
+>	Methods for multiple channels of comms; supports SRC IP to DST IP only
+>	Can be delivered out of order
 
 ### Overview
 
@@ -146,3 +156,85 @@ graph TD
 - $32-16=16$
 - $2^{16}-2=65,534$
 	- Always subtract 2 for the reserved network and broadcast addresses
+
+## Address Resolution Protocol (ARP)
+
+- Process that runs between Layer 2 and Layer 3
+	- Broadcasts on Layer 2
+	- Layer 2 is used for communications on a local network
+- Discovers which MAC belongs to a given a IP
+
+![[Pasted image 20221117133313.png]]
+
+## Layer 4 - Transport
+
+>[!Definition] Layer 4 - Transport Overview
+
+- Adds Transmission Control Protocol (TCP) and User Datagram Protocol (UDP)
+	- TCP
+		- used for HTTP, HTTPS, SSH, and other protocols that require reliable communication
+		- Uses a handshake to establish communication
+		- Prioritizes reliability
+	- UDP
+		- Does not contain same handshake/verification process of TCP
+		- Less reliable than TCP, but faster since no handshake overhead exists
+		- Prioritizes performance
+	- Both run on top of IP itself
+
+### TCP
+
+- Segments
+	- Segments are encapsulated within IP packets
+- TCP Header Structure
+	- Source Port
+	- Destination Port
+	- Sequence Number
+	- Acknowledgement (ACK)
+	- Flags n' Things
+	- Window
+	- Checksum
+	- Urgent Pointer
+	- Options
+	- Padding
+	- Data
+- Well-known port: a port that is used as a standard channel for communications between devices
+- Ephemeral port: a higher numbered port that is used as a temporary channel for communications, usually between a well-known port
+- Both ports are why you need two sets of rules for ACLs in AWS
+- Flags 'n Things
+	- URG
+	- ACK
+		- acknowledges connection
+	- PSH
+	- RST
+	- SYN
+		- synchronizes sequence numbers
+	- FIN
+		- used for closing a connection
+
+### 3-Way Handshake Process
+
+![[Pasted image 20221117140556.png]]
+
+### Sessions & State
+
+- Stateless firewall (Network ACL)
+	- Requires an outbound rule and a response rule (two rules)
+- Stateful firewall
+	- Understands the 'state' of the TCP segments at Layer 4
+	- Response traffic is implicitly allowed by initial traffic
+		- This is how security groups in AWS work
+
+## Network Address Translation (NAT)
+
+>[!Definition] NAT - Overview
+> Designed to overcome shortages of IPv4 addresses (not applicable to IPv6)
+> Provides some additional security
+> Translates private IPv4 addresses to public
+> Static NAT - 1 private to 1 fixed, public address
+> Dynamic NAT - 1 private to 1st available public address
+> Port Address Translation (PAT) - many private to 1 public (used in home networks and AWS network gateway)
+
+### Static NAT
+
+- This is how the AWS Internet Gateway works
+![[Pasted image 20221117142332.png]]
