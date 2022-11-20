@@ -95,15 +95,16 @@ graph TD
 
 >[!Definition] Layer 3 - Network Layer
 >Provides:
->	IP Addressing (IPv4/v6) - cross network addressing
->	ARP - finds the MAC address for a specific IP
->	Routing - where to forward a packet
->	Route Tables - indexing multiple routes for faster resolution
->	Router - moves packets from SRC to DST. Encapsulates in L2 along the way
->	Device to Device comms over the internet
+>- IP Addressing (IPv4/v6) - cross network addressing
+>- ARP - finds the MAC address for a specific IP
+>- Routing - where to forward a packet
+>- Route Tables - indexing multiple routes for faster resolution
+>- Router - moves packets from SRC to DST. Encapsulates in L2 along the way
+>- Device to Device comms over the internet
+>
 >Does not provide:
->	Methods for multiple channels of comms; supports SRC IP to DST IP only
->	Can be delivered out of order
+>- Methods for multiple channels of comms; supports SRC IP to DST IP only
+>- Can be delivered out of order
 
 ### Overview
 
@@ -238,3 +239,36 @@ graph TD
 
 - This is how the AWS Internet Gateway works
 ![[Pasted image 20221117142332.png]]
+
+### Dynamic NAT
+
+- Router maintains a NAT table, mapping PrivateIP : PublicIP
+- Public IP allocations are temporary from a Public IP Pool
+- AWS NATGateway (NATGW)
+	- uses a many-to-one privateIP:publicIP architecture
+
+### Port Address Translation (PAT)
+
+- NAT device records Source (private) IP and source port
+- Replaces source IP with single Public IP and public source port from a pool
+
+## Subnetting
+
+### CIDR
+- Enables partitioning of networks
+
+### IPv4 Address Space
+
+>[!Definition] Overview
+>- Defined by RFC1918
+>- **172.31.0.0 is used by AWS for default VPC**
+>- Avoid allocating overlapping ranges to networks
+
+- Class A networks: 128 networks, 16,777,216 IPs each
+	- 0-127.0.0.0
+- Class B networks: 16,384 networks, 65,536 IPs each
+- Class C networks: 2,097,152 networks, 256 IPs each
+
+### IPv6 Address Space
+
+- 340 sextillion addresses
