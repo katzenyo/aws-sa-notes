@@ -254,8 +254,21 @@ graph TD
 
 ## Subnetting
 
-### CIDR
+### CIDR (Classless Inter-Domain Routing)
 - Enables partitioning of networks
+- - Prefix: /8, /16, /24, etc
+	- /8: Class A network
+		- 255.0.0.0
+	- /16: Class B network
+		- 255.255.0.0
+	- /24: Class C network
+		- 255.255.255.0
+- Subnets can be broken into smaller subnets e.g.
+	- 10.16.0.0/16 (65,534 addresses) can instead be:
+		- 10.16.0.0/17 (32,767) and
+		- 10.16.128.0/17 (32,767)
+
+![[Pasted image 20221120130240.png]]
 
 ### IPv4 Address Space
 
@@ -272,3 +285,46 @@ graph TD
 ### IPv6 Address Space
 
 - 340 sextillion addresses
+
+## Distributed Denial of Service (DDoS)
+
+>[!Definition] Overview
+>- Attacks designed to overload websites
+>- Compete with legitimate traffic
+>- Distributed in nature - hard to block individual or ranges of IPs
+>- [[Network Starter Pack#Distributed Denial of Service (DDoS)#Application Layer Attack|Application (Layer 7) - HTTP Flood]]
+>- [[Network Starter Pack#Distributed Denial of Service (DDoS)#Protocol Attack - SYN Flood|Protocol attack - SYN Flood]]
+>- [[Network Starter Pack#Distributed Denial of Service (DDoS)#Volumetric - DNS Amplification|Volumetric - DNS Amplification]]
+>- Often involve a large number of compromised hosts (botnets)
+
+### Application Layer Attack
+
+![[Pasted image 20221120132341.png]]
+
+### Protocol Attack - SYN Flood
+
+![[Pasted image 20221120132830.png]]
+
+### Volumetric - DNS Amplification
+
+![[Pasted image 20221120133228.png]]
+
+## SSL/TLS
+
+>[!Definition] Overview
+> - Secure Sockets Layer and Transport Layer Security
+> - TLS: newer, more secure than SSL
+> - Ensures privacy, integrity between client & server
+> - Communications are encrypted (privacy)
+> - Establishes communication using asymmetric encryption
+> 	- uses symmetric for ongoing communications (symmetric being computationally less intensive)
+> - Identity (server, client/server) verified (non-repudiation)
+> - Reliable connection, protects against alteration (integrity)
+
+Three step process:
+
+1. Cipher Suites
+2. Authentication
+3. Key Exchange
+
+![[Pasted image 20221120135717.png]]
