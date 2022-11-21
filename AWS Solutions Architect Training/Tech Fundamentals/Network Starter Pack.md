@@ -328,3 +328,26 @@ Three step process:
 3. Key Exchange
 
 ![[Pasted image 20221120135717.png]]
+
+## Hash Functions & Hashing
+
+>[!Definition] Overview - Hashing
+> - Turns plaintext data into cryptographic strings
+> - Takes variable-sized data and turns it into fixed-size data
+> - Hashing is 1-way: hashed data cannot be reverse engineered to the original data
+> - The same data should always produce the same hash value given the same hash function
+> - Data can be verified using a hash by ensuring hashes match
+> - Digital signing (non-repudiation) can ensure the validity of a hash
+> - Weakness of older hash functions: collisions (different sources generating same output hash)
+
+## Digital Signatures
+
+>[!Definition] Overview
+>- Verifies integrity (what) & authenticity (who) of source
+>- Hash is produced from the data, original is unaltered 
+>- Digitally signs and authenticates the hash
+>- Hash cannot be changed as long as private key is not comrpomised
+>- Document can't be changed or else it invalidates the hash
+>- Trust public key -> trust private key -> trust entity -> trust data
+
+![[Pasted image 20221121134202.png]]
