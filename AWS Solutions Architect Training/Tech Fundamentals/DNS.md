@@ -70,7 +70,7 @@ B -. 3. Register domain, supply NS info .-> G(TLD Registry)
 G -. 4. add cats.com NS to .com TLD zone .-> H(TLD Zone)
 ```
 
-## DNSSEC
+## DNSSEC (Domain Name System Security Extension)
 
 >[!Abstract] Benefits of DNSSEC
 > - Data Origin Authentication: verifies authenticity of zone data
@@ -157,3 +157,13 @@ end
 #### Validation Flow
 
 This part is very confusing, will revisit later
+
+![[Pasted image 20221126143713.png]]
+
+#### Root Signing Ceremony
+
+>[!Definition] Trust Anchor
+> - Private "." DNS Root KSK
+> - Locked away and never exposed
+> - Security is ensured through complex set of procedures
+
