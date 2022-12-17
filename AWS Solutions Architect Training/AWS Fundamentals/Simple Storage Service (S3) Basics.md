@@ -4,7 +4,7 @@
 > - Public service, unlimited data & multi-user
 > - Movies, audio, photos, text, large datasets
 > - Economical, accessed via UI/CLI/API/HTTP
-> - Default starting point unless S3 can't deliver solution
+> - Default starting point UNLESS  S3 can't deliver solution
 > - Objects & Buckets
 
 ## Objects
