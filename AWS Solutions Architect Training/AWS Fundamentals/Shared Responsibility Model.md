@@ -1,0 +1,12 @@
+- AWS: responsible for security *of* the cloud
+	- Hardware/global infrastructure
+	- Regions, AZs, edge locations
+	- compute, storage, database, networking
+	- software used to support the above
+- Customer: responsible for security *in* the cloud
+	- Client side data encryption, integrity, authentication
+	- Server side encryption
+	- Network traffic encryption, integrity, identity
+	- OS, network, firewall configuration
+	- Platform, apps, IAM
+	- Customer data
