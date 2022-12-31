@@ -34,7 +34,7 @@ Outputs:
 	set of outputs
 ```
 
-- Resources inside templates are called *logical resources*
+- Resources defined inside templates are called *logical resources*
 	- Logical resources have types and properties
 - Stack: an active implementation of a template
 	- A single template can create multiple stacks

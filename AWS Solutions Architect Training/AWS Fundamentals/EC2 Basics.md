@@ -22,6 +22,9 @@
 
 ## Amazon Machine Image (AMI)
 
+>[!Warning] On the Exam
+>Not stored in an AMI: Instance settings and network settings
+
 - Permissions
 	- Public - everyone allowed
 	- Owner - implicit allow
