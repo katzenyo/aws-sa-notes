@@ -11,7 +11,7 @@
 - Global service/global resilience
 - Can allow/deny identites on its AWS Account
 - No direct control on external accounts or users
-- Supports identity federation (SSO) and MFA
+- Supports identity federation (SSO) and [[Multifactor Authentication (MFA)|MFA]]
 
 #### Users
 - Identites which represent humans or applications that need access to the account
@@ -23,6 +23,6 @@
 - Can be used by AWS services or for granting external access to the AWS Account
 - Example: if you want to grant all EC2 instances access to S3, you'd create a role to accomplish this
 
-### IAM Policies
+### [[IAM Identity Policies|IAM Policies]]
 >[!Definition] IAM Policies
 >Objects/documents that can be used to allow/deny access to AWS services only when they're attached to Users, Groups, or Roles

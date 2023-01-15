@@ -1,0 +1,11 @@
+- Policy (JSON) document that can be attached to OUs, the root container, or AWS accounts
+- Management account can't be restricted/affected by SCPs
+	- Avoid using management account in prod
+- SCPs are account permissions boundaries
+- Limit what the account (including account root user) can do
+- SCPs do not grant permissions, only control what an account can/can't do via [[IAM Identity Policies]]
+- Can be used in two ways:
+	- Allow List
+	- Deny List
+		- Much lower admin overhead
+- Understand: effective permissions are the overlap between identity policies and applicable SCPs

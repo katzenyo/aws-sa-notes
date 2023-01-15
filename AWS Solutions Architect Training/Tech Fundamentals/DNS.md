@@ -22,8 +22,11 @@
 
 1. DNS Root
 	1. Stores only basic info on top-level domains (TLDs)
+	2. 13 DNS root servers exist, managed by 12 large organizations
+	3. DNS Root Zone is managed by IANA
 2. Top Level Domains (TLDs)
-	1. Registrars manage registration/membership for .com, .edu, etc
+	1. **Registrars** manage registration/membership for .com, .edu, etc
+	2. **Registries** maintain zones for a TLD
 3. Authoritative Name Servers
 	1. Provides query response for DNS requests
 4. Zone & ZoneFile
