@@ -8,126 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c18515a88762031f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Fundamentals/Virtual Private Cloud.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f110d588fe7fbe50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM, Accounts, and AWS Organizations/IAM Identity Policies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "225249847b1d08e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM, Accounts, and AWS Organizations/IAM Users.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55d1b5ec6df0c82d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM, Accounts, and AWS Organizations/IAM Groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dad0c3f7faa8a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM, Accounts, and AWS Organizations/IAM Roles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd3f6b44e43d2dee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM, Accounts, and AWS Organizations/IAM Roles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1406a4ec34890a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM, Accounts, and AWS Organizations/AWS Organizations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5c62d9a4cd6eb93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM, Accounts, and AWS Organizations/Service Control Policies (SCPs).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80eff731fc68f4eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM, Accounts, and AWS Organizations/CloudWatch Logs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7898e13807720981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM, Accounts, and AWS Organizations/CloudWatch Logs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1034622483e2f28e",
             "type": "leaf",
             "state": {
@@ -138,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "905eb2c93a88f195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IAM, Accounts, and AWS Organizations/IAM Roles.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38c5c0c0bc8a72b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM, Accounts, and AWS Organizations/CloudTrail Essentials.md",
+                "file": "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM, Accounts, and AWS Organizations/CloudTrail Essentials.md",
+                "file": "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM, Accounts, and AWS Organizations/CloudTrail Essentials.md"
+                "file": "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md"
               }
             }
           }
@@ -269,15 +173,15 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "IAM, Accounts, and AWS Organizations/CloudWatch Logs.md",
-    "IAM, Accounts, and AWS Organizations/Service Control Policies (SCPs).md",
-    "IAM, Accounts, and AWS Organizations/IAM Identity Policies.md",
-    "IAM, Accounts, and AWS Organizations/AWS Organizations.md",
     "IAM, Accounts, and AWS Organizations/IAM Roles.md",
-    "IAM, Accounts, and AWS Organizations/When to Use IAM Roles.md",
     "IAM, Accounts, and AWS Organizations/IAM Groups.md",
-    "IAM, Accounts, and AWS Organizations/IAM Users.md",
-    "Fundamentals/Identity and Access Management (IAM) Basics.md",
-    "AWS Fundamentals/Virtual Private Cloud.md"
+    "IAM, Accounts, and AWS Organizations/IAM Identity Policies.md",
+    "IAM, Accounts, and AWS Organizations/AWS Control Tower.md",
+    "Fundamentals/IAM Access Keys.md",
+    "Fundamentals/AWS Accounts - The Basics.md",
+    "Cloud Computing Fundamentals/Cloud Service Models.md",
+    "Cloud Computing Fundamentals/Cloud Computing.md",
+    "AWS Fundamentals/Shared Responsibility Model.md",
+    "AWS Fundamentals/AWS Public vs Private Services.md"
   ]
 }
