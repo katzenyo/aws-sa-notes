@@ -5,6 +5,7 @@
 >- A set of security statements to AWS
 >- Grants/denies access to AWS products/features to any identity using the policy
 >- AWS Accounts have no access to any AWS resources, except for the Account Root User
+>- Valid policy types: AWS Managed, Customer Managed, and Inline Policies
 
 ## IAM Policy Document
 

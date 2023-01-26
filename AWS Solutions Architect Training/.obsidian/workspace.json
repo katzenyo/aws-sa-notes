@@ -42,9 +42,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa654b12e2b572e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f32ae87805fabd3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Storage Service (S3)/Object Versioning & MFA Delete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c38f0aa381034ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Storage Service (S3)/S3 Performance Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18256a96889983b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Storage Service (S3)/Key Management Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be740ca1332618c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Storage Service (S3)/S3 Encryption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -110,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md",
+                "file": "Simple Storage Service (S3)/S3 Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md",
+                "file": "Simple Storage Service (S3)/S3 Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md"
+                "file": "Simple Storage Service (S3)/S3 Encryption.md"
               }
             }
           }
@@ -158,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 264.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -173,15 +233,15 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "IAM, Accounts, and AWS Organizations/IAM Roles.md",
-    "IAM, Accounts, and AWS Organizations/IAM Groups.md",
-    "IAM, Accounts, and AWS Organizations/IAM Identity Policies.md",
+    "Simple Storage Service (S3)/Key Management Service.md",
+    "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md",
+    "Simple Storage Service (S3)/S3 Performance Optimization.md",
+    "Simple Storage Service (S3)/Object Versioning & MFA Delete.md",
+    "Simple Storage Service (S3)/S3 Static Website Hosting.md",
+    "IAM, Accounts, and AWS Organizations/CloudWatch Logs.md",
+    "IAM, Accounts, and AWS Organizations/CloudTrail Essentials.md",
+    "IAM, Accounts, and AWS Organizations/AWS Organizations.md",
     "IAM, Accounts, and AWS Organizations/AWS Control Tower.md",
-    "Fundamentals/IAM Access Keys.md",
-    "Fundamentals/AWS Accounts - The Basics.md",
-    "Cloud Computing Fundamentals/Cloud Service Models.md",
-    "Cloud Computing Fundamentals/Cloud Computing.md",
-    "AWS Fundamentals/Shared Responsibility Model.md",
-    "AWS Fundamentals/AWS Public vs Private Services.md"
+    "IAM, Accounts, and AWS Organizations/IAM Identity Policies.md"
   ]
 }

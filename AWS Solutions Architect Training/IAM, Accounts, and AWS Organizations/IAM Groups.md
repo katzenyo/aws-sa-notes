@@ -1,7 +1,8 @@
 >[!Definition] The Basics
->- Logical containers for IAM Users
+>- Logical containers (groupings) for IAM Users
 >- IAM Users can be members of multiple groups
 >- Can have policies (inline, managed) attached
+>- Can hold identity permissions
 >- There is no native "All Users" group
 >	- Any group containing all users would need to be custom created and self-managed
 >- No group nesting allowed
