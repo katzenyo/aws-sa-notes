@@ -114,9 +114,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b94229cfcc8ab744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Storage Service (S3)/S3 Lifecycle Configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de18a6fd81933f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Storage Service (S3)/S3 Replication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -182,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simple Storage Service (S3)/S3 Object Storage Classes.md",
+                "file": "Simple Storage Service (S3)/S3 Replication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simple Storage Service (S3)/S3 Object Storage Classes.md",
+                "file": "Simple Storage Service (S3)/S3 Replication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simple Storage Service (S3)/S3 Object Storage Classes.md"
+                "file": "Simple Storage Service (S3)/S3 Replication.md"
               }
             }
           }
@@ -243,8 +267,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994aede02bd9c52f",
+  "active": "de18a6fd81933f9b",
   "lastOpenFiles": [
+    "Simple Storage Service (S3)/S3 Lifecycle Configuration.md",
+    "Simple Storage Service (S3)/S3 Object Storage Classes.md",
     "Simple Storage Service (S3)/S3 Encryption.md",
     "Simple Storage Service (S3)/Key Management Service.md",
     "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md",
@@ -252,8 +278,6 @@
     "Simple Storage Service (S3)/Object Versioning & MFA Delete.md",
     "Simple Storage Service (S3)/S3 Static Website Hosting.md",
     "IAM, Accounts, and AWS Organizations/CloudWatch Logs.md",
-    "IAM, Accounts, and AWS Organizations/CloudTrail Essentials.md",
-    "IAM, Accounts, and AWS Organizations/AWS Organizations.md",
-    "IAM, Accounts, and AWS Organizations/AWS Control Tower.md"
+    "IAM, Accounts, and AWS Organizations/CloudTrail Essentials.md"
   ]
 }
