@@ -1,0 +1,7 @@
+- Can be enabled via console UI or PUT Bucket logging
+- S3 Log Delivery Group
+	- Must be granted access to target bucket via ACL
+	- Best effort delivery: typically logged within a few hours
+- Log Files are made up of Log Records
+	- Log Records are newline-delimited
+	- Attributes are space-delimited

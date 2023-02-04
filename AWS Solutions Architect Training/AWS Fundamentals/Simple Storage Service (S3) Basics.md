@@ -19,11 +19,11 @@
 ## Buckets
 
 >[!Abstract] Summary
+> - Buckets: 100 soft limit, 1000 hard limit per account
 > - Bucket names are globally unique
 > - 3-63 characters, all lowercase, no underscores
 > - Start with a lowercase letter/number
 > - Can't be IP formatted (e.g. 1.1.1.1)
-> - Buckets: 100 soft limit, 1000 hard limit per account
 > - Unlimited objects in bucket, 0 bytes to 5TB
 > - Key = name, Value = data
 

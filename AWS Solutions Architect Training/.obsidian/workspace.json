@@ -8,187 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1034622483e2f28e",
+            "id": "3c6fbb3599aec4e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM, Accounts, and AWS Organizations/CloudTrail Essentials.md",
+                "file": "Virtual Private Cloud (VPC) Basics/VPC Subnets.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "905eb2c93a88f195",
+            "id": "2448ae8b8aef34a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM, Accounts, and AWS Organizations/IAM Roles.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38c5c0c0bc8a72b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md",
+                "file": "Virtual Private Cloud (VPC) Basics/VPC Routing, Internet Gateway, and Bastion Hosts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fa654b12e2b572e2",
+            "id": "bb183e2a067377fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md",
+                "file": "Virtual Private Cloud (VPC) Basics/Stateful vs Stateless Firewalls.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f32ae87805fabd3f",
+            "id": "62983682c73afe3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Storage Service (S3)/Object Versioning & MFA Delete.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c38f0aa381034ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Storage Service (S3)/S3 Performance Optimization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18256a96889983b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Storage Service (S3)/Key Management Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be740ca1332618c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Storage Service (S3)/S3 Encryption.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2420e57d1ca4ae8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Storage Service (S3)/S3 Object Storage Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b94229cfcc8ab744",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Storage Service (S3)/S3 Lifecycle Configuration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de18a6fd81933f9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Storage Service (S3)/S3 Replication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdc7784a268f385f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Storage Service (S3)/S3 Presigned URLs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba7b1b04e48b833d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Storage Service (S3)/S3 Select & Glacier Select.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdf76acd32bf7222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Storage Service (S3)/S3 Events.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cb5aa97b3cb2679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Storage Service (S3)/S3 Access Logs.md",
+                "file": "Cloud Computing Fundamentals/Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simple Storage Service (S3)/S3 Access Logs.md",
+                "file": "Cloud Computing Fundamentals/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simple Storage Service (S3)/S3 Access Logs.md",
+                "file": "Cloud Computing Fundamentals/Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simple Storage Service (S3)/S3 Access Logs.md"
+                "file": "Cloud Computing Fundamentals/Cloud Computing.md"
               }
             }
           }
@@ -315,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994aede02bd9c52f",
+  "active": "62983682c73afe3d",
   "lastOpenFiles": [
-    "Simple Storage Service (S3)/S3 Events.md",
-    "Simple Storage Service (S3)/S3 Select & Glacier Select.md",
-    "Simple Storage Service (S3)/S3 Presigned URLs.md",
-    "Simple Storage Service (S3)/S3 Replication.md",
-    "Simple Storage Service (S3)/S3 Lifecycle Configuration.md",
-    "Simple Storage Service (S3)/S3 Object Storage Classes.md",
-    "Simple Storage Service (S3)/S3 Encryption.md",
-    "Simple Storage Service (S3)/Key Management Service.md",
-    "Simple Storage Service (S3)/S3 Security (Resource Policies & ACLs).md",
-    "Simple Storage Service (S3)/S3 Performance Optimization.md"
+    "Cloud Computing Fundamentals/Public vs Private vs Multi vs Hybrid Cloud.md",
+    "Cloud Computing Fundamentals/Cloud Service Models.md",
+    "Virtual Private Cloud (VPC) Basics/Network Access Control Lists (NACL).md",
+    "Tech Fundamentals/Network Starter Pack.md",
+    "Virtual Private Cloud (VPC) Basics/Stateful vs Stateless Firewalls.md",
+    "Virtual Private Cloud (VPC) Basics/VPC Routing, Internet Gateway, and Bastion Hosts.md",
+    "Virtual Private Cloud (VPC) Basics/VPC Subnets.md",
+    "Virtual Private Cloud (VPC) Basics/Custom VPCs.md",
+    "Virtual Private Cloud (VPC) Basics/VPC Sizing and Structure.md",
+    "Tech Fundamentals/DNS.md"
   ]
 }

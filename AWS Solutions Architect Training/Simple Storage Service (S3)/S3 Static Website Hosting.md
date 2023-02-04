@@ -1,6 +1,11 @@
 - Access normally conducted via AWS APIs
 - Static website hosting allows access via HTTP(s)
-- Process: enable, set index and error documents
+- Process
+	- enable static web hosting
+	- set index and error documents
+	- configure bucket policy
+	- disable block public access settings
+	- upload web files
 - Website Endpoint is created
 	- Endpoint name is automatically generated
 - Custom domain via R53, but bucket name matters
