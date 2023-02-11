@@ -49,14 +49,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing Fundamentals/Cloud Computing.md",
+                "file": "Tech Fundamentals/Network Starter Pack.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fb82327ee1a0200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtual Private Cloud (VPC) Basics/VPC Security Groups (SG).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dea9f2e8476c5c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtual Private Cloud (VPC) Basics/VPC Subnets.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "702fef2c352dc496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elastic Compute Cloud (EC2) Basics/Virtualization 101.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d56ad20c240b6b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elastic Compute Cloud (EC2) Basics/EC2 Architecture and Resilience.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -122,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing Fundamentals/Cloud Computing.md",
+                "file": "Elastic Compute Cloud (EC2) Basics/EC2 Architecture and Resilience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing Fundamentals/Cloud Computing.md",
+                "file": "Elastic Compute Cloud (EC2) Basics/EC2 Architecture and Resilience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing Fundamentals/Cloud Computing.md"
+                "file": "Elastic Compute Cloud (EC2) Basics/EC2 Architecture and Resilience.md"
               }
             }
           }
@@ -183,17 +231,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62983682c73afe3d",
+  "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "Cloud Computing Fundamentals/Public vs Private vs Multi vs Hybrid Cloud.md",
-    "Cloud Computing Fundamentals/Cloud Service Models.md",
-    "Virtual Private Cloud (VPC) Basics/Network Access Control Lists (NACL).md",
-    "Tech Fundamentals/Network Starter Pack.md",
-    "Virtual Private Cloud (VPC) Basics/Stateful vs Stateless Firewalls.md",
-    "Virtual Private Cloud (VPC) Basics/VPC Routing, Internet Gateway, and Bastion Hosts.md",
+    "Elastic Compute Cloud (EC2) Basics/Virtualization 101.md",
     "Virtual Private Cloud (VPC) Basics/VPC Subnets.md",
-    "Virtual Private Cloud (VPC) Basics/Custom VPCs.md",
+    "Virtual Private Cloud (VPC) Basics/VPC Security Groups (SG).md",
+    "Virtual Private Cloud (VPC) Basics/VPC Routing, Internet Gateway, and Bastion Hosts.md",
+    "Virtual Private Cloud (VPC) Basics/Network Access Control Lists (NACL).md",
+    "Virtual Private Cloud (VPC) Basics/Network Address Translation (NAT) and NAT Gateways.md",
     "Virtual Private Cloud (VPC) Basics/VPC Sizing and Structure.md",
-    "Tech Fundamentals/DNS.md"
+    "Virtual Private Cloud (VPC) Basics/Custom VPCs.md",
+    "Tech Fundamentals/Network Starter Pack.md",
+    "Virtual Private Cloud (VPC) Basics/Stateful vs Stateless Firewalls.md"
   ]
 }

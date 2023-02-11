@@ -5,7 +5,7 @@
 - AZ Resilient
 - Subnetwork of a VPC within a specific AZ
 	- If AZ fails, subnet fails
-- 1 subnet for 1 AZ
+- An AZ can have many subnets, but a subnet is only in one AZ
 - IPv4 CIDR by default, subset of the VPC CIDR
 	- Cannot overlap with other subnets in the VPC
 	- Optional IPv6 CIDR (/64 subset of the /56 VPC - 256 addresses)
@@ -14,6 +14,7 @@
 ## Subnet IP Addressing
 
 - 10.16.16.0/20 (10.16.16.0 -> 10.16.31.255)
+- Min /28 (16 IP), max /16 (65,536 IP)
 - Reserved IP addresses (unusable, 5 in total)
 	- Network address (10.16.16.0)
 	- Network + 1 (10.16.16.1) - VPC router
