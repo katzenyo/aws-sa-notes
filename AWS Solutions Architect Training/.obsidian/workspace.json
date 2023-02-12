@@ -102,9 +102,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7aa29dcb2e26094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elastic Compute Cloud (EC2) Basics/EC2 Instance Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c744f8162c6a10ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elastic Compute Cloud (EC2) Basics/Storage Refresher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbb34945e544bcdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elastic Compute Cloud (EC2) Basics/Elastic Block Store (EBS) Service Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -170,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elastic Compute Cloud (EC2) Basics/EC2 Architecture and Resilience.md",
+                "file": "Elastic Compute Cloud (EC2) Basics/Elastic Block Store (EBS) Service Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elastic Compute Cloud (EC2) Basics/EC2 Architecture and Resilience.md",
+                "file": "Elastic Compute Cloud (EC2) Basics/Elastic Block Store (EBS) Service Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elastic Compute Cloud (EC2) Basics/EC2 Architecture and Resilience.md"
+                "file": "Elastic Compute Cloud (EC2) Basics/Elastic Block Store (EBS) Service Architecture.md"
               }
             }
           }
@@ -233,15 +269,15 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Elastic Compute Cloud (EC2) Basics/Storage Refresher.md",
+    "Elastic Compute Cloud (EC2) Basics/EC2 Instance Types.md",
+    "Elastic Compute Cloud (EC2) Basics/EC2 Architecture and Resilience.md",
     "Elastic Compute Cloud (EC2) Basics/Virtualization 101.md",
     "Virtual Private Cloud (VPC) Basics/VPC Subnets.md",
     "Virtual Private Cloud (VPC) Basics/VPC Security Groups (SG).md",
     "Virtual Private Cloud (VPC) Basics/VPC Routing, Internet Gateway, and Bastion Hosts.md",
     "Virtual Private Cloud (VPC) Basics/Network Access Control Lists (NACL).md",
     "Virtual Private Cloud (VPC) Basics/Network Address Translation (NAT) and NAT Gateways.md",
-    "Virtual Private Cloud (VPC) Basics/VPC Sizing and Structure.md",
-    "Virtual Private Cloud (VPC) Basics/Custom VPCs.md",
-    "Tech Fundamentals/Network Starter Pack.md",
-    "Virtual Private Cloud (VPC) Basics/Stateful vs Stateless Firewalls.md"
+    "Virtual Private Cloud (VPC) Basics/VPC Sizing and Structure.md"
   ]
 }
