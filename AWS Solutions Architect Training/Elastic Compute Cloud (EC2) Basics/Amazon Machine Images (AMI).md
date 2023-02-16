@@ -2,12 +2,14 @@
 > - AMIs are regional
 > 	- They only work in the region in which they're created
 > 	- Can be used to deploy into all AZs within that same region
+> 	- AMIs copied to new regions are new, separate AMIs
 > - **AMI Baking**: creating an AMI from a configured instance + app
 > - AMI can't be edited
 > 	- You must launch instance, update the config, then make a new AMI
 > - AMIs can be copied into other regions (including snapshots)
 > - Default permissions are only for your account
 > 	- Private permissions
+> 		- AMIs are private by default
 > 	- Public permissions
 > 	- Individual AWS account access
 > - Billed for capacity of EBS snapshots in an AMI

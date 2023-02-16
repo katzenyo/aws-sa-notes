@@ -1,0 +1,15 @@
+
+- Every EC2 instance has two high level status checks
+	- Start as initializing
+	- Eventually all should reach `2/2 checks passed` state
+	- System Satus check (1/2) fail reasons
+		- Loss of system power
+		- Loss of network connectivity
+		- Host software issues
+		- Host hardware issues
+	- Instance Status check (2/2)
+		- Corrupt file system
+		- Incorrect instance networking
+		- OS Kernel issues
+- Auto Recovery
+	- Moves instance to new host, starts it with same config as before
