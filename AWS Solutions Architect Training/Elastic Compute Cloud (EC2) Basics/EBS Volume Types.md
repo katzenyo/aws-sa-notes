@@ -7,6 +7,7 @@
 > 	- Low latency interactive apps
 > 	- Dev/test environments
 > - Currently default but will be replaced by GP3
+> - **Can only be attached to a single instance at a time**
 
 - Volumes range from 1GB to 16TB
 - IO credit is 16KB

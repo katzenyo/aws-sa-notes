@@ -1,7 +1,7 @@
 - Direct (local) attached storage - storage directly on the EC2 host (instance store)
 	- If disk fails, hardware fails, if instance moves between host = storage lost
 - Network attached storage - volumes delivered over network
-	- Elastic Block Store (EBS)
+	- [[Elastic Block Store (EBS) Service Architecture|Elastic Block Store (EBS)]]
 - Ephemeral storage - temporary storage
 	- Instance store (physical storage attached to an EC2 host)
 - Persistent storage - permanent storage, lives on past the lifetime of the instance

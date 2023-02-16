@@ -6,6 +6,9 @@
 > - Highest data performance, highest risk
 > - Included in the instance price
 > - **Ephemeral, temporary**
+> - Ideal for:
+> 	- Replaceable, ephemeral, temporary data
+> 	- Maximum IO
 
 - Block Storage devices
 	- Local, instead of on network

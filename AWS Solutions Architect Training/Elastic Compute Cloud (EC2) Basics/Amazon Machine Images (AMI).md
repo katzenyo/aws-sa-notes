@@ -7,6 +7,7 @@
 > - AMI can't be edited
 > 	- You must launch instance, update the config, then make a new AMI
 > - AMIs can be copied into other regions (including snapshots)
+> 	- **This is the only way to migrate an EC2 instance into another AZ**
 > - Default permissions are only for your account
 > 	- Private permissions
 > 		- AMIs are private by default

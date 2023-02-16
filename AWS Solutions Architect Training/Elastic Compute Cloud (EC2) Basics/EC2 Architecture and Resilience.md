@@ -10,8 +10,10 @@
 >[!Warning] On the Exam
 > - **EC2 Hosts run on a single AZ**
 > - **EC2 is an AZ resilient service**
-> - Cannot connect EBS or ENIs in one AZ to an EC2 instance in another AZ
+> - Cannot [[Elastic Block Store (EBS) Service Architecture|connect EBS]] or ENIs in one AZ to an EC2 instance in another AZ
 > 	- AZs are isolated, cannot be cross-connected
+> - **EC2 instances cannot be migrated between AZs**
+> 	- Must [[Amazon Machine Images (AMI)|clone an AMI]] from an instance to a new AZ in order to migrate
 
 - If instance is restarted, it remains on the same host
 - If instance is stopped, then started again, it will start on a new host
@@ -36,7 +38,7 @@ When instance is provisioned into a subnet, a primary elastic network interface 
 
 ## Storage
 
-- Connects to Elastic Block Store
+- Connects to [[Elastic Block Store (EBS) Service Architecture|Elastic Block Store]]
 - Cannot reach across different AZs
 - **AZ reliance is critical to EC2 and dependent services**
 
