@@ -1,0 +1,11 @@
+
+- [Container Definition](https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API_ContainerDefinition.html)
+	- Provides information about the container being defined
+	- Defines which image to use and which ports are exposed
+- [Task definition](https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API_TaskDefinition.html)
+	- Store resources used by tasks
+	- [Task role](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html): an IAM role that a *task* can assume (security)
+		- Best practice for giving containers permission to resources in AWS
+- Service Definition
+	- Defines how a task can scale: how many copies, HA, restarts
+	- Provides scalability and high availability
