@@ -1,4 +1,4 @@
-
+- Supports Docker container standard
 - [Container Definition](https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API_ContainerDefinition.html)
 	- Provides information about the container being defined
 	- Defines which image to use and which ports are exposed

@@ -1,7 +1,9 @@
 >[!Abstract] Key Concepts
 > - Dockerfiles are used to build images
-> - Portable: self-contained, always run as expected
-> - Lightweight: parent OS used, file system layers are shared
+> - Benefits
+> 	- Portable: self-contained, always run as expected
+> 	- Lightweight: parent OS used, file system layers are shared
+> 	- Fast to startup
 > - Container only runs the app & environment it needs
 > - Provides similar levels of isolation as VM's
 > - Ports are exposed to the host and beyond

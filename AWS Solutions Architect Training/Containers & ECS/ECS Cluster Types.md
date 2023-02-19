@@ -1,3 +1,7 @@
+- Cluster modes available within ECS
+	- Network only (Fargate)
+	- EC2 Linux + Networking
+	- EC2 Windows + Networking
 
 ## EC2 Mode
 
