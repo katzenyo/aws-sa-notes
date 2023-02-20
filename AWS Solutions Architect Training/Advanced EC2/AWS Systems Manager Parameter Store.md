@@ -14,4 +14,6 @@
 		- Latest AMIs per region
 - Public service
 	- Used by AWS service or must have access to AWS endpoints
+- Regional service
+	- Region-resilient
 - Changes to parameters in the parameter store can initiate events in other AWS products
