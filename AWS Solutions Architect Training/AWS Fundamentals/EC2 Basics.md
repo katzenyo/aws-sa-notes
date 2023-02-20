@@ -1,5 +1,5 @@
 >[!Abstract] Key Facts & Features
-> - IaaS (Infrastructure as a Service) - provides virtual machines/instances
+> - [[Cloud Service Models#Infrastructure as a Service (IaaS)|IaaS (Infrastructure as a Service)]] - provides virtual machines/instances
 > 	- unit of consumption is the VM/instance
 > - Private service by default
 > 	- Uses VPC subnetting
@@ -8,7 +8,7 @@
 > 	- If AZ fails, instance fails
 > - Different sizes, capabilities available
 > - On-demand billing, per second or per hour
-> - Local host storage or Elastic Block Store (EBS)
+> - [[Instance Store Volumes|Local host storage]] or [[Elastic Block Store (EBS) Service Architecture|Elastic Block Store EBS)]]
 
 ## Instance Lifecycle
 
@@ -20,7 +20,7 @@
 	- All underlying resources stopped
 	- All storage and stored data is deleted
 
-## Amazon Machine Image (AMI)
+## [[Amazon Machine Images (AMI)|Amazon Machine Image (AMI)]]
 
 >[!Warning] On the Exam
 >Not stored in an AMI: Instance settings and network settings

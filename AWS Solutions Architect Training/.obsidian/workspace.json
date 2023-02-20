@@ -8,139 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d2756f3aa32f8c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elastic Compute Cloud (EC2) Basics/Amazon Machine Images (AMI).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "729d2cccd4b14130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elastic Compute Cloud (EC2) Basics/EC2 Purchase Options (Launch Types).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ff8a5babe81e2cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elastic Compute Cloud (EC2) Basics/Instance Status Checks & Auto Recovery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d21c2d19837389a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elastic Compute Cloud (EC2) Basics/Instance Store Volumes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "027e170e878ae509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Containers & ECS/Introduction to Containers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2f6657e9f8aaeb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elastic Compute Cloud (EC2) Basics/Instance Metadata.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8b9a0852fead044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Containers & ECS/Elastic Container Service (ECS) Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abe5c04bce49c9a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Containers & ECS/ECS Cluster Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1de51b85ba48b94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Containers & ECS/Elastic Container Registry (ECR).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe85681650435f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Containers & ECS/Kubernetes 101.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fea203e73e3d540a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Containers & ECS/Introduction to Containers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cdd30c7b6129f94",
+            "id": "df3ef3d312c6b591",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,67 +20,19 @@
             }
           },
           {
-            "id": "ec7ef56f0318b795",
+            "id": "4770bba72e1e2b32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced EC2/Enhanced Bootstrapping with CFN-INIT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59770806e307884c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced EC2/EC2 Instance Roles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68fd8d47f7b92167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced EC2/AWS Systems Manager Parameter Store.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea2ef169b89af10f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced EC2/AWS Systems Manager Parameter Store.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2733e129bb68b3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced EC2/EC2 Placement Groups.md",
+                "file": "Route 53 - Global DNS/Route 53 Public Hosted Zones.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced EC2/EC2 Placement Groups.md",
+                "file": "Route 53 - Global DNS/Route 53 Public Hosted Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced EC2/EC2 Placement Groups.md",
+                "file": "Route 53 - Global DNS/Route 53 Public Hosted Zones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced EC2/EC2 Placement Groups.md"
+                "file": "Route 53 - Global DNS/Route 53 Public Hosted Zones.md"
               }
             }
           }
@@ -341,15 +161,15 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Advanced EC2/Bootstrapping EC2 using User Data.md",
+    "Advanced EC2/Enhanced Bootstrapping with CFN-INIT.md",
+    "Advanced EC2/EC2 Placement Groups.md",
     "Advanced EC2/AWS Systems Manager Parameter Store.md",
     "Advanced EC2/System And Application Logging on EC2.md",
+    "Advanced EC2/Enhanced Networking & EBS Optimized.md",
     "Advanced EC2/EC2 Instance Roles.md",
-    "Advanced EC2/Enhanced Bootstrapping with CFN-INIT.md",
-    "Advanced EC2/Bootstrapping EC2 using User Data.md",
+    "Advanced EC2/EC2 Dedicated Hosts.md",
     "Containers & ECS/Introduction to Containers.md",
-    "Containers & ECS/Elastic Container Service (ECS) Concepts.md",
-    "Containers & ECS/Elastic Container Registry (ECR).md",
-    "Containers & ECS/ECS Cluster Types.md",
-    "Containers & ECS/Elastic Kubernetes Service 101 (EKS).md"
+    "Containers & ECS/Kubernetes 101.md"
   ]
 }

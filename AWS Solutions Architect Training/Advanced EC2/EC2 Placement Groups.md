@@ -43,10 +43,10 @@
 > - 7 instances per AZ (hard limit)
 > - Spans multiple AZs
 > - Not supported for Dedicated Instances or Hosts
-> - Ideal for:
-> 	- Small number of critical instances that need to be kept separated from each other
-> 	- e.g. file servers, domain controllers
-> 	- Highest possible availability
+> - **Ideal for:**
+> 	- **Small number of critical instances that need to be kept separated from each other**
+> 	- **e.g. file servers, domain controllers**
+> 	- **Highest possible availability and resilience**
 
 ## Partition Placement Groups
 
@@ -54,10 +54,11 @@
 > - **7 partitions per AZ (hard limit)**
 > 	- Infinite # of instances per partition
 > - Instances can be placed in a specific partition or they can be auto placed
-> - Ideal for:
-> 	- Topology-aware applications
-> 		- HDFS, HBase, Cassandra
-> 	- Containing the impact of hardware failure to part of an application
+> - Exposed to physical location (???)
+> - **Ideal for:**
+> 	- **Topology-aware applications**
+> 		- **HDFS, HBase, Cassandra**
+> 	- **Containing the impact of hardware failure to part of an application**
 
 - For infrastructure exceeding 7 instances per AZ but still require separate fault domains
 - Created across multiple AZs

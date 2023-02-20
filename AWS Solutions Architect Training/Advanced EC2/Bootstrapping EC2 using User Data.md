@@ -1,12 +1,12 @@
 >[!Important] Key points
 > - Opaque to EC2
 > 	- Simply a block of data
-> - NOT secure
-> 	- Don't use for passwords or long term creds
+> - **NOT secure**
+> 	- **Don't use for passwords or long term creds**
 > - User data is limited to 16KB in size
 > - User Data can be modified when instance stopped
-> 	- Contents of User Data is only executed once at launch
-> 		- Used for the one initial launch of the instance
+> - **Contents of User Data is only executed once the instance is provisioned**
+> 	- **Used for the one initial launch of the instance**
 
 - Most powerful features of EC2
 - Allows EC2 Build Automation
