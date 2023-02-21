@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89a176387735c602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Route 53 - Global DNS/Route 53 Private Hosted Zones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Route 53 - Global DNS/Route 53 Public Hosted Zones.md",
+                "file": "Route 53 - Global DNS/Route 53 Private Hosted Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Route 53 - Global DNS/Route 53 Public Hosted Zones.md",
+                "file": "Route 53 - Global DNS/Route 53 Private Hosted Zones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Route 53 - Global DNS/Route 53 Public Hosted Zones.md"
+                "file": "Route 53 - Global DNS/Route 53 Private Hosted Zones.md"
               }
             }
           }
@@ -161,6 +173,8 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Route 53 - Global DNS/Route 53 Public Hosted Zones.md",
+    "AWS Fundamentals/DNS Record Types.md",
     "Advanced EC2/Bootstrapping EC2 using User Data.md",
     "Advanced EC2/Enhanced Bootstrapping with CFN-INIT.md",
     "Advanced EC2/EC2 Placement Groups.md",
@@ -168,8 +182,6 @@
     "Advanced EC2/System And Application Logging on EC2.md",
     "Advanced EC2/Enhanced Networking & EBS Optimized.md",
     "Advanced EC2/EC2 Instance Roles.md",
-    "Advanced EC2/EC2 Dedicated Hosts.md",
-    "Containers & ECS/Introduction to Containers.md",
-    "Containers & ECS/Kubernetes 101.md"
+    "Advanced EC2/EC2 Dedicated Hosts.md"
   ]
 }
