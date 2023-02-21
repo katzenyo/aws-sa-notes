@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b28a0adc50953f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Database Service (RDS)/Databases on EC2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60850b2eb6bb45ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Database Service (RDS)/ACID vs BASE.md",
+                "file": "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Database Service (RDS)/ACID vs BASE.md",
+                "file": "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational Database Service (RDS)/ACID vs BASE.md"
+                "file": "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md"
               }
             }
           }
@@ -171,8 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75064c28bb460bb9",
+  "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Relational Database Service (RDS)/Databases on EC2.md",
+    "Relational Database Service (RDS)/ACID vs BASE.md",
     "Relational Database Service (RDS)/Database Refresher & Models.md",
     "Route 53 - Global DNS/Private Hosted Zones.md",
     "Route 53 - Global DNS/Interoperability.md",
@@ -180,8 +206,6 @@
     "Route 53 - Global DNS/Geolocation Routing.md",
     "Route 53 - Global DNS/Latency-based Routing.md",
     "Route 53 - Global DNS/Weighted Routing.md",
-    "Route 53 - Global DNS/Multi Value Routing.md",
-    "Route 53 - Global DNS/Public Hosted Zones.md",
-    "Route 53 - Global DNS/Failover Routing.md"
+    "Route 53 - Global DNS/Multi Value Routing.md"
   ]
 }
