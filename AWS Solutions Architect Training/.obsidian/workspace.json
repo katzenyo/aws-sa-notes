@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae49035c0d6758a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Database Service (RDS)/RDS MultiAZ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9dfb68c05cf3eb56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Database Service (RDS)/RDS Backup and Restore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
+                "file": "Relational Database Service (RDS)/RDS Backup and Restore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
+                "file": "Relational Database Service (RDS)/RDS Backup and Restore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md"
+                "file": "Relational Database Service (RDS)/RDS Backup and Restore.md"
               }
             }
           }
@@ -197,6 +221,8 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Relational Database Service (RDS)/RDS MultiAZ.md",
+    "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
     "Relational Database Service (RDS)/Databases on EC2.md",
     "Relational Database Service (RDS)/ACID vs BASE.md",
     "Relational Database Service (RDS)/Database Refresher & Models.md",
@@ -204,8 +230,6 @@
     "Route 53 - Global DNS/Interoperability.md",
     "Route 53 - Global DNS/Geoproximity Routing.md",
     "Route 53 - Global DNS/Geolocation Routing.md",
-    "Route 53 - Global DNS/Latency-based Routing.md",
-    "Route 53 - Global DNS/Weighted Routing.md",
-    "Route 53 - Global DNS/Multi Value Routing.md"
+    "Route 53 - Global DNS/Latency-based Routing.md"
   ]
 }
