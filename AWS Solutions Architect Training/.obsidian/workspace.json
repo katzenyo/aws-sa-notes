@@ -138,9 +138,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47fe9629a9f87106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Database Service (RDS)/Aurora Serverless.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0f6b980f222491a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Database Service (RDS)/Aurora Global Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -206,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Database Service (RDS)/Amazon Aurora Architecture.md",
+                "file": "Relational Database Service (RDS)/Aurora Global Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Database Service (RDS)/Amazon Aurora Architecture.md",
+                "file": "Relational Database Service (RDS)/Aurora Global Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational Database Service (RDS)/Amazon Aurora Architecture.md"
+                "file": "Relational Database Service (RDS)/Aurora Global Database.md"
               }
             }
           }
@@ -267,8 +291,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e8131190d675485",
+  "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Relational Database Service (RDS)/Aurora Serverless.md",
+    "Relational Database Service (RDS)/Amazon Aurora Architecture.md",
     "Relational Database Service (RDS)/RDS Custom.md",
     "Relational Database Service (RDS)/RDS Data Security.md",
     "Relational Database Service (RDS)/RDS Read Replicas.md",
@@ -276,8 +302,6 @@
     "Tech Fundamentals/RPO and RTO.md",
     "Relational Database Service (RDS)/RDS MultiAZ.md",
     "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
-    "Relational Database Service (RDS)/Databases on EC2.md",
-    "Relational Database Service (RDS)/ACID vs BASE.md",
-    "Relational Database Service (RDS)/Database Refresher & Models.md"
+    "Relational Database Service (RDS)/Databases on EC2.md"
   ]
 }
