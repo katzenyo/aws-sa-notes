@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e8131190d675485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Database Service (RDS)/Amazon Aurora Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Database Service (RDS)/RDS Custom.md",
+                "file": "Relational Database Service (RDS)/Amazon Aurora Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Database Service (RDS)/RDS Custom.md",
+                "file": "Relational Database Service (RDS)/Amazon Aurora Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational Database Service (RDS)/RDS Custom.md"
+                "file": "Relational Database Service (RDS)/Amazon Aurora Architecture.md"
               }
             }
           }
@@ -255,8 +267,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994aede02bd9c52f",
+  "active": "9e8131190d675485",
   "lastOpenFiles": [
+    "Relational Database Service (RDS)/RDS Custom.md",
     "Relational Database Service (RDS)/RDS Data Security.md",
     "Relational Database Service (RDS)/RDS Read Replicas.md",
     "Relational Database Service (RDS)/RDS Backup and Restore.md",
@@ -265,7 +278,6 @@
     "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
     "Relational Database Service (RDS)/Databases on EC2.md",
     "Relational Database Service (RDS)/ACID vs BASE.md",
-    "Relational Database Service (RDS)/Database Refresher & Models.md",
-    "Route 53 - Global DNS/Private Hosted Zones.md"
+    "Relational Database Service (RDS)/Database Refresher & Models.md"
   ]
 }
