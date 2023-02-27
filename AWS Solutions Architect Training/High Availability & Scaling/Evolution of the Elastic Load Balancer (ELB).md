@@ -1,0 +1,16 @@
+
+- 3 types of load balancers (ELB) available in AWS
+- Split between v1 and v2
+	- Avoid v1 ELBs
+- Classic Load Balancer (CLB)
+	- v1, introduced in 2009
+- Not Layer 7, lack features, only 1 SSL cert per CLB
+	- Default to not using CLBs
+- Application Load Balancer (ALB)
+	- v2
+	- HTTP/S/WebSocket
+- Network Load Balancer (NLB)
+	- v2
+	- TCP, TLS, UDP
+	- Email servers, SSH servers, custom protocols
+- V2 = faster, cheaper, support target groups and rules

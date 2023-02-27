@@ -54,9 +54,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfead4c26ce2d0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Availability & Scaling/Regional and Global AWS Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71e63da741b0c02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Availability & Scaling/Evolution of the Elastic Load Balancer (ELB).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04715f6a3bcdffa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Availability & Scaling/Elastic Load Balancer (ELB) Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45ba35715c93bff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -122,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Storage & Data Lifecycle/AWS Backup.md",
+                "file": "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Storage & Data Lifecycle/AWS Backup.md",
+                "file": "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Storage & Data Lifecycle/AWS Backup.md"
+                "file": "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md"
               }
             }
           }
@@ -185,15 +233,15 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "High Availability & Scaling/Elastic Load Balancer (ELB) Architecture.md",
+    "High Availability & Scaling/Evolution of the Elastic Load Balancer (ELB).md",
+    "High Availability & Scaling/Regional and Global AWS Architecture.md",
+    "Network Storage & Data Lifecycle/AWS Backup.md",
     "Network Storage & Data Lifecycle/Elastic File System (EFS) Architecture.md",
     "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
     "Relational Database Service (RDS)/RDS Read Replicas (RR).md",
     "Relational Database Service (RDS)/RDS Backup and Restore.md",
     "Relational Database Service (RDS)/RDS MultiAZ.md",
-    "Relational Database Service (RDS)/RDS Custom.md",
-    "Relational Database Service (RDS)/RDS Data Security.md",
-    "Relational Database Service (RDS)/RDS Proxy.md",
-    "Relational Database Service (RDS)/ACID vs BASE.md",
-    "Relational Database Service (RDS)/Amazon Aurora Architecture.md"
+    "Relational Database Service (RDS)/RDS Custom.md"
   ]
 }
