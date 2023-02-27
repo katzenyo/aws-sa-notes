@@ -8,163 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5aa5f838a45fbee",
+            "id": "975d28da9074854f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Route 53 - Global DNS/Private Hosted Zones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "137e6b35828ecca2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/Database Refresher & Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75064c28bb460bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/ACID vs BASE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b28a0adc50953f25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/Databases on EC2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60850b2eb6bb45ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae49035c0d6758a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/RDS MultiAZ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dfb68c05cf3eb56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/RDS Backup and Restore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7254e3a908dcc1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/RDS Read Replicas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "550a5822460d3cb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/RDS Data Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b90e64ab4eeab537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/RDS Custom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e8131190d675485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/Amazon Aurora Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47fe9629a9f87106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/Aurora Serverless.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0f6b980f222491a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/Aurora Global Database.md",
+                "file": "Relational Database Service (RDS)/RDS Proxy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Database Service (RDS)/Aurora Global Database.md",
+                "file": "Relational Database Service (RDS)/RDS Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Database Service (RDS)/Aurora Global Database.md",
+                "file": "Relational Database Service (RDS)/RDS Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational Database Service (RDS)/Aurora Global Database.md"
+                "file": "Relational Database Service (RDS)/RDS Proxy.md"
               }
             }
           }
@@ -291,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994aede02bd9c52f",
+  "active": "975d28da9074854f",
   "lastOpenFiles": [
-    "Relational Database Service (RDS)/Aurora Serverless.md",
+    "Relational Database Service (RDS)/Aurora Multi-Master Writes.md",
     "Relational Database Service (RDS)/Amazon Aurora Architecture.md",
+    "Relational Database Service (RDS)/Aurora Serverless.md",
+    "Relational Database Service (RDS)/Aurora Global Database.md",
     "Relational Database Service (RDS)/RDS Custom.md",
     "Relational Database Service (RDS)/RDS Data Security.md",
     "Relational Database Service (RDS)/RDS Read Replicas.md",
     "Relational Database Service (RDS)/RDS Backup and Restore.md",
     "Tech Fundamentals/RPO and RTO.md",
-    "Relational Database Service (RDS)/RDS MultiAZ.md",
-    "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
-    "Relational Database Service (RDS)/Databases on EC2.md"
+    "Relational Database Service (RDS)/RDS MultiAZ.md"
   ]
 }
