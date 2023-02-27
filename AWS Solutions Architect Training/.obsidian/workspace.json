@@ -102,9 +102,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "944aa1e7bb49ad31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Availability & Scaling/Launch Configuration & Launch Templates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b456e6df858aed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Availability & Scaling/Auto Scaling Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -170,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
+                "file": "High Availability & Scaling/Auto Scaling Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
+                "file": "High Availability & Scaling/Auto Scaling Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md"
+                "file": "High Availability & Scaling/Auto Scaling Groups.md"
               }
             }
           }
@@ -233,6 +257,8 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "High Availability & Scaling/Launch Configuration & Launch Templates.md",
+    "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
     "High Availability & Scaling/Elastic Load Balancer (ELB) Architecture.md",
     "High Availability & Scaling/Evolution of the Elastic Load Balancer (ELB).md",
     "High Availability & Scaling/Regional and Global AWS Architecture.md",
@@ -240,8 +266,6 @@
     "Network Storage & Data Lifecycle/Elastic File System (EFS) Architecture.md",
     "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
     "Relational Database Service (RDS)/RDS Read Replicas (RR).md",
-    "Relational Database Service (RDS)/RDS Backup and Restore.md",
-    "Relational Database Service (RDS)/RDS MultiAZ.md",
-    "Relational Database Service (RDS)/RDS Custom.md"
+    "Relational Database Service (RDS)/RDS Backup and Restore.md"
   ]
 }
