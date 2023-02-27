@@ -8,6 +8,7 @@
 	- First snapshot is a full snapshot of all consumed data
 	- Subsequent snapshots are incrementals
 	- Snapshots must be deleted manually
+	- Manual snapshots are available for up to 1 year
 - AWS Managed S3 buckets for S3
 
 ### Cross-Region

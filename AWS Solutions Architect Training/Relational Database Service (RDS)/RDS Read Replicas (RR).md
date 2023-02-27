@@ -2,7 +2,7 @@
 - Synchronous
 	- Means multi-AZ
 - Asynchronous
-	- Means read replicas
+	- Means read replicas (RR)
 
 ## Performance Improvements
 

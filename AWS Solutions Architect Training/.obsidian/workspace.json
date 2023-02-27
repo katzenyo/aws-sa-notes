@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a5fc8f5d61368ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1185bbd70038825f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Storage & Data Lifecycle/Elastic File System (EFS) Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Database Service (RDS)/RDS Proxy.md",
+                "file": "Network Storage & Data Lifecycle/Elastic File System (EFS) Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Database Service (RDS)/RDS Proxy.md",
+                "file": "Network Storage & Data Lifecycle/Elastic File System (EFS) Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational Database Service (RDS)/RDS Proxy.md"
+                "file": "Network Storage & Data Lifecycle/Elastic File System (EFS) Architecture.md"
               }
             }
           }
@@ -146,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "975d28da9074854f",
+  "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "Relational Database Service (RDS)/Aurora Multi-Master Writes.md",
-    "Relational Database Service (RDS)/Amazon Aurora Architecture.md",
-    "Relational Database Service (RDS)/Aurora Serverless.md",
-    "Relational Database Service (RDS)/Aurora Global Database.md",
+    "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
+    "Relational Database Service (RDS)/RDS Read Replicas (RR).md",
+    "Relational Database Service (RDS)/RDS Backup and Restore.md",
+    "Relational Database Service (RDS)/RDS MultiAZ.md",
     "Relational Database Service (RDS)/RDS Custom.md",
     "Relational Database Service (RDS)/RDS Data Security.md",
-    "Relational Database Service (RDS)/RDS Read Replicas.md",
-    "Relational Database Service (RDS)/RDS Backup and Restore.md",
-    "Tech Fundamentals/RPO and RTO.md",
-    "Relational Database Service (RDS)/RDS MultiAZ.md"
+    "Relational Database Service (RDS)/RDS Proxy.md",
+    "Relational Database Service (RDS)/ACID vs BASE.md",
+    "Relational Database Service (RDS)/Amazon Aurora Architecture.md",
+    "Relational Database Service (RDS)/Database Refresher & Models.md"
   ]
 }

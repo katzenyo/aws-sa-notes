@@ -2,7 +2,7 @@
 - Database as a Service (not the case)
 	- Database Server as a Service (DBSaaS)
 	- Multiple DB on one DB server (instance)
-- Choice of DB engines
+- Designed for SQL DB's
 	- MySQL
 	- MariaDB
 	- PostgreSQL
@@ -16,6 +16,7 @@
 ## Architecture
 
 >[!Warning] On the Exam
+> - RDS is designed for SQL DB's
 > - Subnet Group
 > 	- The subnets that RDS is allowed to use
 > - Each RDS instance can have multiple databases on them
@@ -35,4 +36,4 @@
 	3. Storage type & amount
 	4. Data Transferred ($ per GB)
 	5. Backups & Snapshots (First 2TB free)
-	6. Licensing (if applicable)
+	6. Licensing (if applicab le)

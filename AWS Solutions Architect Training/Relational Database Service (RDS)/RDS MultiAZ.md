@@ -14,6 +14,7 @@
 	- Points at primary database instance
 - Automatic failover
 	- CNAME changes to point at standby DB
+		- Can only be accessed in event of a failover
 	- Takes 60-120 secs to occur
 		- Affected by DNS caching
 	- Failover reasons: AZ Outage, Primary failure, manual failover, instance type change, and software patching
