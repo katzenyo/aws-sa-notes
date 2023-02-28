@@ -126,9 +126,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12ec1557a4795c38",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230227195925.png"
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "High Availability & Scaling/Auto Scaling Groups.md",
+                "file": "Images/Pasted image 20230227195925.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "High Availability & Scaling/Auto Scaling Groups.md",
+                "file": "Images/Pasted image 20230227195925.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "High Availability & Scaling/Auto Scaling Groups.md"
+                "file": "Images/Pasted image 20230227195925.png"
               }
             }
           }
@@ -257,6 +267,8 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "High Availability & Scaling/Auto Scaling Group Scaling Policies.md",
+    "High Availability & Scaling/Auto Scaling Groups.md",
     "High Availability & Scaling/Launch Configuration & Launch Templates.md",
     "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
     "High Availability & Scaling/Elastic Load Balancer (ELB) Architecture.md",
@@ -264,8 +276,6 @@
     "High Availability & Scaling/Regional and Global AWS Architecture.md",
     "Network Storage & Data Lifecycle/AWS Backup.md",
     "Network Storage & Data Lifecycle/Elastic File System (EFS) Architecture.md",
-    "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
-    "Relational Database Service (RDS)/RDS Read Replicas (RR).md",
-    "Relational Database Service (RDS)/RDS Backup and Restore.md"
+    "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md"
   ]
 }
