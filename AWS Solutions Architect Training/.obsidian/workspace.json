@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High Availability & Scaling/SSL Offload & Session Stickiness.md",
+                "file": "High Availability & Scaling/Launch Configuration & Launch Templates.md",
                 "mode": "source",
                 "source": false
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "High Availability & Scaling/SSL Offload & Session Stickiness.md",
+                "file": "High Availability & Scaling/Launch Configuration & Launch Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "High Availability & Scaling/SSL Offload & Session Stickiness.md",
+                "file": "High Availability & Scaling/Launch Configuration & Launch Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "High Availability & Scaling/SSL Offload & Session Stickiness.md"
+                "file": "High Availability & Scaling/Launch Configuration & Launch Templates.md"
               }
             }
           }
@@ -303,6 +303,7 @@
   },
   "active": "9510fa9d38d01009",
   "lastOpenFiles": [
+    "High Availability & Scaling/SSL Offload & Session Stickiness.md",
     "High Availability & Scaling/Auto Scaling Group Health Checks.md",
     "High Availability & Scaling/Auto Scaling Group Lifecycle Hooks.md",
     "Images/Pasted image 20230227195925.png",
@@ -311,7 +312,6 @@
     "High Availability & Scaling/Launch Configuration & Launch Templates.md",
     "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
     "High Availability & Scaling/Elastic Load Balancer (ELB) Architecture.md",
-    "High Availability & Scaling/Evolution of the Elastic Load Balancer (ELB).md",
-    "High Availability & Scaling/Regional and Global AWS Architecture.md"
+    "High Availability & Scaling/Evolution of the Elastic Load Balancer (ELB).md"
   ]
 }
