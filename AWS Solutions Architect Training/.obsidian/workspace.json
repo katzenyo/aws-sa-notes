@@ -136,9 +136,45 @@
                 "file": "Images/Pasted image 20230227195925.png"
               }
             }
+          },
+          {
+            "id": "36f16571c880cc07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Availability & Scaling/Auto Scaling Group Lifecycle Hooks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "189d0883190bd5d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Availability & Scaling/Auto Scaling Group Health Checks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9510fa9d38d01009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Availability & Scaling/SSL Offload & Session Stickiness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -204,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20230227195925.png",
+                "file": "High Availability & Scaling/SSL Offload & Session Stickiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20230227195925.png",
+                "file": "High Availability & Scaling/SSL Offload & Session Stickiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20230227195925.png"
+                "file": "High Availability & Scaling/SSL Offload & Session Stickiness.md"
               }
             }
           }
@@ -265,17 +301,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994aede02bd9c52f",
+  "active": "9510fa9d38d01009",
   "lastOpenFiles": [
+    "High Availability & Scaling/Auto Scaling Group Health Checks.md",
+    "High Availability & Scaling/Auto Scaling Group Lifecycle Hooks.md",
+    "Images/Pasted image 20230227195925.png",
     "High Availability & Scaling/Auto Scaling Group Scaling Policies.md",
     "High Availability & Scaling/Auto Scaling Groups.md",
     "High Availability & Scaling/Launch Configuration & Launch Templates.md",
     "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
     "High Availability & Scaling/Elastic Load Balancer (ELB) Architecture.md",
     "High Availability & Scaling/Evolution of the Elastic Load Balancer (ELB).md",
-    "High Availability & Scaling/Regional and Global AWS Architecture.md",
-    "Network Storage & Data Lifecycle/AWS Backup.md",
-    "Network Storage & Data Lifecycle/Elastic File System (EFS) Architecture.md",
-    "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md"
+    "High Availability & Scaling/Regional and Global AWS Architecture.md"
   ]
 }
