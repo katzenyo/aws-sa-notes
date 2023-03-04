@@ -36,7 +36,7 @@
 - Cooldown Periods
 	- Value in seconds, how long to wait to perform the next scaling action
 
-## Health
+## [[Auto Scaling Group Health Checks|Health]]
 
 - Auto Scaling Groups also monitor health
 - If instance fails, ASG terminates and replaces the instance with a new one

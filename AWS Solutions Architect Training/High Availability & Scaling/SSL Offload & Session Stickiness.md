@@ -13,10 +13,10 @@
 	- NLB passes connection to instances
 	- Each instance must have SSL cert installed
 	- No cert exposure to AWS, everything is self-managed and secure
-		- No enceryption or decryption happens on the NLB itself
+		- No encryption or decryption happens on the NLB itself
 	- Listener is configured for TCP
 - SSL Offload Mode
-	- Listener is configured for HTTPS
+	- Listener (load balancer) is configured for HTTPS
 	- Connections are terminated, ELB then connects to backend using HTTP
 		- No cert or cryptographic requirements
 		- Data is sent in plaintext over AWS

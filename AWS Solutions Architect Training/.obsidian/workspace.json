@@ -167,14 +167,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High Availability & Scaling/Launch Configuration & Launch Templates.md",
+                "file": "High Availability & Scaling/SSL Offload & Session Stickiness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db51db604c10bda5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Availability & Scaling/Auto Scaling Groups.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -240,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "High Availability & Scaling/Launch Configuration & Launch Templates.md",
+                "file": "High Availability & Scaling/Auto Scaling Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "High Availability & Scaling/Launch Configuration & Launch Templates.md",
+                "file": "High Availability & Scaling/Auto Scaling Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "High Availability & Scaling/Launch Configuration & Launch Templates.md"
+                "file": "High Availability & Scaling/Auto Scaling Groups.md"
               }
             }
           }
@@ -301,17 +313,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9510fa9d38d01009",
+  "active": "db51db604c10bda5",
   "lastOpenFiles": [
-    "High Availability & Scaling/SSL Offload & Session Stickiness.md",
-    "High Availability & Scaling/Auto Scaling Group Health Checks.md",
     "High Availability & Scaling/Auto Scaling Group Lifecycle Hooks.md",
-    "Images/Pasted image 20230227195925.png",
-    "High Availability & Scaling/Auto Scaling Group Scaling Policies.md",
     "High Availability & Scaling/Auto Scaling Groups.md",
+    "High Availability & Scaling/Auto Scaling Group Scaling Policies.md",
     "High Availability & Scaling/Launch Configuration & Launch Templates.md",
+    "High Availability & Scaling/SSL Offload & Session Stickiness.md",
     "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
     "High Availability & Scaling/Elastic Load Balancer (ELB) Architecture.md",
-    "High Availability & Scaling/Evolution of the Elastic Load Balancer (ELB).md"
+    "High Availability & Scaling/Gateway Load Balancer.md",
+    "High Availability & Scaling/Auto Scaling Group Health Checks.md",
+    "Images/Pasted image 20230227195925.png"
   ]
 }
