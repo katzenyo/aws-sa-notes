@@ -184,9 +184,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ef8751b5ee83716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless & Application Services/Architecture Deep Dive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fab9592c08246247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless & Application Services/AWS Lambda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -252,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "High Availability & Scaling/Auto Scaling Groups.md",
+                "file": "Serverless & Application Services/AWS Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "High Availability & Scaling/Auto Scaling Groups.md",
+                "file": "Serverless & Application Services/AWS Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "High Availability & Scaling/Auto Scaling Groups.md"
+                "file": "Serverless & Application Services/AWS Lambda.md"
               }
             }
           }
@@ -313,17 +337,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db51db604c10bda5",
+  "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "High Availability & Scaling/Auto Scaling Group Lifecycle Hooks.md",
+    "Serverless & Application Services/Architecture Deep Dive.md",
     "High Availability & Scaling/Auto Scaling Groups.md",
+    "High Availability & Scaling/Auto Scaling Group Lifecycle Hooks.md",
     "High Availability & Scaling/Auto Scaling Group Scaling Policies.md",
     "High Availability & Scaling/Launch Configuration & Launch Templates.md",
     "High Availability & Scaling/SSL Offload & Session Stickiness.md",
     "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
     "High Availability & Scaling/Elastic Load Balancer (ELB) Architecture.md",
     "High Availability & Scaling/Gateway Load Balancer.md",
-    "High Availability & Scaling/Auto Scaling Group Health Checks.md",
-    "Images/Pasted image 20230227195925.png"
+    "High Availability & Scaling/Auto Scaling Group Health Checks.md"
   ]
 }
