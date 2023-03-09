@@ -30,9 +30,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ca3011a3f9d4262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless & Application Services/Serverless Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a2d3760bca22e02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless & Application Services/Simple Notification Service (SNS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b4b4a8ee58886cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless & Application Services/AWS Step Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "126b2e2727453135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless & Application Services/API Gateway.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serverless & Application Services/CloudWatch Events and EventBridge.md",
+                "file": "Serverless & Application Services/API Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serverless & Application Services/CloudWatch Events and EventBridge.md",
+                "file": "Serverless & Application Services/API Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serverless & Application Services/CloudWatch Events and EventBridge.md"
+                "file": "Serverless & Application Services/API Gateway.md"
               }
             }
           }
@@ -161,15 +209,18 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Serverless & Application Services/AWS Step Functions.md",
+    "Serverless & Application Services/API Gateway.md",
+    "Images/Pasted image 20230309144540.png",
+    "Serverless & Application Services/Simple Notification Service (SNS).md",
+    "Serverless & Application Services/Serverless Architecture.md",
+    "Serverless & Application Services/CloudWatch Events and EventBridge.md",
     "Serverless & Application Services/AWS Lambda.md",
     "Images/Pasted image 20230304214628.png",
     "Images/Pasted image 20230304215031.png",
     "Pasted image 20230304215033.png",
     "Images/Pasted image 20230304182701.png",
     "Images/Pasted image 20230304193622.png",
-    "Images/Pasted image 20230304192337.png",
-    "Serverless & Application Services/Architecture Deep Dive.md",
-    "High Availability & Scaling/Auto Scaling Groups.md",
-    "High Availability & Scaling/Auto Scaling Group Lifecycle Hooks.md"
+    "Images/Pasted image 20230304192337.png"
   ]
 }
