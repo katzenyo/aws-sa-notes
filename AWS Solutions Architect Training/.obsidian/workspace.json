@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d85ba6164722faf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless & Application Services/SQS Dead-Letter Queues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serverless & Application Services/SQS Delay Queues.md",
+                "file": "Serverless & Application Services/SQS Dead-Letter Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serverless & Application Services/SQS Delay Queues.md",
+                "file": "Serverless & Application Services/SQS Dead-Letter Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serverless & Application Services/SQS Delay Queues.md"
+                "file": "Serverless & Application Services/SQS Dead-Letter Queues.md"
               }
             }
           }
@@ -245,8 +257,9 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "Serverless & Application Services/SQS Standard vs FIFO.md",
     "Serverless & Application Services/SQS Delay Queues.md",
+    "Serverless & Application Services/SQS Dead-Letter Queues.md",
+    "Serverless & Application Services/SQS Standard vs FIFO.md",
     "Serverless & Application Services/Simple Queue Service (SQS).md",
     "Images/Pasted image 20230309160621.png",
     "Images/Pasted image 20230309160450.png",
