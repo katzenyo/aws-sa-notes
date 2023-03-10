@@ -126,9 +126,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd506054d4c4314d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless & Application Services/Kinesis Data Streams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47cb1e3f54d73a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless & Application Services/Kinesis Data Firehose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serverless & Application Services/SQS Dead-Letter Queues.md",
+                "file": "Serverless & Application Services/Kinesis Data Firehose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serverless & Application Services/SQS Dead-Letter Queues.md",
+                "file": "Serverless & Application Services/Kinesis Data Firehose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serverless & Application Services/SQS Dead-Letter Queues.md"
+                "file": "Serverless & Application Services/Kinesis Data Firehose.md"
               }
             }
           }
@@ -257,9 +281,12 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Serverless & Application Services/Kinesis Data Streams.md",
+    "Serverless & Application Services/Kinesis Data Firehose.md",
+    "Images/Pasted image 20230309184259.png",
+    "Serverless & Application Services/SQS Dead-Letter Queues.md",
     "Images/Pasted image 20230309183943.png",
     "Serverless & Application Services/SQS Delay Queues.md",
-    "Serverless & Application Services/SQS Dead-Letter Queues.md",
     "Serverless & Application Services/SQS Standard vs FIFO.md",
     "Serverless & Application Services/Simple Queue Service (SQS).md",
     "Images/Pasted image 20230309160621.png",
@@ -275,8 +302,6 @@
     "Serverless & Application Services/Serverless Architecture.md",
     "Serverless & Application Services/CloudWatch Events and EventBridge.md",
     "Serverless & Application Services/AWS Lambda.md",
-    "Images/Pasted image 20230304214628.png",
-    "Images/Pasted image 20230304215031.png",
-    "Pasted image 20230304215033.png"
+    "Images/Pasted image 20230304214628.png"
   ]
 }
