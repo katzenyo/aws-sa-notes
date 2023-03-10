@@ -174,9 +174,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d28a2390e77180be",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230310151616.png"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -242,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serverless & Application Services/Kinesis Video Streams.md",
+                "file": "Images/Pasted image 20230310151616.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serverless & Application Services/Kinesis Video Streams.md",
+                "file": "Images/Pasted image 20230310151616.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serverless & Application Services/Kinesis Video Streams.md"
+                "file": "Images/Pasted image 20230310151616.png"
               }
             }
           }
@@ -305,9 +315,13 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "Serverless & Application Services/Pasted image 20230310150622.png",
-    "Serverless & Application Services/Kinesis Data Analytics.md",
+    "Serverless & Application Services/Amazon Cognito.md",
+    "Images/Pasted image 20230310151616.png",
+    "Images/Pasted image 20230310151450.png",
+    "Images/Pasted image 20230310151248.png",
     "Serverless & Application Services/Kinesis Video Streams.md",
+    "Images/Pasted image 20230310150622.png",
+    "Serverless & Application Services/Kinesis Data Analytics.md",
     "Images/Pasted image 20230310144258.png",
     "Serverless & Application Services/Kinesis Data Firehose.md",
     "Images/Pasted image 20230310131001.png",
@@ -321,10 +335,6 @@
     "Images/Pasted image 20230309160621.png",
     "Images/Pasted image 20230309160450.png",
     "Serverless & Application Services/API Gateway.md",
-    "Images/Pasted image 20230309150030.png",
-    "Images/Pasted image 20230309145723.png",
-    "Images/Pasted image 20230309145531.png",
-    "Images/Pasted image 20230309145347.png",
     "Serverless & Application Services/AWS Step Functions.md",
     "Serverless & Application Services/Simple Notification Service (SNS).md",
     "Serverless & Application Services/Serverless Architecture.md",
