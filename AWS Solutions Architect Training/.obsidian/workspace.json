@@ -78,9 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "017a30ee774246c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless & Application Services/Simple Queue Service (SQS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dc2d4ac55118861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless & Application Services/SQS Standard vs FIFO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96638c1409c8b279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless & Application Services/SQS Delay Queues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serverless & Application Services/API Gateway.md",
+                "file": "Serverless & Application Services/SQS Delay Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serverless & Application Services/API Gateway.md",
+                "file": "Serverless & Application Services/SQS Delay Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serverless & Application Services/API Gateway.md"
+                "file": "Serverless & Application Services/SQS Delay Queues.md"
               }
             }
           }
@@ -209,12 +245,17 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Serverless & Application Services/SQS Standard vs FIFO.md",
+    "Serverless & Application Services/SQS Delay Queues.md",
+    "Serverless & Application Services/Simple Queue Service (SQS).md",
+    "Images/Pasted image 20230309160621.png",
+    "Images/Pasted image 20230309160450.png",
+    "Serverless & Application Services/API Gateway.md",
     "Images/Pasted image 20230309150030.png",
     "Images/Pasted image 20230309145723.png",
     "Images/Pasted image 20230309145531.png",
     "Images/Pasted image 20230309145347.png",
     "Serverless & Application Services/AWS Step Functions.md",
-    "Serverless & Application Services/API Gateway.md",
     "Images/Pasted image 20230309144540.png",
     "Serverless & Application Services/Simple Notification Service (SNS).md",
     "Serverless & Application Services/Serverless Architecture.md",
@@ -222,9 +263,6 @@
     "Serverless & Application Services/AWS Lambda.md",
     "Images/Pasted image 20230304214628.png",
     "Images/Pasted image 20230304215031.png",
-    "Pasted image 20230304215033.png",
-    "Images/Pasted image 20230304182701.png",
-    "Images/Pasted image 20230304193622.png",
-    "Images/Pasted image 20230304192337.png"
+    "Pasted image 20230304215033.png"
   ]
 }
