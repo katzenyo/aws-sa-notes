@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serverless & Application Services/Amazon AppFlow.md",
+                "file": "Serverless & Application Services/AWS Lambda.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d140e2e97f3b9b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Content Delivery & Optimization/CloudFront Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8bdf1e8d30b2811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Content Delivery & Optimization/CloudFront Behaviors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serverless & Application Services/Amazon AppFlow.md",
+                "file": "Global Content Delivery & Optimization/CloudFront Behaviors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serverless & Application Services/Amazon AppFlow.md",
+                "file": "Global Content Delivery & Optimization/CloudFront Behaviors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serverless & Application Services/Amazon AppFlow.md"
+                "file": "Global Content Delivery & Optimization/CloudFront Behaviors.md"
               }
             }
           }
@@ -173,14 +197,21 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "Images/Pasted image 20230311102604.png",
+    "Global Content Delivery & Optimization/CloudFront Architecture.md",
+    "Global Content Delivery & Optimization/CloudFront Behaviors.md",
+    "Images/Pasted image 20230311114914.png",
+    "Images/Pasted image 20230311114534.png",
+    "Serverless & Application Services/AWS Lambda.md",
+    "Global Content Delivery & Optimization",
+    "Serverless & Application Services/API Gateway.md",
     "Serverless & Application Services/Amazon MQ.md",
+    "Serverless & Application Services/Amazon Cognito.md",
     "Serverless & Application Services/Amazon AppFlow.md",
+    "Images/Pasted image 20230311102604.png",
     "Images/Pasted image 20230311102000.png",
     "Serverless & Application Services/AWS Glue.md",
     "Images/Pasted image 20230310152118.png",
     "Images/Pasted image 20230310151616.png",
-    "Serverless & Application Services/Amazon Cognito.md",
     "Images/Pasted image 20230310151450.png",
     "Images/Pasted image 20230310151248.png",
     "Serverless & Application Services/Kinesis Video Streams.md",
@@ -188,19 +219,14 @@
     "Serverless & Application Services/Kinesis Data Analytics.md",
     "Images/Pasted image 20230310144258.png",
     "Serverless & Application Services/Kinesis Data Firehose.md",
-    "Images/Pasted image 20230310131001.png",
     "Serverless & Application Services/Kinesis Data Streams.md",
-    "Images/Pasted image 20230309184259.png",
     "Serverless & Application Services/SQS Dead-Letter Queues.md",
-    "Images/Pasted image 20230309183943.png",
     "Serverless & Application Services/SQS Delay Queues.md",
     "Serverless & Application Services/SQS Standard vs FIFO.md",
     "Serverless & Application Services/Simple Queue Service (SQS).md",
-    "Serverless & Application Services/API Gateway.md",
     "Serverless & Application Services/AWS Step Functions.md",
     "Serverless & Application Services/Simple Notification Service (SNS).md",
     "Serverless & Application Services/Serverless Architecture.md",
-    "Serverless & Application Services/CloudWatch Events and EventBridge.md",
-    "Serverless & Application Services/AWS Lambda.md"
+    "Serverless & Application Services/CloudWatch Events and EventBridge.md"
   ]
 }
