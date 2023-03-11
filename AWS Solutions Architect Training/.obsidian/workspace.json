@@ -8,185 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fab9592c08246247",
+            "id": "76743eb00ba5c0dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serverless & Application Services/AWS Lambda.md",
+                "file": "Serverless & Application Services/AWS Glue.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7458a3f5f639a873",
+            "id": "3e9642483cea16c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serverless & Application Services/CloudWatch Events and EventBridge.md",
+                "file": "Serverless & Application Services/Amazon MQ.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9ca3011a3f9d4262",
+            "id": "32b8eb0b398abf88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serverless & Application Services/Serverless Architecture.md",
+                "file": "Serverless & Application Services/Amazon AppFlow.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2a2d3760bca22e02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/Simple Notification Service (SNS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b4b4a8ee58886cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/AWS Step Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "126b2e2727453135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/API Gateway.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "017a30ee774246c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/Simple Queue Service (SQS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dc2d4ac55118861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/SQS Standard vs FIFO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96638c1409c8b279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/SQS Delay Queues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d85ba6164722faf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/SQS Dead-Letter Queues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd506054d4c4314d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/Kinesis Data Streams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47cb1e3f54d73a66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/Kinesis Data Firehose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "804c2885d8b6a3b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/Kinesis Data Analytics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b3bdf7c55c2868f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/Kinesis Video Streams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d28a2390e77180be",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230310151616.png"
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20230310151616.png",
+                "file": "Serverless & Application Services/Amazon AppFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20230310151616.png",
+                "file": "Serverless & Application Services/Amazon AppFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20230310151616.png"
+                "file": "Serverless & Application Services/Amazon AppFlow.md"
               }
             }
           }
@@ -315,8 +173,13 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "Serverless & Application Services/Amazon Cognito.md",
+    "Serverless & Application Services/Amazon MQ.md",
+    "Serverless & Application Services/Amazon AppFlow.md",
+    "Images/Pasted image 20230311102000.png",
+    "Serverless & Application Services/AWS Glue.md",
+    "Images/Pasted image 20230310152118.png",
     "Images/Pasted image 20230310151616.png",
+    "Serverless & Application Services/Amazon Cognito.md",
     "Images/Pasted image 20230310151450.png",
     "Images/Pasted image 20230310151248.png",
     "Serverless & Application Services/Kinesis Video Streams.md",
@@ -332,8 +195,6 @@
     "Serverless & Application Services/SQS Delay Queues.md",
     "Serverless & Application Services/SQS Standard vs FIFO.md",
     "Serverless & Application Services/Simple Queue Service (SQS).md",
-    "Images/Pasted image 20230309160621.png",
-    "Images/Pasted image 20230309160450.png",
     "Serverless & Application Services/API Gateway.md",
     "Serverless & Application Services/AWS Step Functions.md",
     "Serverless & Application Services/Simple Notification Service (SNS).md",
