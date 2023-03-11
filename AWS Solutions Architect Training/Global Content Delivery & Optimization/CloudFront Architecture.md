@@ -11,6 +11,6 @@
 
 ![[Pasted image 20230311114534.png]]
 
-### Behaviors
+### [[CloudFront Behaviors|Behaviors]]
 
 ![[Pasted image 20230311114914.png]]
