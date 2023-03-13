@@ -255,8 +255,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "696178f0f7dcf076",
+  "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230313023059.png",
+    "Images/Pasted image 20230312183145.png",
     "Global Content Delivery & Optimization/Origin Types and Architecture.md",
     "Global Content Delivery & Optimization/Securing CloudFront & S3 Using OAI.md",
     "Global Content Delivery & Optimization/CloudFront and SSL.md",
@@ -280,7 +282,6 @@
     "Serverless & Application Services/AWS Glue.md",
     "Images/Pasted image 20230310152118.png",
     "Images/Pasted image 20230310151616.png",
-    "Images/Pasted image 20230310151450.png",
     "Serverless & Application Services/Kinesis Video Streams.md",
     "Serverless & Application Services/Kinesis Data Analytics.md",
     "Serverless & Application Services/Kinesis Data Firehose.md",
