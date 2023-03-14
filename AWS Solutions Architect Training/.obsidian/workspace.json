@@ -126,9 +126,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c596244c8824add9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Content Delivery & Optimization/Private Distribution & Behaviors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2fdfd30660ffb2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Content Delivery & Optimization/Lambda@Edge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a48d267aac4a3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Content Delivery & Optimization/AWS Global Accelerator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -194,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Content Delivery & Optimization/Securing CloudFront & S3 Using OAI.md",
+                "file": "Global Content Delivery & Optimization/AWS Global Accelerator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Content Delivery & Optimization/Securing CloudFront & S3 Using OAI.md",
+                "file": "Global Content Delivery & Optimization/AWS Global Accelerator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Content Delivery & Optimization/Securing CloudFront & S3 Using OAI.md"
+                "file": "Global Content Delivery & Optimization/AWS Global Accelerator.md"
               }
             }
           }
@@ -257,10 +293,15 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Global Content Delivery & Optimization/Lambda@Edge.md",
+    "Global Content Delivery & Optimization/AWS Global Accelerator.md",
+    "Images/Pasted image 20230314011018.png",
+    "Global Content Delivery & Optimization/Private Distribution & Behaviors.md",
+    "Global Content Delivery & Optimization/Securing CloudFront & S3 Using OAI.md",
+    "Global Content Delivery & Optimization/Origin Types and Architecture.md",
+    "Images/Pasted image 20230313195757.png",
     "Images/Pasted image 20230313023059.png",
     "Images/Pasted image 20230312183145.png",
-    "Global Content Delivery & Optimization/Origin Types and Architecture.md",
-    "Global Content Delivery & Optimization/Securing CloudFront & S3 Using OAI.md",
     "Global Content Delivery & Optimization/CloudFront and SSL.md",
     "Images/Pasted image 20230311181859.png",
     "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
@@ -278,10 +319,7 @@
     "Serverless & Application Services/Amazon Cognito.md",
     "Serverless & Application Services/Amazon AppFlow.md",
     "Images/Pasted image 20230311102604.png",
-    "Images/Pasted image 20230311102000.png",
     "Serverless & Application Services/AWS Glue.md",
-    "Images/Pasted image 20230310152118.png",
-    "Images/Pasted image 20230310151616.png",
     "Serverless & Application Services/Kinesis Video Streams.md",
     "Serverless & Application Services/Kinesis Data Analytics.md",
     "Serverless & Application Services/Kinesis Data Firehose.md",
@@ -291,8 +329,6 @@
     "Serverless & Application Services/SQS Standard vs FIFO.md",
     "Serverless & Application Services/Simple Queue Service (SQS).md",
     "Serverless & Application Services/AWS Step Functions.md",
-    "Serverless & Application Services/Simple Notification Service (SNS).md",
-    "Serverless & Application Services/Serverless Architecture.md",
-    "Serverless & Application Services/CloudWatch Events and EventBridge.md"
+    "Serverless & Application Services/Simple Notification Service (SNS).md"
   ]
 }
