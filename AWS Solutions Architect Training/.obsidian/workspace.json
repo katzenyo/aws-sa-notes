@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Content Delivery & Optimization/CloudFront and SSL.md",
+                "file": "Advanced VPC Networking/VPC Flow Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -305,12 +305,13 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
+    "Images/Pasted image 20230314020848.png",
+    "Global Content Delivery & Optimization/CloudFront and SSL.md",
     "Advanced VPC Networking/VPC Flow Logs.md",
+    "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
     "Advanced VPC Networking",
     "Global Content Delivery & Optimization/TTL and Invalidations.md",
     "Global Content Delivery & Optimization/Securing CloudFront & S3 Using OAI.md",
-    "Global Content Delivery & Optimization/CloudFront and SSL.md",
     "Global Content Delivery & Optimization/AWS Global Accelerator.md",
     "Global Content Delivery & Optimization/CloudFront Architecture.md",
     "Global Content Delivery & Optimization/Private Distribution & Behaviors.md",
@@ -341,7 +342,6 @@
     "Serverless & Application Services/SQS Dead-Letter Queues.md",
     "Serverless & Application Services/SQS Delay Queues.md",
     "Serverless & Application Services/SQS Standard vs FIFO.md",
-    "Serverless & Application Services/Simple Queue Service (SQS).md",
-    "Serverless & Application Services/AWS Step Functions.md"
+    "Serverless & Application Services/Simple Queue Service (SQS).md"
   ]
 }
