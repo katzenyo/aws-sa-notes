@@ -1,3 +1,6 @@
+## Key Concepts
+
+- **CloudFront is a global CDN that caches both static and dynamic content**
 
 ## Terms
 
@@ -8,6 +11,7 @@
 - Regional Edge Cache - larger version of edge location, another layer of caching
 
 ## Architecture
+
 
 ![[Pasted image 20230311114534.png]]
 

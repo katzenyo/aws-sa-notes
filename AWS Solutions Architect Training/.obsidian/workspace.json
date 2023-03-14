@@ -157,14 +157,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Content Delivery & Optimization/AWS Global Accelerator.md",
+                "file": "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9a6dbd0425602bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced VPC Networking/VPC Flow Logs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Content Delivery & Optimization/AWS Global Accelerator.md",
+                "file": "Advanced VPC Networking/VPC Flow Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Content Delivery & Optimization/AWS Global Accelerator.md",
+                "file": "Advanced VPC Networking/VPC Flow Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Content Delivery & Optimization/AWS Global Accelerator.md"
+                "file": "Advanced VPC Networking/VPC Flow Logs.md"
               }
             }
           }
@@ -293,23 +305,25 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "Global Content Delivery & Optimization/Lambda@Edge.md",
-    "Global Content Delivery & Optimization/AWS Global Accelerator.md",
-    "Images/Pasted image 20230314011018.png",
-    "Global Content Delivery & Optimization/Private Distribution & Behaviors.md",
+    "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
+    "Advanced VPC Networking/VPC Flow Logs.md",
+    "Advanced VPC Networking",
+    "Global Content Delivery & Optimization/TTL and Invalidations.md",
     "Global Content Delivery & Optimization/Securing CloudFront & S3 Using OAI.md",
+    "Global Content Delivery & Optimization/CloudFront and SSL.md",
+    "Global Content Delivery & Optimization/AWS Global Accelerator.md",
+    "Global Content Delivery & Optimization/CloudFront Architecture.md",
+    "Global Content Delivery & Optimization/Private Distribution & Behaviors.md",
     "Global Content Delivery & Optimization/Origin Types and Architecture.md",
+    "Global Content Delivery & Optimization/CloudFront Behaviors.md",
+    "Global Content Delivery & Optimization/Lambda@Edge.md",
+    "Images/Pasted image 20230314011018.png",
     "Images/Pasted image 20230313195757.png",
     "Images/Pasted image 20230313023059.png",
     "Images/Pasted image 20230312183145.png",
-    "Global Content Delivery & Optimization/CloudFront and SSL.md",
     "Images/Pasted image 20230311181859.png",
-    "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
     "Images/Pasted image 20230311135446.png",
-    "Global Content Delivery & Optimization/TTL and Invalidations.md",
     "Images/Pasted image 20230311122133.png",
-    "Global Content Delivery & Optimization/CloudFront Behaviors.md",
-    "Global Content Delivery & Optimization/CloudFront Architecture.md",
     "Images/Pasted image 20230311114914.png",
     "Images/Pasted image 20230311114534.png",
     "Serverless & Application Services/AWS Lambda.md",
@@ -328,7 +342,6 @@
     "Serverless & Application Services/SQS Delay Queues.md",
     "Serverless & Application Services/SQS Standard vs FIFO.md",
     "Serverless & Application Services/Simple Queue Service (SQS).md",
-    "Serverless & Application Services/AWS Step Functions.md",
-    "Serverless & Application Services/Simple Notification Service (SNS).md"
+    "Serverless & Application Services/AWS Step Functions.md"
   ]
 }

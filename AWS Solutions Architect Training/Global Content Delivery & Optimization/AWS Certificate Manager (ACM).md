@@ -2,7 +2,7 @@
 > - With ACM-generated certs, ACM automatically renews them
 > - If imported, you are responsible for renewal
 > - Certs can be deployed to supported services
-> 	- Supports AWS services only (CloudFront and ALBs, **NOT EC2**)
+> 	- Supports AWS services only (CloudFront, Load Balancers, and API Gateway, **NOT EC2**)
 > - Regional service
 > 	- Certs cannot leave the region after generated/imported
 > 	- ***To use a cert with a load balancer in a specific region, the cert in ACM must also be in the same exact region***
