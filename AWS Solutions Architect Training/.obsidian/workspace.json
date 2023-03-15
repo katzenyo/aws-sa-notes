@@ -205,8 +205,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced VPC Networking/VPC Peering.md",
-                "mode": "source",
+                "file": "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced VPC Networking/VPC Peering.md",
+                "file": "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced VPC Networking/VPC Peering.md",
+                "file": "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced VPC Networking/VPC Peering.md"
+                "file": "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md"
               }
             }
           }
@@ -341,15 +341,20 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "Advanced VPC Networking/VPC Endpoints.md",
+    "Pasted image 20230315162636.png",
+    "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
+    "Images/Pasted image 20230315162638.png",
+    "Advanced VPC Networking/VPC Flow Logs.md",
+    "Hybrid Environments & Migration",
     "Advanced VPC Networking/VPC Peering.md",
+    "Advanced VPC Networking/VPC Endpoints.md",
+    "Images/Pasted image 20230315003018.png",
     "Images/Pasted image 20230314180743.png",
     "Images/Pasted image 20230314180619.png",
     "Images/Pasted image 20230314180509.png",
     "Images/Pasted image 20230314172357.png",
     "Images/Pasted image 20230314172202.png",
     "Advanced VPC Networking/Egress-Only Internet Gateway.md",
-    "Advanced VPC Networking/VPC Flow Logs.md",
     "Images/Pasted image 20230314170438.png",
     "Serverless & Application Services/AWS Glue.md",
     "Images/Pasted image 20230314020848.png",
@@ -364,9 +369,6 @@
     "Global Content Delivery & Optimization/Origin Types and Architecture.md",
     "Global Content Delivery & Optimization/CloudFront Behaviors.md",
     "Global Content Delivery & Optimization/Lambda@Edge.md",
-    "Images/Pasted image 20230314011018.png",
-    "Images/Pasted image 20230313195757.png",
-    "Images/Pasted image 20230313023059.png",
     "Serverless & Application Services/AWS Lambda.md",
     "Global Content Delivery & Optimization",
     "Serverless & Application Services/API Gateway.md",
@@ -376,8 +378,6 @@
     "Serverless & Application Services/Kinesis Video Streams.md",
     "Serverless & Application Services/Kinesis Data Analytics.md",
     "Serverless & Application Services/Kinesis Data Firehose.md",
-    "Serverless & Application Services/Kinesis Data Streams.md",
-    "Serverless & Application Services/SQS Dead-Letter Queues.md",
-    "Serverless & Application Services/SQS Delay Queues.md"
+    "Serverless & Application Services/Kinesis Data Streams.md"
   ]
 }
