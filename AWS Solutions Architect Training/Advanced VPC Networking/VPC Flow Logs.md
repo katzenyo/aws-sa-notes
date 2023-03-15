@@ -7,6 +7,8 @@
 > 	- Amazon DNS
 > 	- Amazon Windows license
 
+---
+
 - Captures metadata (not contents)
 	- Packet size, src/dst IP, etc
 - Can be attached to:
