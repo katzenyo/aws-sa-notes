@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4df15968f8227ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serverless & Application Services/AWS Glue.md",
+                "file": "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serverless & Application Services/AWS Glue.md",
+                "file": "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serverless & Application Services/AWS Glue.md"
+                "file": "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md"
               }
             }
           }
@@ -148,6 +161,9 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230316105100.png",
+    "Serverless & Application Services/AWS Glue.md",
+    "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
     "Images/Pasted image 20230315180059.png",
     "Images/Pasted image 20230315175847.png",
     "Images/Pasted image 20230315175641.png",
@@ -165,9 +181,7 @@
     "Advanced VPC Networking/VPC Endpoints.md",
     "Images/Pasted image 20230315003018.png",
     "Images/Pasted image 20230314180743.png",
-    "Images/Pasted image 20230314180619.png",
     "Advanced VPC Networking/Egress-Only Internet Gateway.md",
-    "Serverless & Application Services/AWS Glue.md",
     "Global Content Delivery & Optimization/CloudFront and SSL.md",
     "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
     "Advanced VPC Networking",
@@ -185,7 +199,6 @@
     "Serverless & Application Services/Amazon MQ.md",
     "Serverless & Application Services/Amazon Cognito.md",
     "Serverless & Application Services/Amazon AppFlow.md",
-    "Serverless & Application Services/Kinesis Video Streams.md",
-    "Serverless & Application Services/Kinesis Data Analytics.md"
+    "Serverless & Application Services/Kinesis Video Streams.md"
   ]
 }
