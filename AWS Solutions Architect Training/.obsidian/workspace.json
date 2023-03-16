@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16505ed8e6ff4aea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hybrid Environments & Migration/Storage Gateway.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "615ad52f4cc9a33b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Database Service (RDS)/Database Migration Service (DMS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RTO",
+                "query": "snowball",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybrid Environments & Migration/Transit Gateway (TGW).md",
+                "file": "Relational Database Service (RDS)/Database Migration Service (DMS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hybrid Environments & Migration/Transit Gateway (TGW).md",
+                "file": "Relational Database Service (RDS)/Database Migration Service (DMS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hybrid Environments & Migration/Transit Gateway (TGW).md"
+                "file": "Relational Database Service (RDS)/Database Migration Service (DMS).md"
               }
             }
           }
@@ -185,23 +209,30 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Hybrid Environments & Migration/Snowball & Snowmobile.md",
+    "AWS Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
+    "AWS Fundamentals/EC2 Basics.md",
+    "AWS Fundamentals/AWS Global Infrastructure.md",
+    "AWS Fundamentals/AWS Public vs Private Services.md",
+    "AWS Fundamentals/Simple Storage Service (S3) Basics.md",
+    "AWS Fundamentals/Shared Responsibility Model.md",
+    "Hybrid Environments & Migration/Storage Gateway.md",
+    "Images/Pasted image 20230316132856.png",
+    "Images/Pasted image 20230316125433.png",
+    "Images/Pasted image 20230316114826.png",
+    "Images/Pasted image 20230316113142.png",
+    "Images/Pasted image 20230316111627.png",
+    "Hybrid Environments & Migration/Transit Gateway (TGW).md",
     "Images/Pasted image 20230316110636.png",
     "Images/Pasted image 20230316110427.png",
     "Hybrid Environments & Migration/Direct Connect (DX) Resilience and HA.md",
-    "Hybrid Environments & Migration/Transit Gateway (TGW).md",
     "Images/Pasted image 20230316110130.png",
     "Images/Pasted image 20230316105657.png",
     "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
     "Images/Pasted image 20230316105100.png",
     "Serverless & Application Services/AWS Glue.md",
-    "Images/Pasted image 20230315180059.png",
-    "Images/Pasted image 20230315175847.png",
-    "Images/Pasted image 20230315175641.png",
     "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
     "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
-    "Images/Pasted image 20230315174106.png",
-    "Images/Pasted image 20230315173234.png",
-    "Images/Pasted image 20230315173040.png",
     "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
     "Advanced VPC Networking/VPC Flow Logs.md",
     "Hybrid Environments & Migration",
@@ -216,13 +247,6 @@
     "Global Content Delivery & Optimization/AWS Global Accelerator.md",
     "Global Content Delivery & Optimization/CloudFront Architecture.md",
     "Global Content Delivery & Optimization/Private Distribution & Behaviors.md",
-    "Global Content Delivery & Optimization/Origin Types and Architecture.md",
-    "Global Content Delivery & Optimization/CloudFront Behaviors.md",
-    "Global Content Delivery & Optimization/Lambda@Edge.md",
-    "Serverless & Application Services/AWS Lambda.md",
-    "Global Content Delivery & Optimization",
-    "Serverless & Application Services/API Gateway.md",
-    "Serverless & Application Services/Amazon MQ.md",
-    "Serverless & Application Services/Amazon Cognito.md"
+    "Global Content Delivery & Optimization"
   ]
 }

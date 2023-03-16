@@ -1,3 +1,10 @@
+>[!Important] Considerations
+> - Supports transitive routing
+> - Can be used to create global networks
+> - Share between accounts using AWS RAM
+> - Peer TGWs in one region with TGWs in another region
+> 	- Same or cross account
+> - Less complexity than not using TGWs
 
 - Network transit hub that connects VPCs to on prem networks
 - Significantly reduces network complexity
