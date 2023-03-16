@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hybrid Environments & Migration/Transit Gateway.md",
+                "file": "Hybrid Environments & Migration/Transit Gateway (TGW).md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybrid Environments & Migration/Transit Gateway.md",
+                "file": "Hybrid Environments & Migration/Transit Gateway (TGW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hybrid Environments & Migration/Transit Gateway.md",
+                "file": "Hybrid Environments & Migration/Transit Gateway (TGW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hybrid Environments & Migration/Transit Gateway.md"
+                "file": "Hybrid Environments & Migration/Transit Gateway (TGW).md"
               }
             }
           }
@@ -185,8 +185,10 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230316110636.png",
+    "Images/Pasted image 20230316110427.png",
     "Hybrid Environments & Migration/Direct Connect (DX) Resilience and HA.md",
-    "Hybrid Environments & Migration/Transit Gateway.md",
+    "Hybrid Environments & Migration/Transit Gateway (TGW).md",
     "Images/Pasted image 20230316110130.png",
     "Images/Pasted image 20230316105657.png",
     "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
@@ -201,7 +203,6 @@
     "Images/Pasted image 20230315173234.png",
     "Images/Pasted image 20230315173040.png",
     "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
-    "Pasted image 20230315162636.png",
     "Advanced VPC Networking/VPC Flow Logs.md",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking/VPC Peering.md",
@@ -222,7 +223,6 @@
     "Global Content Delivery & Optimization",
     "Serverless & Application Services/API Gateway.md",
     "Serverless & Application Services/Amazon MQ.md",
-    "Serverless & Application Services/Amazon Cognito.md",
-    "Serverless & Application Services/Amazon AppFlow.md"
+    "Serverless & Application Services/Amazon Cognito.md"
   ]
 }
