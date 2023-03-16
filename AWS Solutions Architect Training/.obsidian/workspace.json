@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c14a5f2af06b082c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hybrid Environments & Migration/Direct Connect (DX) Resilience and HA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf33477711ce3c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hybrid Environments & Migration/Transit Gateway.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
+                "file": "Hybrid Environments & Migration/Transit Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
+                "file": "Hybrid Environments & Migration/Transit Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md"
+                "file": "Hybrid Environments & Migration/Transit Gateway.md"
               }
             }
           }
@@ -161,9 +185,13 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Hybrid Environments & Migration/Direct Connect (DX) Resilience and HA.md",
+    "Hybrid Environments & Migration/Transit Gateway.md",
+    "Images/Pasted image 20230316110130.png",
+    "Images/Pasted image 20230316105657.png",
+    "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
     "Images/Pasted image 20230316105100.png",
     "Serverless & Application Services/AWS Glue.md",
-    "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
     "Images/Pasted image 20230315180059.png",
     "Images/Pasted image 20230315175847.png",
     "Images/Pasted image 20230315175641.png",
@@ -174,13 +202,10 @@
     "Images/Pasted image 20230315173040.png",
     "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
     "Pasted image 20230315162636.png",
-    "Images/Pasted image 20230315162638.png",
     "Advanced VPC Networking/VPC Flow Logs.md",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking/VPC Peering.md",
     "Advanced VPC Networking/VPC Endpoints.md",
-    "Images/Pasted image 20230315003018.png",
-    "Images/Pasted image 20230314180743.png",
     "Advanced VPC Networking/Egress-Only Internet Gateway.md",
     "Global Content Delivery & Optimization/CloudFront and SSL.md",
     "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
@@ -198,7 +223,6 @@
     "Serverless & Application Services/API Gateway.md",
     "Serverless & Application Services/Amazon MQ.md",
     "Serverless & Application Services/Amazon Cognito.md",
-    "Serverless & Application Services/Amazon AppFlow.md",
-    "Serverless & Application Services/Kinesis Video Streams.md"
+    "Serverless & Application Services/Amazon AppFlow.md"
   ]
 }
