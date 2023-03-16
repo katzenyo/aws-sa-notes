@@ -8,223 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76743eb00ba5c0dc",
+            "id": "0411ad58f3f2280d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serverless & Application Services/AWS Glue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e9642483cea16c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/Amazon MQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32b8eb0b398abf88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless & Application Services/AWS Lambda.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d140e2e97f3b9b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Content Delivery & Optimization/CloudFront Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8bdf1e8d30b2811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Content Delivery & Optimization/CloudFront Behaviors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a513e4bfcd81153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Content Delivery & Optimization/TTL and Invalidations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "617d5de5c971be15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82ed471d3680b0f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced VPC Networking/VPC Flow Logs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b561cdea096f5ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Content Delivery & Optimization/Origin Types and Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "696178f0f7dcf076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Content Delivery & Optimization/Securing CloudFront & S3 Using OAI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c596244c8824add9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Content Delivery & Optimization/Private Distribution & Behaviors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2fdfd30660ffb2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Content Delivery & Optimization/Lambda@Edge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a48d267aac4a3ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9a6dbd0425602bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced VPC Networking/VPC Flow Logs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75d538e4bfc4ad6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced VPC Networking/Egress-Only Internet Gateway.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48edeac4d365dd93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced VPC Networking/VPC Endpoints.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46eeadb70d339ad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fc1e83bb5010f3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
+                "file": "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
+                "file": "Serverless & Application Services/AWS Glue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
+                "file": "Serverless & Application Services/AWS Glue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hybrid Environments & Migration/IPSec VPN Fundamentals.md"
+                "file": "Serverless & Application Services/AWS Glue.md"
               }
             }
           }
@@ -353,11 +148,15 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230315180059.png",
+    "Images/Pasted image 20230315175847.png",
+    "Images/Pasted image 20230315175641.png",
+    "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
+    "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
     "Images/Pasted image 20230315174106.png",
     "Images/Pasted image 20230315173234.png",
     "Images/Pasted image 20230315173040.png",
     "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
-    "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
     "Pasted image 20230315162636.png",
     "Images/Pasted image 20230315162638.png",
     "Advanced VPC Networking/VPC Flow Logs.md",
@@ -367,9 +166,6 @@
     "Images/Pasted image 20230315003018.png",
     "Images/Pasted image 20230314180743.png",
     "Images/Pasted image 20230314180619.png",
-    "Images/Pasted image 20230314180509.png",
-    "Images/Pasted image 20230314172357.png",
-    "Images/Pasted image 20230314172202.png",
     "Advanced VPC Networking/Egress-Only Internet Gateway.md",
     "Serverless & Application Services/AWS Glue.md",
     "Global Content Delivery & Optimization/CloudFront and SSL.md",
@@ -390,7 +186,6 @@
     "Serverless & Application Services/Amazon Cognito.md",
     "Serverless & Application Services/Amazon AppFlow.md",
     "Serverless & Application Services/Kinesis Video Streams.md",
-    "Serverless & Application Services/Kinesis Data Analytics.md",
-    "Serverless & Application Services/Kinesis Data Firehose.md"
+    "Serverless & Application Services/Kinesis Data Analytics.md"
   ]
 }
