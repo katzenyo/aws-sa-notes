@@ -210,9 +210,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fc1e83bb5010f3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
+                "file": "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
+                "file": "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md"
+                "file": "Hybrid Environments & Migration/IPSec VPN Fundamentals.md"
               }
             }
           }
@@ -341,8 +353,12 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "Pasted image 20230315162636.png",
+    "Images/Pasted image 20230315174106.png",
+    "Images/Pasted image 20230315173234.png",
+    "Images/Pasted image 20230315173040.png",
     "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
+    "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
+    "Pasted image 20230315162636.png",
     "Images/Pasted image 20230315162638.png",
     "Advanced VPC Networking/VPC Flow Logs.md",
     "Hybrid Environments & Migration",
@@ -355,9 +371,7 @@
     "Images/Pasted image 20230314172357.png",
     "Images/Pasted image 20230314172202.png",
     "Advanced VPC Networking/Egress-Only Internet Gateway.md",
-    "Images/Pasted image 20230314170438.png",
     "Serverless & Application Services/AWS Glue.md",
-    "Images/Pasted image 20230314020848.png",
     "Global Content Delivery & Optimization/CloudFront and SSL.md",
     "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
     "Advanced VPC Networking",
@@ -377,7 +391,6 @@
     "Serverless & Application Services/Amazon AppFlow.md",
     "Serverless & Application Services/Kinesis Video Streams.md",
     "Serverless & Application Services/Kinesis Data Analytics.md",
-    "Serverless & Application Services/Kinesis Data Firehose.md",
-    "Serverless & Application Services/Kinesis Data Streams.md"
+    "Serverless & Application Services/Kinesis Data Firehose.md"
   ]
 }
