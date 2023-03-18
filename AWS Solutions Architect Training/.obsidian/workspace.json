@@ -210,9 +210,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d3066faa8fb5b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security, Deployment, & Operations/Amazon Macie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security, Deployment, & Operations/AWS Config.md",
+                "file": "Security, Deployment, & Operations/Amazon Macie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security, Deployment, & Operations/AWS Config.md",
+                "file": "Security, Deployment, & Operations/Amazon Macie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security, Deployment, & Operations/AWS Config.md"
+                "file": "Security, Deployment, & Operations/Amazon Macie.md"
               }
             }
           }
@@ -339,11 +351,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994aede02bd9c52f",
+  "active": "5d3066faa8fb5b53",
   "lastOpenFiles": [
+    "Images/Pasted image 20230318152606.png",
+    "Security, Deployment, & Operations/AWS Config.md",
+    "Security, Deployment, & Operations/Amazon Macie.md",
     "Images/Pasted image 20230318152217.png",
     "Security, Deployment, & Operations/CloudHSM.md",
-    "Security, Deployment, & Operations/AWS Config.md",
     "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
     "Images/Pasted image 20230318150644.png",
     "Security, Deployment, & Operations/AWS Shield 101.md",
@@ -370,14 +384,12 @@
     "Images/Pasted image 20230317201455.png",
     "Hybrid Environments & Migration/FSx for Windows Servers.md",
     "Images/Pasted image 20230317163256.png",
-    "Images/Pasted image 20230317160803.png",
     "Relational Database Service (RDS)/Database Migration Service (DMS).md",
     "Hybrid Environments & Migration/Snowball & Snowmobile.md",
     "AWS Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
     "AWS Fundamentals/EC2 Basics.md",
     "AWS Fundamentals/AWS Global Infrastructure.md",
     "AWS Fundamentals/AWS Public vs Private Services.md",
-    "AWS Fundamentals/Simple Storage Service (S3) Basics.md",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking",
     "Global Content Delivery & Optimization"
