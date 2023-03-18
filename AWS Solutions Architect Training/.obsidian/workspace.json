@@ -186,9 +186,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3e88660802bed3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security, Deployment, & Operations/CloudHSM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5dea5922ed3d88f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security, Deployment, & Operations/AWS Config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -217,7 +241,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "snowball",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security, Deployment, & Operations/AWS Shield 101.md",
+                "file": "Security, Deployment, & Operations/AWS Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security, Deployment, & Operations/AWS Shield 101.md",
+                "file": "Security, Deployment, & Operations/AWS Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security, Deployment, & Operations/AWS Shield 101.md"
+                "file": "Security, Deployment, & Operations/AWS Config.md"
               }
             }
           }
@@ -315,10 +339,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "545501985df41607",
+  "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
+    "Security, Deployment, & Operations/CloudHSM.md",
+    "Security, Deployment, & Operations/AWS Config.md",
+    "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
+    "Images/Pasted image 20230318150644.png",
     "Security, Deployment, & Operations/AWS Shield 101.md",
+    "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
     "Images/Pasted image 20230318143441.png",
     "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
     "Images/Pasted image 20230318125759.png",
@@ -342,7 +370,6 @@
     "Hybrid Environments & Migration/FSx for Windows Servers.md",
     "Images/Pasted image 20230317163256.png",
     "Images/Pasted image 20230317160803.png",
-    "Images/Pasted image 20230316144021.png",
     "Relational Database Service (RDS)/Database Migration Service (DMS).md",
     "Hybrid Environments & Migration/Snowball & Snowmobile.md",
     "AWS Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
@@ -351,9 +378,6 @@
     "AWS Fundamentals/AWS Public vs Private Services.md",
     "AWS Fundamentals/Simple Storage Service (S3) Basics.md",
     "AWS Fundamentals/Shared Responsibility Model.md",
-    "Hybrid Environments & Migration/Storage Gateway.md",
-    "Hybrid Environments & Migration/Transit Gateway (TGW).md",
-    "Serverless & Application Services/AWS Glue.md",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking",
     "Global Content Delivery & Optimization"
