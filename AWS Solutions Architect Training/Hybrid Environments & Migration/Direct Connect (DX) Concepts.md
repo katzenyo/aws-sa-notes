@@ -1,7 +1,11 @@
 >[!Warning] On the Exam
 > - DX locations are not owned by AWS
 > 	- They are large, regional datacenters where AWS rents space/equipment
-> - If you don't have space/hardware at a DX location, comms proivders can extend the DX port into business prem
+> - If you don't have space/hardware at a DX location, comms providers can extend the DX port into business prem
+> - **Traffic is not encrypted by default**
+> 	- Traffic can be encrypted by using a [[AWS Site-to-Site VPN|site-to-site VPN over the public VIF]]
+> - Ideal for:
+> 	- situations where low latency and high speeds are necessary
 
 - Physical connection into an AWS region (1, 10, or 100 Gbps)
 - Business premises -> DX location -> AWS region

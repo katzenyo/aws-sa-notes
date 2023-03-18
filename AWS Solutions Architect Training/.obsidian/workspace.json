@@ -126,9 +126,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a755a342596b13a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f928bfdf075bf918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security, Deployment, & Operations/AWS Secrets Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybrid Environments & Migration/FSx for Lustre.md",
+                "file": "Security, Deployment, & Operations/AWS Secrets Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hybrid Environments & Migration/FSx for Lustre.md",
+                "file": "Security, Deployment, & Operations/AWS Secrets Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hybrid Environments & Migration/FSx for Lustre.md"
+                "file": "Security, Deployment, & Operations/AWS Secrets Manager.md"
               }
             }
           }
@@ -257,13 +281,25 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230318124138.png",
+    "Untitled 1.md",
+    "Security, Deployment, & Operations/AWS Secrets Manager.md",
+    "Security, Deployment, & Operations",
+    "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
+    "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
+    "Hybrid Environments & Migration/AWS Directory Service.md",
+    "Hybrid Environments & Migration/AWS Transfer Family.md",
+    "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
+    "Hybrid Environments & Migration/DataSync.md",
+    "Hybrid Environments & Migration/Direct Connect (DX) Resilience and HA.md",
+    "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
+    "Images/Pasted image 20230318120337.png",
+    "Images/Pasted image 20230318120107.png",
+    "Hybrid Environments & Migration/FSx for Lustre.md",
     "Images/Pasted image 20230317201455.png",
     "Hybrid Environments & Migration/FSx for Windows Servers.md",
-    "Hybrid Environments & Migration/FSx for Lustre.md",
     "Images/Pasted image 20230317163256.png",
-    "Hybrid Environments & Migration/DataSync.md",
     "Images/Pasted image 20230317160803.png",
-    "Hybrid Environments & Migration/AWS Directory Service.md",
     "Images/Pasted image 20230316144021.png",
     "Images/Pasted image 20230316143149.png",
     "Images/Pasted image 20230316143016.png",
@@ -278,22 +314,11 @@
     "Hybrid Environments & Migration/Storage Gateway.md",
     "Images/Pasted image 20230316132856.png",
     "Images/Pasted image 20230316125433.png",
-    "Images/Pasted image 20230316114826.png",
-    "Images/Pasted image 20230316113142.png",
-    "Images/Pasted image 20230316111627.png",
     "Hybrid Environments & Migration/Transit Gateway (TGW).md",
-    "Hybrid Environments & Migration/Direct Connect (DX) Resilience and HA.md",
-    "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
     "Serverless & Application Services/AWS Glue.md",
-    "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
-    "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
-    "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
     "Advanced VPC Networking/VPC Flow Logs.md",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking/VPC Peering.md",
-    "Advanced VPC Networking/VPC Endpoints.md",
-    "Advanced VPC Networking/Egress-Only Internet Gateway.md",
-    "Global Content Delivery & Optimization/CloudFront and SSL.md",
     "Advanced VPC Networking",
     "Global Content Delivery & Optimization"
   ]

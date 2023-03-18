@@ -24,7 +24,7 @@
 	- Routing *within* an AS
 - eBGP
 	- External BGP
-	- Routing *between* AS''
+	- Routing *between* AS'
 
 ## Architecture
 

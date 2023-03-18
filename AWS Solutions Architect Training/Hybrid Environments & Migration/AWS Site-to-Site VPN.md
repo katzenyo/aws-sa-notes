@@ -9,7 +9,7 @@
 > 	- Data cap (on prem)
 > - Fast to setup
 > 	- Hours or less, since all software-based config
-> - Can be used as backup for or with Direct Connect (DX)
+> - Can be used as backup for or with [[Direct Connect (DX) Concepts|Direct Connect (DX)]]
 
 - Logical connections between a VPC and an on-prem network
 	- Encrypted using [[IPSec VPN Fundamentals|IPSec]]
