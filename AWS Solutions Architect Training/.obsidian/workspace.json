@@ -341,6 +341,7 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230318152217.png",
     "Security, Deployment, & Operations/CloudHSM.md",
     "Security, Deployment, & Operations/AWS Config.md",
     "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
@@ -377,7 +378,6 @@
     "AWS Fundamentals/AWS Global Infrastructure.md",
     "AWS Fundamentals/AWS Public vs Private Services.md",
     "AWS Fundamentals/Simple Storage Service (S3) Basics.md",
-    "AWS Fundamentals/Shared Responsibility Model.md",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking",
     "Global Content Delivery & Optimization"
