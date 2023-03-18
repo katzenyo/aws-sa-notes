@@ -78,9 +78,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d129398c433dbf19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hybrid Environments & Migration/AWS Directory Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d00e5f1333cbc8b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hybrid Environments & Migration/DataSync.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e7b523b692bed65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hybrid Environments & Migration/FSx for Windows Servers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0294db4545b418e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hybrid Environments & Migration/FSx for Lustre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -146,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Database Service (RDS)/Database Migration Service (DMS).md",
+                "file": "Hybrid Environments & Migration/FSx for Lustre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Database Service (RDS)/Database Migration Service (DMS).md",
+                "file": "Hybrid Environments & Migration/FSx for Lustre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational Database Service (RDS)/Database Migration Service (DMS).md"
+                "file": "Hybrid Environments & Migration/FSx for Lustre.md"
               }
             }
           }
@@ -209,6 +257,17 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230317201455.png",
+    "Hybrid Environments & Migration/FSx for Windows Servers.md",
+    "Hybrid Environments & Migration/FSx for Lustre.md",
+    "Images/Pasted image 20230317163256.png",
+    "Hybrid Environments & Migration/DataSync.md",
+    "Images/Pasted image 20230317160803.png",
+    "Hybrid Environments & Migration/AWS Directory Service.md",
+    "Images/Pasted image 20230316144021.png",
+    "Images/Pasted image 20230316143149.png",
+    "Images/Pasted image 20230316143016.png",
+    "Relational Database Service (RDS)/Database Migration Service (DMS).md",
     "Hybrid Environments & Migration/Snowball & Snowmobile.md",
     "AWS Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
     "AWS Fundamentals/EC2 Basics.md",
@@ -223,13 +282,8 @@
     "Images/Pasted image 20230316113142.png",
     "Images/Pasted image 20230316111627.png",
     "Hybrid Environments & Migration/Transit Gateway (TGW).md",
-    "Images/Pasted image 20230316110636.png",
-    "Images/Pasted image 20230316110427.png",
     "Hybrid Environments & Migration/Direct Connect (DX) Resilience and HA.md",
-    "Images/Pasted image 20230316110130.png",
-    "Images/Pasted image 20230316105657.png",
     "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
-    "Images/Pasted image 20230316105100.png",
     "Serverless & Application Services/AWS Glue.md",
     "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
     "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
@@ -240,13 +294,7 @@
     "Advanced VPC Networking/VPC Endpoints.md",
     "Advanced VPC Networking/Egress-Only Internet Gateway.md",
     "Global Content Delivery & Optimization/CloudFront and SSL.md",
-    "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
     "Advanced VPC Networking",
-    "Global Content Delivery & Optimization/TTL and Invalidations.md",
-    "Global Content Delivery & Optimization/Securing CloudFront & S3 Using OAI.md",
-    "Global Content Delivery & Optimization/AWS Global Accelerator.md",
-    "Global Content Delivery & Optimization/CloudFront Architecture.md",
-    "Global Content Delivery & Optimization/Private Distribution & Behaviors.md",
     "Global Content Delivery & Optimization"
   ]
 }
