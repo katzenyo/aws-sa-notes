@@ -150,9 +150,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4f896d6d497f01c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security, Deployment, & Operations/AWS Secrets Manager.md",
+                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security, Deployment, & Operations/AWS Secrets Manager.md",
+                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security, Deployment, & Operations/AWS Secrets Manager.md"
+                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md"
               }
             }
           }
@@ -281,9 +293,12 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230318125759.png",
+    "Images/Pasted image 20230318125445.png",
+    "Security, Deployment, & Operations/AWS Secrets Manager.md",
+    "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
     "Images/Pasted image 20230318124138.png",
     "Untitled 1.md",
-    "Security, Deployment, & Operations/AWS Secrets Manager.md",
     "Security, Deployment, & Operations",
     "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
     "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
@@ -312,13 +327,10 @@
     "AWS Fundamentals/Simple Storage Service (S3) Basics.md",
     "AWS Fundamentals/Shared Responsibility Model.md",
     "Hybrid Environments & Migration/Storage Gateway.md",
-    "Images/Pasted image 20230316132856.png",
-    "Images/Pasted image 20230316125433.png",
     "Hybrid Environments & Migration/Transit Gateway (TGW).md",
     "Serverless & Application Services/AWS Glue.md",
     "Advanced VPC Networking/VPC Flow Logs.md",
     "Hybrid Environments & Migration",
-    "Advanced VPC Networking/VPC Peering.md",
     "Advanced VPC Networking",
     "Global Content Delivery & Optimization"
   ]
