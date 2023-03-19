@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4aaa061580d1d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudFormation (Infrastructure as Code)/WaitCondition, Creation Policy, and cfn-signal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/DependsOn.md",
+                "file": "CloudFormation (Infrastructure as Code)/WaitCondition, Creation Policy, and cfn-signal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/DependsOn.md",
+                "file": "CloudFormation (Infrastructure as Code)/WaitCondition, Creation Policy, and cfn-signal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/DependsOn.md"
+                "file": "CloudFormation (Infrastructure as Code)/WaitCondition, Creation Policy, and cfn-signal.md"
               }
             }
           }
@@ -197,9 +209,12 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230319155602.png",
+    "Images/Pasted image 20230319155357.png",
+    "CloudFormation (Infrastructure as Code)/DependsOn.md",
+    "CloudFormation (Infrastructure as Code)/WaitCondition, Creation Policy, and cfn-signal.md",
     "Images/Pasted image 20230319154912.png",
     "CloudFormation (Infrastructure as Code)/CloudFormation Conditions.md",
-    "CloudFormation (Infrastructure as Code)/DependsOn.md",
     "Images/Pasted image 20230319140549.png",
     "CloudFormation (Infrastructure as Code)/CloudFormation Outputs.md",
     "CloudFormation (Infrastructure as Code)/CloudFormation Mappings.md",
@@ -218,9 +233,7 @@
     "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
     "Security, Deployment, & Operations/Amazon Inspector.md",
     "Security, Deployment, & Operations/Amazon GuardDuty.md",
-    "Images/Pasted image 20230318195512.png",
     "Security, Deployment, & Operations/Amazon Macie.md",
-    "Images/Pasted image 20230318152606.png",
     "Security, Deployment, & Operations/AWS Config.md",
     "Security, Deployment, & Operations/CloudHSM.md",
     "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
@@ -234,7 +247,6 @@
     "Hybrid Environments & Migration/AWS Transfer Family.md",
     "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
     "Hybrid Environments & Migration/DataSync.md",
-    "Hybrid Environments & Migration/Direct Connect (DX) Resilience and HA.md",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking",
     "Global Content Delivery & Optimization"
