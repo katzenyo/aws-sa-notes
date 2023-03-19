@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fc264e250302fb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Template and Pseudo Parameters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0efffc6bdb6d30ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Intrinsic Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md",
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Intrinsic Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md",
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Intrinsic Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md"
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Intrinsic Functions.md"
               }
             }
           }
@@ -146,10 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b31ebed457f6f88f",
+  "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
+    "Images/Pasted image 20230319124731.png",
+    "Images/Pasted image 20230319124605.png",
+    "Images/Pasted image 20230319124052.png",
+    "Images/Pasted image 20230319123816.png",
+    "CloudFormation (Infrastructure as Code)/CloudFormation Template and Pseudo Parameters.md",
+    "CloudFormation (Infrastructure as Code)/CloudFormation Intrinsic Functions.md",
+    "Images/Pasted image 20230319122928.png",
+    "Images/Pasted image 20230319122819.png",
     "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md",
+    "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
     "CloudFormation (Infrastructure as Code)",
     "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
     "Security, Deployment, & Operations/Amazon Inspector.md",
@@ -164,10 +197,7 @@
     "Images/Pasted image 20230318150644.png",
     "Security, Deployment, & Operations/AWS Shield 101.md",
     "Images/Pasted image 20230318143441.png",
-    "Images/Pasted image 20230318125759.png",
-    "Images/Pasted image 20230318125445.png",
     "Security, Deployment, & Operations/AWS Secrets Manager.md",
-    "Images/Pasted image 20230318124138.png",
     "Untitled 1.md",
     "Security, Deployment, & Operations",
     "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
@@ -178,14 +208,9 @@
     "Hybrid Environments & Migration/DataSync.md",
     "Hybrid Environments & Migration/Direct Connect (DX) Resilience and HA.md",
     "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
-    "Images/Pasted image 20230318120337.png",
-    "Images/Pasted image 20230318120107.png",
     "Hybrid Environments & Migration/FSx for Lustre.md",
     "Hybrid Environments & Migration/FSx for Windows Servers.md",
     "Relational Database Service (RDS)/Database Migration Service (DMS).md",
-    "Hybrid Environments & Migration/Snowball & Snowmobile.md",
-    "AWS Fundamentals/High-Availability vs Fault-Tolerance vs Disaster Recovery.md",
-    "AWS Fundamentals/EC2 Basics.md",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking",
     "Global Content Delivery & Optimization"
