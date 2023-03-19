@@ -197,6 +197,7 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230319154912.png",
     "CloudFormation (Infrastructure as Code)/CloudFormation Conditions.md",
     "CloudFormation (Infrastructure as Code)/DependsOn.md",
     "Images/Pasted image 20230319140549.png",
@@ -234,7 +235,6 @@
     "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
     "Hybrid Environments & Migration/DataSync.md",
     "Hybrid Environments & Migration/Direct Connect (DX) Resilience and HA.md",
-    "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking",
     "Global Content Delivery & Optimization"
