@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b31ebed457f6f88f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fc264e250302fb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Template and Pseudo Parameters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0efffc6bdb6d30ab",
             "type": "leaf",
             "state": {
@@ -42,9 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b82fc4bd3fb176ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Mappings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa101e35805b106d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Outputs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0950ec1be6c9367e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Conditions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "250f0215448f11e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudFormation (Infrastructure as Code)/DependsOn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Intrinsic Functions.md",
+                "file": "CloudFormation (Infrastructure as Code)/DependsOn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Intrinsic Functions.md",
+                "file": "CloudFormation (Infrastructure as Code)/DependsOn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Intrinsic Functions.md"
+                "file": "CloudFormation (Infrastructure as Code)/DependsOn.md"
               }
             }
           }
@@ -173,12 +197,18 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "CloudFormation (Infrastructure as Code)/CloudFormation Conditions.md",
+    "CloudFormation (Infrastructure as Code)/DependsOn.md",
+    "Images/Pasted image 20230319140549.png",
+    "CloudFormation (Infrastructure as Code)/CloudFormation Outputs.md",
+    "CloudFormation (Infrastructure as Code)/CloudFormation Mappings.md",
+    "Images/Pasted image 20230319125105.png",
+    "CloudFormation (Infrastructure as Code)/CloudFormation Intrinsic Functions.md",
     "Images/Pasted image 20230319124731.png",
     "Images/Pasted image 20230319124605.png",
     "Images/Pasted image 20230319124052.png",
     "Images/Pasted image 20230319123816.png",
     "CloudFormation (Infrastructure as Code)/CloudFormation Template and Pseudo Parameters.md",
-    "CloudFormation (Infrastructure as Code)/CloudFormation Intrinsic Functions.md",
     "Images/Pasted image 20230319122928.png",
     "Images/Pasted image 20230319122819.png",
     "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md",
@@ -191,12 +221,9 @@
     "Security, Deployment, & Operations/Amazon Macie.md",
     "Images/Pasted image 20230318152606.png",
     "Security, Deployment, & Operations/AWS Config.md",
-    "Images/Pasted image 20230318152217.png",
     "Security, Deployment, & Operations/CloudHSM.md",
     "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
-    "Images/Pasted image 20230318150644.png",
     "Security, Deployment, & Operations/AWS Shield 101.md",
-    "Images/Pasted image 20230318143441.png",
     "Security, Deployment, & Operations/AWS Secrets Manager.md",
     "Untitled 1.md",
     "Security, Deployment, & Operations",
@@ -208,9 +235,6 @@
     "Hybrid Environments & Migration/DataSync.md",
     "Hybrid Environments & Migration/Direct Connect (DX) Resilience and HA.md",
     "Hybrid Environments & Migration/Border Gateway Protocol (BGP) 101.md",
-    "Hybrid Environments & Migration/FSx for Lustre.md",
-    "Hybrid Environments & Migration/FSx for Windows Servers.md",
-    "Relational Database Service (RDS)/Database Migration Service (DMS).md",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking",
     "Global Content Delivery & Optimization"
