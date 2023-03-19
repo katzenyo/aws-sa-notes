@@ -241,8 +241,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security, Deployment, & Operations/Amazon GuardDuty.md",
-                "mode": "source",
+                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security, Deployment, & Operations/Amazon GuardDuty.md",
+                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security, Deployment, & Operations/Amazon GuardDuty.md",
+                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security, Deployment, & Operations/Amazon GuardDuty.md"
+                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md"
               }
             }
           }
@@ -375,11 +375,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994aede02bd9c52f",
+  "active": "cc0cd45648169fa6",
   "lastOpenFiles": [
-    "Images/Pasted image 20230318195512.png",
+    "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
+    "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
     "Security, Deployment, & Operations/Amazon Inspector.md",
     "Security, Deployment, & Operations/Amazon GuardDuty.md",
+    "Images/Pasted image 20230318195512.png",
     "Security, Deployment, & Operations/Amazon Macie.md",
     "Images/Pasted image 20230318152606.png",
     "Security, Deployment, & Operations/AWS Config.md",
@@ -388,9 +390,7 @@
     "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
     "Images/Pasted image 20230318150644.png",
     "Security, Deployment, & Operations/AWS Shield 101.md",
-    "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
     "Images/Pasted image 20230318143441.png",
-    "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
     "Images/Pasted image 20230318125759.png",
     "Images/Pasted image 20230318125445.png",
     "Security, Deployment, & Operations/AWS Secrets Manager.md",
@@ -408,7 +408,6 @@
     "Images/Pasted image 20230318120337.png",
     "Images/Pasted image 20230318120107.png",
     "Hybrid Environments & Migration/FSx for Lustre.md",
-    "Images/Pasted image 20230317201455.png",
     "Hybrid Environments & Migration/FSx for Windows Servers.md",
     "Relational Database Service (RDS)/Database Migration Service (DMS).md",
     "Hybrid Environments & Migration/Snowball & Snowmobile.md",
