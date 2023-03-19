@@ -8,247 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0411ad58f3f2280d",
+            "id": "b31ebed457f6f88f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
+                "file": "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4df15968f8227ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c14a5f2af06b082c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hybrid Environments & Migration/Direct Connect (DX) Resilience and HA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf33477711ce3c92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hybrid Environments & Migration/Transit Gateway (TGW).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16505ed8e6ff4aea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hybrid Environments & Migration/Storage Gateway.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "615ad52f4cc9a33b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database Service (RDS)/Database Migration Service (DMS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d129398c433dbf19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hybrid Environments & Migration/AWS Directory Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d00e5f1333cbc8b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hybrid Environments & Migration/DataSync.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e7b523b692bed65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hybrid Environments & Migration/FSx for Windows Servers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0294db4545b418e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hybrid Environments & Migration/FSx for Lustre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a755a342596b13a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f928bfdf075bf918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security, Deployment, & Operations/AWS Secrets Manager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4f896d6d497f01c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a5af6d2de27b060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "545501985df41607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security, Deployment, & Operations/AWS Shield 101.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3e88660802bed3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security, Deployment, & Operations/CloudHSM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5dea5922ed3d88f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security, Deployment, & Operations/AWS Config.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d3066faa8fb5b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security, Deployment, & Operations/Amazon Macie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16795444dcdac35f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security, Deployment, & Operations/Amazon Inspector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc0cd45648169fa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 19
+        ]
       }
     ],
     "direction": "vertical"
@@ -314,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
+                "file": "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
+                "file": "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md"
+                "file": "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md"
               }
             }
           }
@@ -375,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc0cd45648169fa6",
+  "active": "b31ebed457f6f88f",
   "lastOpenFiles": [
-    "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
     "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
+    "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md",
+    "CloudFormation (Infrastructure as Code)",
+    "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
     "Security, Deployment, & Operations/Amazon Inspector.md",
     "Security, Deployment, & Operations/Amazon GuardDuty.md",
     "Images/Pasted image 20230318195512.png",
