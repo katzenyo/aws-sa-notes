@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7a2535eaa9775d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudFormation (Infrastructure as Code)/Nested Stacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f89195cb8bddda39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudFormation (Infrastructure as Code)/Cross-Stack References.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/WaitCondition, Creation Policy, and cfn-signal.md",
+                "file": "CloudFormation (Infrastructure as Code)/Cross-Stack References.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/WaitCondition, Creation Policy, and cfn-signal.md",
+                "file": "CloudFormation (Infrastructure as Code)/Cross-Stack References.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/WaitCondition, Creation Policy, and cfn-signal.md"
+                "file": "CloudFormation (Infrastructure as Code)/Cross-Stack References.md"
               }
             }
           }
@@ -209,10 +233,14 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230319173408.png",
+    "CloudFormation (Infrastructure as Code)/Nested Stacks.md",
+    "CloudFormation (Infrastructure as Code)/Cross-Stack References.md",
+    "Images/Pasted image 20230319171106.png",
+    "CloudFormation (Infrastructure as Code)/WaitCondition, Creation Policy, and cfn-signal.md",
     "Images/Pasted image 20230319155602.png",
     "Images/Pasted image 20230319155357.png",
     "CloudFormation (Infrastructure as Code)/DependsOn.md",
-    "CloudFormation (Infrastructure as Code)/WaitCondition, Creation Policy, and cfn-signal.md",
     "Images/Pasted image 20230319154912.png",
     "CloudFormation (Infrastructure as Code)/CloudFormation Conditions.md",
     "Images/Pasted image 20230319140549.png",
@@ -225,8 +253,6 @@
     "Images/Pasted image 20230319124052.png",
     "Images/Pasted image 20230319123816.png",
     "CloudFormation (Infrastructure as Code)/CloudFormation Template and Pseudo Parameters.md",
-    "Images/Pasted image 20230319122928.png",
-    "Images/Pasted image 20230319122819.png",
     "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md",
     "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
     "CloudFormation (Infrastructure as Code)",
@@ -245,8 +271,6 @@
     "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
     "Hybrid Environments & Migration/AWS Directory Service.md",
     "Hybrid Environments & Migration/AWS Transfer Family.md",
-    "Hybrid Environments & Migration/IPSec VPN Fundamentals.md",
-    "Hybrid Environments & Migration/DataSync.md",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking",
     "Global Content Delivery & Optimization"
