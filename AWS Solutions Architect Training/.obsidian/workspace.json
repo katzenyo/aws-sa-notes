@@ -138,9 +138,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "979c27ef0621764e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Init (cfn-init).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c804b3777ae7917e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Init (cfn-init).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -206,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/Stack Roles.md",
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Init (cfn-init).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/Stack Roles.md",
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Init (cfn-init).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/Stack Roles.md"
+                "file": "CloudFormation (Infrastructure as Code)/CloudFormation Init (cfn-init).md"
               }
             }
           }
@@ -267,11 +291,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994aede02bd9c52f",
+  "active": "c804b3777ae7917e",
   "lastOpenFiles": [
+    "CloudFormation (Infrastructure as Code)/cfn-hup.md",
+    "CloudFormation (Infrastructure as Code)/Pasted image 20230320153946.png",
+    "CloudFormation (Infrastructure as Code)/CloudFormation Init (cfn-init).md",
+    "Images/Pasted image 20230320153703.png",
+    "CloudFormation (Infrastructure as Code)/Stack Roles.md",
     "Images/Pasted image 20230320140053.png",
     "CloudFormation (Infrastructure as Code)/DeletionPolicy.md",
-    "CloudFormation (Infrastructure as Code)/Stack Roles.md",
     "Images/Pasted image 20230320135555.png",
     "CloudFormation (Infrastructure as Code)/StackSets.md",
     "Images/Pasted image 20230320132349.png",
@@ -285,12 +313,9 @@
     "CloudFormation (Infrastructure as Code)/DependsOn.md",
     "Images/Pasted image 20230319154912.png",
     "CloudFormation (Infrastructure as Code)/CloudFormation Conditions.md",
-    "Images/Pasted image 20230319140549.png",
     "CloudFormation (Infrastructure as Code)/CloudFormation Outputs.md",
     "CloudFormation (Infrastructure as Code)/CloudFormation Mappings.md",
-    "Images/Pasted image 20230319125105.png",
     "CloudFormation (Infrastructure as Code)/CloudFormation Intrinsic Functions.md",
-    "Images/Pasted image 20230319124731.png",
     "CloudFormation (Infrastructure as Code)/CloudFormation Template and Pseudo Parameters.md",
     "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md",
     "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
@@ -304,9 +329,7 @@
     "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
     "Security, Deployment, & Operations/AWS Shield 101.md",
     "Security, Deployment, & Operations/AWS Secrets Manager.md",
-    "Untitled 1.md",
     "Security, Deployment, & Operations",
-    "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking",
     "Global Content Delivery & Optimization"
