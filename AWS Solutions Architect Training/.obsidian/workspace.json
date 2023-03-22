@@ -186,9 +186,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dddb1db462f08a03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/Custom Resources.md",
+                "file": "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/Custom Resources.md",
+                "file": "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CloudFormation (Infrastructure as Code)/Custom Resources.md"
+                "file": "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md"
               }
             }
           }
@@ -315,11 +327,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994aede02bd9c52f",
+  "active": "dddb1db462f08a03",
   "lastOpenFiles": [
+    "CloudFormation (Infrastructure as Code)/Custom Resources.md",
+    "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
+    "NoSQL Databases & DynamoDB",
     "Images/Pasted image 20230321230620.png",
     "CloudFormation (Infrastructure as Code)/ChangeSets.md",
-    "CloudFormation (Infrastructure as Code)/Custom Resources.md",
     "CloudFormation (Infrastructure as Code)/CloudFormation Init (cfn-init).md",
     "CloudFormation (Infrastructure as Code)/cfn-hup.md",
     "CloudFormation (Infrastructure as Code)/Pasted image 20230320153946.png",
@@ -338,7 +352,6 @@
     "Images/Pasted image 20230319155602.png",
     "Images/Pasted image 20230319155357.png",
     "CloudFormation (Infrastructure as Code)/DependsOn.md",
-    "Images/Pasted image 20230319154912.png",
     "CloudFormation (Infrastructure as Code)/CloudFormation Conditions.md",
     "CloudFormation (Infrastructure as Code)/CloudFormation Outputs.md",
     "CloudFormation (Infrastructure as Code)/CloudFormation Mappings.md",
