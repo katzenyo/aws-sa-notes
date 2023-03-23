@@ -246,9 +246,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c05f37f70edd0d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -314,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Global Tables.md",
+                "file": "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Global Tables.md",
+                "file": "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Global Tables.md"
+                "file": "NoSQL Databases & DynamoDB/Accelerator (DAX).md"
               }
             }
           }
@@ -375,10 +387,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53e0fa60aad2640e",
+  "active": "994aede02bd9c52f",
   "lastOpenFiles": [
-    "NoSQL Databases & DynamoDB/Streams & Triggers.md",
+    "Images/Pasted image 20230322172615.png",
+    "Images/Pasted image 20230322171831.png",
     "NoSQL Databases & DynamoDB/Global Tables.md",
+    "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
+    "NoSQL Databases & DynamoDB/Streams & Triggers.md",
     "Images/Pasted image 20230322171307.png",
     "Images/Pasted image 20230322170851.png",
     "NoSQL Databases & DynamoDB/Local and Global Secondary Indexes.md",
@@ -397,7 +412,6 @@
     "CloudFormation (Infrastructure as Code)/CloudFormation Init (cfn-init).md",
     "CloudFormation (Infrastructure as Code)/cfn-hup.md",
     "CloudFormation (Infrastructure as Code)/Pasted image 20230320153946.png",
-    "Images/Pasted image 20230320153703.png",
     "CloudFormation (Infrastructure as Code)/Stack Roles.md",
     "CloudFormation (Infrastructure as Code)/DeletionPolicy.md",
     "CloudFormation (Infrastructure as Code)/StackSets.md",
@@ -413,8 +427,6 @@
     "CloudFormation (Infrastructure as Code)/Physical & Logical Resources.md",
     "Security, Deployment, & Operations/Application (Layer 7) Firewalls.md",
     "CloudFormation (Infrastructure as Code)",
-    "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
-    "Security, Deployment, & Operations/Amazon Inspector.md",
     "Security, Deployment, & Operations",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking",
