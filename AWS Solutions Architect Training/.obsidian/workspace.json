@@ -222,9 +222,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74742dc45f71e1ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NoSQL Databases & DynamoDB/Streams & Triggers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -290,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Local and Global Secondary Indexes.md",
+                "file": "NoSQL Databases & DynamoDB/Streams & Triggers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Local and Global Secondary Indexes.md",
+                "file": "NoSQL Databases & DynamoDB/Streams & Triggers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Local and Global Secondary Indexes.md"
+                "file": "NoSQL Databases & DynamoDB/Streams & Triggers.md"
               }
             }
           }
@@ -353,9 +365,12 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230322171307.png",
+    "Images/Pasted image 20230322170851.png",
+    "NoSQL Databases & DynamoDB/Local and Global Secondary Indexes.md",
+    "NoSQL Databases & DynamoDB/Streams & Triggers.md",
     "Images/Pasted image 20230322165724.png",
     "NoSQL Databases & DynamoDB/DynamoDB (Operations, Consistency, Performance).md",
-    "NoSQL Databases & DynamoDB/Local and Global Secondary Indexes.md",
     "NoSQL Databases & DynamoDB/Local (LSI) and Global (GSI) Secondary Indexes.md",
     "Images/Pasted image 20230322162922.png",
     "Images/Pasted image 20230322161953.png",
@@ -373,9 +388,7 @@
     "CloudFormation (Infrastructure as Code)/Stack Roles.md",
     "Images/Pasted image 20230320140053.png",
     "CloudFormation (Infrastructure as Code)/DeletionPolicy.md",
-    "Images/Pasted image 20230320135555.png",
     "CloudFormation (Infrastructure as Code)/StackSets.md",
-    "Images/Pasted image 20230320132349.png",
     "CloudFormation (Infrastructure as Code)/Cross-Stack References.md",
     "CloudFormation (Infrastructure as Code)/Nested Stacks.md",
     "CloudFormation (Infrastructure as Code)/WaitCondition, Creation Policy, and cfn-signal.md",
@@ -390,7 +403,6 @@
     "CloudFormation (Infrastructure as Code)",
     "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
     "Security, Deployment, & Operations/Amazon Inspector.md",
-    "Security, Deployment, & Operations/Amazon GuardDuty.md",
     "Security, Deployment, & Operations",
     "Hybrid Environments & Migration",
     "Advanced VPC Networking",
