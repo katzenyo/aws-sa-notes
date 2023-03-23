@@ -1,0 +1,12 @@
+
+- Fully managed fraud detection service
+	- New account creations, payments, guest checkouts
+- Upload historical data, choose model type
+	- Online Fraud
+		- Little historical data, such as new customer account
+	- Transaction Fraud
+		- Transactional history, identifying suspicious payments
+	- Account Takeover
+		- Identify phishing or another social-based attack
+- Events are given a score
+	- Rules/decision logic allow you to react to a score based on business activity
