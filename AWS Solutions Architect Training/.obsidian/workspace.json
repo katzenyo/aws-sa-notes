@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f00370346092ef12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NoSQL Databases & DynamoDB/Elasticache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ded228b617f6fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NoSQL Databases & DynamoDB/Redshift Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Amazon Athena.md",
+                "file": "NoSQL Databases & DynamoDB/Redshift Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Amazon Athena.md",
+                "file": "NoSQL Databases & DynamoDB/Redshift Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Amazon Athena.md"
+                "file": "NoSQL Databases & DynamoDB/Redshift Architecture.md"
               }
             }
           }
@@ -148,10 +173,14 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230323112251.png",
+    "NoSQL Databases & DynamoDB/Elasticache.md",
+    "NoSQL Databases & DynamoDB/Redshift Architecture.md",
+    "Images/Pasted image 20230323110838.png",
+    "NoSQL Databases & DynamoDB/Amazon Athena.md",
     "Images/Pasted image 20230323010445.png",
     "NoSQL Databases & DynamoDB/TTL (DynamoDB).md",
     "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
-    "NoSQL Databases & DynamoDB/Amazon Athena.md",
     "Images/Pasted image 20230322172615.png",
     "Images/Pasted image 20230322171831.png",
     "NoSQL Databases & DynamoDB/Global Tables.md",
@@ -166,10 +195,8 @@
     "Images/Pasted image 20230322161953.png",
     "Images/Pasted image 20230322161937.png",
     "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
-    "Images/Pasted image 20230322152521.png",
     "CloudFormation (Infrastructure as Code)/Custom Resources.md",
     "NoSQL Databases & DynamoDB",
-    "Images/Pasted image 20230321230620.png",
     "CloudFormation (Infrastructure as Code)/ChangeSets.md",
     "CloudFormation (Infrastructure as Code)/CloudFormation Init (cfn-init).md",
     "CloudFormation (Infrastructure as Code)/cfn-hup.md",
@@ -183,8 +210,6 @@
     "CloudFormation (Infrastructure as Code)/CloudFormation Conditions.md",
     "CloudFormation (Infrastructure as Code)/CloudFormation Outputs.md",
     "CloudFormation (Infrastructure as Code)/CloudFormation Mappings.md",
-    "CloudFormation (Infrastructure as Code)/CloudFormation Intrinsic Functions.md",
-    "CloudFormation (Infrastructure as Code)/CloudFormation Template and Pseudo Parameters.md",
     "CloudFormation (Infrastructure as Code)",
     "Security, Deployment, & Operations",
     "Hybrid Environments & Migration",
