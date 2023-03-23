@@ -16,7 +16,7 @@
 
 ## Query Operation
 
-- Queries accept a single primary key value and optionally a secondary key or a range of keys
+- Queries accept a single partition key value and optionally a sort key or a range of keys
 - Capacity consumed is the size of all returned items combined
 	- Always more efficient to return multiple items in a single operation
 - Filtering discards, but the capacity is still consumed regardless
