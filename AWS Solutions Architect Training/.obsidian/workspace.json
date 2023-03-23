@@ -37,14 +37,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Redshift Architecture.md",
+                "file": "NoSQL Databases & DynamoDB/Streams & Triggers.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f88dd87e6fa6433a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Amazon Comprehend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af008c1ddd16489a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Amazon Kendra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "409fbc197c232003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Amazon Lex.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Redshift Architecture.md",
+                "file": "Machine Learning/Amazon Lex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Redshift Architecture.md",
+                "file": "Machine Learning/Amazon Lex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Redshift Architecture.md"
+                "file": "Machine Learning/Amazon Lex.md"
               }
             }
           }
@@ -173,28 +209,32 @@
   },
   "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Machine Learning/Amazon Kendra.md",
+    "Machine Learning/Amazon Lex.md",
+    "Machine Learning/Amazon Comprehend.md",
+    "NoSQL Databases & DynamoDB/Streams & Triggers.md",
+    "Machine Learning",
+    "NoSQL Databases & DynamoDB/Redshift Architecture.md",
+    "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
+    "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
+    "NoSQL Databases & DynamoDB/DynamoDB (Operations, Consistency, Performance).md",
+    "NoSQL Databases & DynamoDB/Redshift Resilience and Disaster Recovery.md",
     "Images/Pasted image 20230323112251.png",
     "NoSQL Databases & DynamoDB/Elasticache.md",
-    "NoSQL Databases & DynamoDB/Redshift Architecture.md",
     "Images/Pasted image 20230323110838.png",
     "NoSQL Databases & DynamoDB/Amazon Athena.md",
     "Images/Pasted image 20230323010445.png",
     "NoSQL Databases & DynamoDB/TTL (DynamoDB).md",
-    "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
     "Images/Pasted image 20230322172615.png",
     "Images/Pasted image 20230322171831.png",
     "NoSQL Databases & DynamoDB/Global Tables.md",
-    "NoSQL Databases & DynamoDB/Streams & Triggers.md",
     "Images/Pasted image 20230322171307.png",
     "Images/Pasted image 20230322170851.png",
     "NoSQL Databases & DynamoDB/Local and Global Secondary Indexes.md",
     "Images/Pasted image 20230322165724.png",
-    "NoSQL Databases & DynamoDB/DynamoDB (Operations, Consistency, Performance).md",
     "NoSQL Databases & DynamoDB/Local (LSI) and Global (GSI) Secondary Indexes.md",
     "Images/Pasted image 20230322162922.png",
     "Images/Pasted image 20230322161953.png",
-    "Images/Pasted image 20230322161937.png",
-    "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
     "CloudFormation (Infrastructure as Code)/Custom Resources.md",
     "NoSQL Databases & DynamoDB",
     "CloudFormation (Infrastructure as Code)/ChangeSets.md",
@@ -207,9 +247,6 @@
     "CloudFormation (Infrastructure as Code)/Nested Stacks.md",
     "CloudFormation (Infrastructure as Code)/WaitCondition, Creation Policy, and cfn-signal.md",
     "CloudFormation (Infrastructure as Code)/DependsOn.md",
-    "CloudFormation (Infrastructure as Code)/CloudFormation Conditions.md",
-    "CloudFormation (Infrastructure as Code)/CloudFormation Outputs.md",
-    "CloudFormation (Infrastructure as Code)/CloudFormation Mappings.md",
     "CloudFormation (Infrastructure as Code)",
     "Security, Deployment, & Operations",
     "Hybrid Environments & Migration",

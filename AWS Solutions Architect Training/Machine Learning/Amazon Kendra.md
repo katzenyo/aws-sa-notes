@@ -1,0 +1,20 @@
+
+- Intelligent search service
+	- Designed to mimic interacting with a human expert
+- Supports wide ranges of question types
+	- Factoids (who, what, where)
+	- Descriptive (How do I do x)
+	- Keywords (What time is x)
+		- x can have multiple meanings
+		- Kendra helps determine intent
+- Index
+	- Searchable data organized in an efficient way
+- Data source
+	- Where data lives
+	- Kendra connects and indexes from this location
+	- S3, Confluence, Google Workspace, RDS, OneDrive, Salesforce, Kendra Web Crawler, Workdocs, FSx, etc
+- Synchronizes with index based on a schedule
+- Documents
+	- Structured (FAQs), Unstructured (HTML, PDFs, text, etc)
+- Integrates with AWS services
+	- IAM, Identity Center (SSO), etc

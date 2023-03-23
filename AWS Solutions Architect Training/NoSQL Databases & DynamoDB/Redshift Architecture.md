@@ -37,3 +37,15 @@
 	- Manual snapshots to S3 supported
 
 ![[Pasted image 20230323112251.png]]
+
+## Resilience and Disaster Recovery
+
+- Automatic incremental backups
+	- Either every 8 hours or 5GB of data
+	- 1-day retention period by default
+		- Configurable up to 35 days
+- Manual snapshots can be taken at any time
+	- Can be deleted manually as required
+- Redshift can be backed up into S3 to protect against AZ failure
+	- Snapshots can be configured to another region for DR
+		- Supports  separate configurable retention period
