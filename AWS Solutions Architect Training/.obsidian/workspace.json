@@ -258,9 +258,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "656164a32cf3337e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NoSQL Databases & DynamoDB/TTL (DynamoDB).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -326,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
+                "file": "NoSQL Databases & DynamoDB/TTL (DynamoDB).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
+                "file": "NoSQL Databases & DynamoDB/TTL (DynamoDB).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Accelerator (DAX).md"
+                "file": "NoSQL Databases & DynamoDB/TTL (DynamoDB).md"
               }
             }
           }
@@ -387,12 +399,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994aede02bd9c52f",
+  "active": "656164a32cf3337e",
   "lastOpenFiles": [
+    "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
+    "NoSQL Databases & DynamoDB/TTL (DynamoDB).md",
     "Images/Pasted image 20230322172615.png",
     "Images/Pasted image 20230322171831.png",
     "NoSQL Databases & DynamoDB/Global Tables.md",
-    "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
     "NoSQL Databases & DynamoDB/Streams & Triggers.md",
     "Images/Pasted image 20230322171307.png",
     "Images/Pasted image 20230322170851.png",
@@ -411,7 +424,6 @@
     "CloudFormation (Infrastructure as Code)/ChangeSets.md",
     "CloudFormation (Infrastructure as Code)/CloudFormation Init (cfn-init).md",
     "CloudFormation (Infrastructure as Code)/cfn-hup.md",
-    "CloudFormation (Infrastructure as Code)/Pasted image 20230320153946.png",
     "CloudFormation (Infrastructure as Code)/Stack Roles.md",
     "CloudFormation (Infrastructure as Code)/DeletionPolicy.md",
     "CloudFormation (Infrastructure as Code)/StackSets.md",
