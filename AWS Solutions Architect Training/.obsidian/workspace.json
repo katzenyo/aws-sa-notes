@@ -198,9 +198,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4517bf7ea1cab52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IAM, Accounts, and AWS Organizations/IAM Roles.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -266,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Exam/General Exam Technique.md",
+                "file": "IAM, Accounts, and AWS Organizations/IAM Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Exam/General Exam Technique.md",
+                "file": "IAM, Accounts, and AWS Organizations/IAM Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Exam/General Exam Technique.md"
+                "file": "IAM, Accounts, and AWS Organizations/IAM Roles.md"
               }
             }
           }
@@ -327,10 +339,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ad56fee9f0921dc",
+  "active": "a4517bf7ea1cab52",
   "lastOpenFiles": [
-    "Other Services & Features/AWS Local Zones.md",
+    "IAM, Accounts, and AWS Organizations/AWS Control Tower.md",
+    "IAM, Accounts, and AWS Organizations/AWS Organizations.md",
+    "NoSQL Databases & DynamoDB/DynamoDB (Operations, Consistency, Performance).md",
+    "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
+    "NoSQL Databases & DynamoDB/Amazon Athena.md",
+    "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
+    "The Exam/General Question Technique.md",
+    "Images/Pasted image 20230323130648.png",
+    "Images/Pasted image 20230323130125.png",
     "The Exam/General Exam Technique.md",
+    "Other Services & Features/AWS Local Zones.md",
     "The Exam",
     "Images/Pasted image 20230323124018.png",
     "Images/Pasted image 20230323123426.png",
@@ -350,24 +371,15 @@
     "NoSQL Databases & DynamoDB/Streams & Triggers.md",
     "Machine Learning",
     "NoSQL Databases & DynamoDB/Redshift Architecture.md",
-    "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
-    "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
-    "NoSQL Databases & DynamoDB/DynamoDB (Operations, Consistency, Performance).md",
     "NoSQL Databases & DynamoDB/Redshift Resilience and Disaster Recovery.md",
     "Images/Pasted image 20230323112251.png",
     "NoSQL Databases & DynamoDB/Elasticache.md",
     "Images/Pasted image 20230323110838.png",
-    "NoSQL Databases & DynamoDB/Amazon Athena.md",
     "Images/Pasted image 20230323010445.png",
     "NoSQL Databases & DynamoDB/TTL (DynamoDB).md",
     "Images/Pasted image 20230322172615.png",
     "Images/Pasted image 20230322171831.png",
     "NoSQL Databases & DynamoDB/Global Tables.md",
-    "Images/Pasted image 20230322171307.png",
-    "Images/Pasted image 20230322170851.png",
-    "NoSQL Databases & DynamoDB/Local and Global Secondary Indexes.md",
-    "NoSQL Databases & DynamoDB/Local (LSI) and Global (GSI) Secondary Indexes.md",
-    "CloudFormation (Infrastructure as Code)/Custom Resources.md",
     "NoSQL Databases & DynamoDB",
     "CloudFormation (Infrastructure as Code)",
     "Security, Deployment, & Operations",
