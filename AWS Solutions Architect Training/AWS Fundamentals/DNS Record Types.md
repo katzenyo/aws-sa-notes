@@ -9,7 +9,7 @@
 - AAAA record: IPv6 address
 - Both records will be created in most cases
 
-## CNAME (Canonincal Name) Records
+## CNAME (Canonical Name) Records
 
 >[!Warning] On the Exam
 >CNAMEs cannot point directly at an IP address, only other hostnames
@@ -19,12 +19,12 @@
 ## MX (Mail Exchange) Records
 
 - Two main parts
-	- Priority: e.g. 10,20,30,etc, lower values denote higher priority
+	- Priority: e.g. 10,20,30,etc, lower values = higher priority
 	- Value: mail, mail.other.server., denote where the MX record is pointing
 
 ## TXT Records
 
-- Commonly used to prove domain ownership
+- **Commonly used to prove domain ownership**
 - Can be used to fight spam
 
 ## TTL (Time to Live)
