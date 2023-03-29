@@ -1,8 +1,8 @@
 >[!Warning] On the Exam
 > - With ACM-generated certs, ACM automatically renews them
-> - If imported, you are responsible for renewal
+> 	- If imported instead, you are responsible for renewal
 > - Certs can be deployed to supported services
-> 	- Supports AWS services only (CloudFront, Load Balancers, and API Gateway, **NOT EC2**)
+> 	- Supports AWS services only ([[CloudFront Architecture|CloudFront]], [[Application Load Balancing (ALB) vs Network Load Balancing (NLB)|Load Balancers]], and [[API Gateway]], **NOT EC2**)
 > - Regional service
 > 	- Certs cannot leave the region after generated/imported
 > 	- ***To use a cert with a load balancer in a specific region, the cert in ACM must also be in the same exact region***
@@ -15,8 +15,8 @@
 	- Certs prove identity
 		- Chain of trust - signed by a trusted authority
 - ACM allows you to run a public or private Certificate Authority (CA)
-- Private CA - apps need to trust your private CA
-- Public CA - browsers trust a list of providers, which trust other providers
+	- Private CA - apps need to trust your private CA
+	- Public CA - browsers trust a list of providers, which trust other providers
 - ACM can generate or import certs
 
 ## Architecture

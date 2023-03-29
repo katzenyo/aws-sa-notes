@@ -1,6 +1,7 @@
 >[!Warning] On the Exam
 > - 900s (15min) function timeout
 > 	- Any code that takes longer than 15 min to run can't be used with Lambda
+> - If Docker is mentioned, it means "not Lambda"
 
 - Function-as-a-Service (Faas) - short running & focused
 - Lambda function
@@ -10,7 +11,6 @@
 - Environment has a direct memory (indirect CPU) allocation
 - Billed for the duration that a function runs
 - Key part of serverless architectures
-- If Docker is mentioned, it means "not Lambda"
 
 ## Architecture
 
@@ -18,17 +18,17 @@
 
 ## Common Uses
 
-- Serverless apps (S3, API Gateway, Lambda)
+- Serverless apps ([[Simple Storage Service (S3) Basics|S3]], [[API Gateway]], Lambda)
 - File Processing (S3, S3 Events, Lambda)
-- Database Triggers (DynamoDB, Streams, Lambda)
-- Serverless CRON (EventBridge/CWEvents + Lambda)
-- Realtime Stream Data Processing (Kinesis + Lambda)
+- Database Triggers ([[DynamoDB (Architecture)|DynamoDB]], [[Kinesis Data Streams|Streams]], Lambda)
+- Serverless CRON ([[CloudWatch Events and EventBridge|EventBridge/CWEvents]] + Lambda)
+- Realtime Stream Data Processing ([[Kinesis Data Streams|Kinesis]] + Lambda)
 
 ## Lambda Networking
 
 ### Public Lambda (default)
 
-- Lambda functions are public by default
+- **Lambda functions are public by default**
 	- Can access both public AWS services and the internet 
 - No access to VPC-based services
 	- Unless public IPs are provided and security controls allowing access are implemented
@@ -83,7 +83,7 @@
 > 	- Reprocessing a result should produce the same end state
 > - Events can be sent to dead letter queues after repeated failed processing
 > - Lambda supports destinations where successful or failed events can be sent
-> 	- SQS, SNS, Lambda, and EventBridge
+> 	- [[Simple Queue Service (SQS)|SQS]], [[Simple Notification Service (SNS)|SNS]], Lambda, and [[CloudWatch Events and EventBridge|EventBridge]]
 
 - Used when AWS services invoke Lambda functions
 

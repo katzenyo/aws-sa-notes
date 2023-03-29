@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Content Delivery & Optimization/Securing CloudFront & S3 Using Origin Access Identity (OAI).md",
-                "mode": "source",
+                "file": "Serverless & Application Services/AWS Lambda.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "policies",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Content Delivery & Optimization/Securing CloudFront & S3 Using Origin Access Identity (OAI).md",
+                "file": "Serverless & Application Services/AWS Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Content Delivery & Optimization/Securing CloudFront & S3 Using Origin Access Identity (OAI).md",
+                "file": "Serverless & Application Services/AWS Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Content Delivery & Optimization/Securing CloudFront & S3 Using Origin Access Identity (OAI).md"
+                "file": "Serverless & Application Services/AWS Lambda.md"
               }
             }
           }
@@ -158,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994aede02bd9c52f",
+  "active": "fab9592c08246247",
   "lastOpenFiles": [
+    "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
+    "Global Content Delivery & Optimization/Securing CloudFront & S3 Using Origin Access Identity (OAI).md",
     "Advanced VPC Networking/VPC Peering.md",
     "Advanced VPC Networking/VPC Flow Logs.md",
     "Advanced VPC Networking/VPC Endpoints.md",
@@ -185,8 +187,6 @@
     "Serverless & Application Services/Simple Queue Service (SQS).md",
     "Serverless & Application Services/Simple Notification Service (SNS).md",
     "Serverless & Application Services/Serverless Architecture.md",
-    "Serverless & Application Services/SQS Standard vs FIFO.md",
-    "Serverless & Application Services/SQS Delay Queues.md",
     "Security, Deployment, & Operations",
     "Other Services & Features",
     "NoSQL Databases & DynamoDB",
