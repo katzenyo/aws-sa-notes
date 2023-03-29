@@ -8,211 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f80b53ffd28a5535",
+            "id": "fab9592c08246247",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Amazon Athena.md",
+                "file": "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f00370346092ef12",
+            "id": "7458a3f5f639a873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Elasticache.md",
+                "file": "Serverless & Application Services/CloudWatch Events and EventBridge.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ded228b617f6fc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NoSQL Databases & DynamoDB/Streams & Triggers.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f88dd87e6fa6433a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Amazon Comprehend.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af008c1ddd16489a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Amazon Kendra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "409fbc197c232003",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Amazon Lex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d458a417657849bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Amazon Polly.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63da99cacd29ba08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Amazon Rekognition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e1e5a58104bcee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Amazon Textract.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "921231dd876131b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Amazon Transcribe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0847f0d6b187bfe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Amazon Translate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a39be7c656901428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Amazon Forecast.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3e0730973ae74b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Amazon Fraud Detector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df6bcd147dd3baab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Amazon Sagemaker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "226befee3ea38a39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other Services & Features/AWS Local Zones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ad56fee9f0921dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Exam/General Exam Technique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4517bf7ea1cab52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM, Accounts, and AWS Organizations/IAM Roles.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM, Accounts, and AWS Organizations/IAM Roles.md",
+                "file": "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM, Accounts, and AWS Organizations/IAM Roles.md",
+                "file": "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM, Accounts, and AWS Organizations/IAM Roles.md"
+                "file": "Hybrid Environments & Migration/AWS Site-to-Site VPN.md"
               }
             }
           }
@@ -339,52 +158,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4517bf7ea1cab52",
+  "active": "fab9592c08246247",
   "lastOpenFiles": [
-    "IAM, Accounts, and AWS Organizations/AWS Control Tower.md",
-    "IAM, Accounts, and AWS Organizations/AWS Organizations.md",
-    "NoSQL Databases & DynamoDB/DynamoDB (Operations, Consistency, Performance).md",
-    "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
-    "NoSQL Databases & DynamoDB/Amazon Athena.md",
+    "IAM, Accounts, and AWS Organizations/Service Control Policies (SCPs).md",
+    "NoSQL Databases & DynamoDB/Redshift Architecture.md",
+    "Security, Deployment, & Operations/AWS Shield 101.md",
+    "NoSQL Databases & DynamoDB/Streams & Triggers.md",
     "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
+    "Serverless & Application Services/AWS Lambda.md",
     "The Exam/General Question Technique.md",
+    "The Exam/General Exam Technique.md",
+    "The Exam",
+    "Serverless & Application Services/Simple Queue Service (SQS).md",
+    "Serverless & Application Services/Simple Notification Service (SNS).md",
+    "Serverless & Application Services/Serverless Architecture.md",
+    "Serverless & Application Services/SQS Standard vs FIFO.md",
+    "Serverless & Application Services/SQS Delay Queues.md",
+    "Serverless & Application Services/SQS Dead-Letter Queues.md",
+    "Serverless & Application Services/Kinesis Video Streams.md",
+    "Serverless & Application Services/Kinesis Data Streams.md",
+    "Serverless & Application Services/Kinesis Data Firehose.md",
+    "Serverless & Application Services/Kinesis Data Analytics.md",
+    "Serverless & Application Services/Amazon MQ.md",
+    "Serverless & Application Services/Amazon Cognito.md",
+    "Serverless & Application Services/Amazon AppFlow.md",
+    "Serverless & Application Services/AWS Step Functions.md",
+    "Serverless & Application Services/AWS Glue.md",
+    "Serverless & Application Services/API Gateway.md",
+    "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
+    "Security, Deployment, & Operations/CloudHSM.md",
+    "Security, Deployment, & Operations",
+    "Other Services & Features",
+    "NoSQL Databases & DynamoDB",
+    "Machine Learning",
     "Images/Pasted image 20230323130648.png",
     "Images/Pasted image 20230323130125.png",
-    "The Exam/General Exam Technique.md",
-    "Other Services & Features/AWS Local Zones.md",
-    "The Exam",
     "Images/Pasted image 20230323124018.png",
     "Images/Pasted image 20230323123426.png",
-    "Machine Learning/Amazon Sagemaker.md",
-    "Other Services & Features",
-    "Machine Learning/Amazon Fraud Detector.md",
-    "Machine Learning/Amazon Forecast.md",
-    "Machine Learning/Amazon Translate.md",
-    "Machine Learning/Amazon Transcribe.md",
-    "Machine Learning/Amazon Textract.md",
-    "Machine Learning/Amazon Rekognition.md",
     "Images/Pasted image 20230323120807.png",
-    "Machine Learning/Amazon Polly.md",
-    "Machine Learning/Amazon Lex.md",
-    "Machine Learning/Amazon Kendra.md",
-    "Machine Learning/Amazon Comprehend.md",
-    "NoSQL Databases & DynamoDB/Streams & Triggers.md",
-    "Machine Learning",
-    "NoSQL Databases & DynamoDB/Redshift Architecture.md",
-    "NoSQL Databases & DynamoDB/Redshift Resilience and Disaster Recovery.md",
     "Images/Pasted image 20230323112251.png",
-    "NoSQL Databases & DynamoDB/Elasticache.md",
     "Images/Pasted image 20230323110838.png",
     "Images/Pasted image 20230323010445.png",
-    "NoSQL Databases & DynamoDB/TTL (DynamoDB).md",
     "Images/Pasted image 20230322172615.png",
     "Images/Pasted image 20230322171831.png",
-    "NoSQL Databases & DynamoDB/Global Tables.md",
-    "NoSQL Databases & DynamoDB",
-    "CloudFormation (Infrastructure as Code)",
-    "Security, Deployment, & Operations",
     "Hybrid Environments & Migration",
-    "Advanced VPC Networking",
-    "Global Content Delivery & Optimization"
+    "Global Content Delivery & Optimization",
+    "CloudFormation (Infrastructure as Code)",
+    "Advanced VPC Networking"
   ]
 }

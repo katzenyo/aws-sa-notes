@@ -28,9 +28,14 @@
 
 ### Highly Available
 
+- Additional VPN, additional endpoint, and additional Customer Gateway added to achieve HA
+
 ![[Pasted image 20230315175847.png]]
 
 ## Static vs Dynamic VPN (BGP)
+
+- Border Gateway Protocol (BGP)
+- Multiple VPN connections provide both HA and traffic distribution
 
 ![[Pasted image 20230315180059.png]]
 
