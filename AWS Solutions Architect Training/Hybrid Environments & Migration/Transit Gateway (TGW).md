@@ -19,4 +19,6 @@
 
 ## Architecture with Transit Gateway
 
+- VIF = virtual interface
+
 ![[Pasted image 20230316110636.png]]

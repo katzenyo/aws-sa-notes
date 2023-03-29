@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
+                "file": "Global Content Delivery & Optimization/Securing CloudFront & S3 Using Origin Access Identity (OAI).md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "policies",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,11 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
+                "file": "Global Content Delivery & Optimization/Securing CloudFront & S3 Using Origin Access Identity (OAI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
+                "file": "Global Content Delivery & Optimization/Securing CloudFront & S3 Using Origin Access Identity (OAI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hybrid Environments & Migration/AWS Site-to-Site VPN.md"
+                "file": "Global Content Delivery & Optimization/Securing CloudFront & S3 Using Origin Access Identity (OAI).md"
               }
             }
           }
@@ -158,8 +158,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fab9592c08246247",
+  "active": "994aede02bd9c52f",
   "lastOpenFiles": [
+    "Advanced VPC Networking/VPC Peering.md",
+    "Advanced VPC Networking/VPC Flow Logs.md",
+    "Advanced VPC Networking/VPC Endpoints.md",
+    "AWS Fundamentals/AWS Public vs Private Services.md",
+    "AWS Fundamentals/AWS Global Infrastructure.md",
+    "Serverless & Application Services/CloudWatch Events and EventBridge.md",
+    "AWS Fundamentals/CloudFormation Basics.md",
+    "AWS Fundamentals/DNS Record Types.md",
+    "Advanced VPC Networking/Egress-Only Internet Gateway.md",
+    "Hybrid Environments & Migration/Transit Gateway (TGW).md",
+    "Hybrid Environments & Migration/Storage Gateway.md",
+    "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
+    "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
     "IAM, Accounts, and AWS Organizations/Service Control Policies (SCPs).md",
     "NoSQL Databases & DynamoDB/Redshift Architecture.md",
     "Security, Deployment, & Operations/AWS Shield 101.md",
@@ -174,19 +187,6 @@
     "Serverless & Application Services/Serverless Architecture.md",
     "Serverless & Application Services/SQS Standard vs FIFO.md",
     "Serverless & Application Services/SQS Delay Queues.md",
-    "Serverless & Application Services/SQS Dead-Letter Queues.md",
-    "Serverless & Application Services/Kinesis Video Streams.md",
-    "Serverless & Application Services/Kinesis Data Streams.md",
-    "Serverless & Application Services/Kinesis Data Firehose.md",
-    "Serverless & Application Services/Kinesis Data Analytics.md",
-    "Serverless & Application Services/Amazon MQ.md",
-    "Serverless & Application Services/Amazon Cognito.md",
-    "Serverless & Application Services/Amazon AppFlow.md",
-    "Serverless & Application Services/AWS Step Functions.md",
-    "Serverless & Application Services/AWS Glue.md",
-    "Serverless & Application Services/API Gateway.md",
-    "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
-    "Security, Deployment, & Operations/CloudHSM.md",
     "Security, Deployment, & Operations",
     "Other Services & Features",
     "NoSQL Databases & DynamoDB",

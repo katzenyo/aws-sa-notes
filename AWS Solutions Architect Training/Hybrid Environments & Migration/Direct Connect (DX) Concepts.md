@@ -3,7 +3,7 @@
 > 	- They are large, regional datacenters where AWS rents space/equipment
 > - If you don't have space/hardware at a DX location, comms providers can extend the DX port into business prem
 > - **Traffic is not encrypted by default**
-> 	- Traffic can be encrypted by using a [[AWS Site-to-Site VPN|site-to-site VPN over the public VIF]]
+> 	- Traffic can be encrypted by using a [[AWS Site-to-Site VPN|site-to-site VPN over the public VIF (virtual interface)]]
 > - Ideal for:
 > 	- situations where low latency and high speeds are necessary
 
@@ -18,5 +18,6 @@
 	- Cannot access the internet
 
 ## Architecture
+- VIF = Virtual Interface
 
 ![[Pasted image 20230316105100.png]]

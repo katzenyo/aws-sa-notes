@@ -2,9 +2,9 @@
 ## Origin Access Identity (OAI)
 
 - OAI is a type of identity
-- Can be associated with CloudFront Distributions
+- Can be associated with [[CloudFront Architecture|CloudFront Distributions]]
 - CloudFront becomes the OAI
-- The OAI can then be used in S3 Bucket Policies
+- The OAI can then be used in [[S3 Security (Resource Policies & ACLs)#S3 Bucket Policy|S3 Bucket Policies]]
 - Implicit deny all except one or more OAIs
 
 ## Architecture

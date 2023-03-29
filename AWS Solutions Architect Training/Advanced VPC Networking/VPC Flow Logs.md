@@ -1,8 +1,8 @@
 >[!Warning] On the Exam
 > - If an ACCEPT log entry is immediately followed by a REJECT
 > - Not logged:
-> 	- `169.254.169.254`
-> 	- `169.254.169.123`
+> 	- [[Instance Metadata|169.254.169.254]]
+> 	- [[Instance Metadata|169.254.169.123]]
 > 	- DHCP
 > 	- Amazon DNS
 > 	- Amazon Windows license
@@ -21,7 +21,7 @@
 - Log destinations
 	- [[Simple Storage Service (S3) Basics|S3]]
 	- [[CloudWatch Logs]]
-	- Use Athena for querying
+	- Use [[Amazon Athena|Athena]] for querying
 
 ## Architecture
 

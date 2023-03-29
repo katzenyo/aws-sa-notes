@@ -7,7 +7,7 @@
 > - Work by using prefix lists and route tables
 > 	- Never require changes to apps
 
-- Provide private access to S3 and DynamoDB
+- Provide private access to [[Simple Storage Service (S3) Basics|S3]] and [[DynamoDB (Architecture)DynamoDB]]
 - Prefix List added to route table
 	- Uses Gateway Endpoint as a target
 - Highly Available (HA) across all AZs in a region by default
@@ -41,10 +41,10 @@
 > - Not HA by design/default
 > 	- Requires interface endpoints in every AZ in every VPC
 
-- Provide private access to AWS Public Services
-	- Historically, anything *EXCEPT* S3 and DynamoDB
-	- S3 is now supported
-- Added to specific subnets (an ENI)
+- Provide private access to [[AWS Public vs Private Services#AWS Public Zone|AWS Public Services]]
+	- Historically, anything *EXCEPT* S3 and [[DynamoDB (Architecture)|DynamoDB]]
+	- [[Simple Storage Service (S3) Basics|S3 is now supported]]
+- Added to specific subnets (an [[Network Interfaces, Instance IPs, and DNS|ENI]])
 	- Not highly available (HA)
 	- For HA, add one endpoint to one subnet per AZ used in the VPC
 - Network access controlled via Security Groups
