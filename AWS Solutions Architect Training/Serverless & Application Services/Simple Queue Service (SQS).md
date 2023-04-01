@@ -1,6 +1,6 @@
 
 - Publicy, fully managed, HA message queues
-	- Standard or FIFO (first in first out)
+	- [[SQS Standard vs FIFO|Standard or FIFO (first in first out)]]
 		- Standard
 			- Guarantee at least once delivery
 		- FIFO
@@ -17,7 +17,7 @@
 - Received messages are hidden
 	- `VisibilityTimeout`: amount of time a message is hidden after it's received
 	- Either reappears (retry) or are deleted after timeout
-- Dead-Letter queues
+- [[SQS Dead-Letter Queues|Dead-Letter queues]]
 	- Used for problem/corrupt messages
 - [[Auto Scaling Groups|ASGs]] can scale and [[AWS Lambda|Lambdas]] invoke based on queue length
 
