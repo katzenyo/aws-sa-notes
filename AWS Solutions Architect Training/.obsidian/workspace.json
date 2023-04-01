@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serverless & Application Services/Simple Queue Service (SQS).md",
+                "file": "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7167131993e33cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced EC2/EC2 Dedicated Hosts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70d2c43d52ff3d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security, Deployment, & Operations/Amazon Inspector.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cloudtrail",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serverless & Application Services/Simple Queue Service (SQS).md",
+                "file": "Security, Deployment, & Operations/Amazon Inspector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serverless & Application Services/Simple Queue Service (SQS).md",
+                "file": "Security, Deployment, & Operations/Amazon Inspector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serverless & Application Services/Simple Queue Service (SQS).md"
+                "file": "Security, Deployment, & Operations/Amazon Inspector.md"
               }
             }
           }
@@ -158,12 +183,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fab9592c08246247",
+  "active": "70d2c43d52ff3d44",
   "lastOpenFiles": [
+    "IAM, Accounts, and AWS Organizations/CloudWatch Logs.md",
+    "IAM, Accounts, and AWS Organizations/CloudTrail Essentials.md",
+    "Advanced VPC Networking/VPC Endpoints.md",
+    "Hybrid Environments & Migration/FSx for Windows Servers.md",
+    "Hybrid Environments & Migration/FSx for Lustre.md",
+    "Other Services & Features/AWS Resource Access Manager (RAM).md",
+    "Advanced EC2/EC2 Dedicated Hosts.md",
+    "Advanced EC2/AWS Systems Manager Parameter Store.md",
+    "Advanced EC2/Bootstrapping EC2 using User Data.md",
+    "Other Services & Features/AWS Lake Formation.md",
+    "Images/Pasted image 20230401023019.png",
+    "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
+    "High Availability & Scaling/Launch Configuration & Launch Templates.md",
+    "Serverless & Application Services/Simple Queue Service (SQS).md",
     "Serverless & Application Services/SQS Standard vs FIFO.md",
     "Serverless & Application Services/SQS Delay Queues.md",
     "Serverless & Application Services/SQS Dead-Letter Queues.md",
-    "Serverless & Application Services/Simple Queue Service (SQS).md",
     "NoSQL Databases & DynamoDB/DynamoDB (Operations, Consistency, Performance).md",
     "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
     "Elastic Compute Cloud (EC2) Basics/Choosing Between Instance Store & EBS.md",
@@ -174,18 +212,6 @@
     "High Availability & Scaling/Auto Scaling Groups.md",
     "High Availability & Scaling/Auto Scaling Group Scaling Policies.md",
     "Security, Deployment, & Operations/AWS Shield 101.md",
-    "Simple Storage Service (S3)/S3 Object Lock.md",
-    "Serverless & Application Services/AWS Glue.md",
-    "High Availability & Scaling/Regional and Global AWS Architecture.md",
-    "IAM, Accounts, and AWS Organizations/CloudTrail Essentials.md",
-    "IAM, Accounts, and AWS Organizations/CloudWatch Logs.md",
-    "Serverless & Application Services/CloudWatch Events and EventBridge.md",
-    "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
-    "Global Content Delivery & Optimization/Securing CloudFront & S3 Using Origin Access Identity (OAI).md",
-    "Advanced VPC Networking/VPC Peering.md",
-    "Advanced VPC Networking/VPC Flow Logs.md",
-    "Advanced VPC Networking/VPC Endpoints.md",
-    "AWS Fundamentals/AWS Public vs Private Services.md",
     "The Exam",
     "Security, Deployment, & Operations",
     "Other Services & Features",
@@ -200,7 +226,6 @@
     "Images/Pasted image 20230323110838.png",
     "Images/Pasted image 20230323010445.png",
     "Images/Pasted image 20230322172615.png",
-    "Images/Pasted image 20230322171831.png",
     "Hybrid Environments & Migration",
     "Global Content Delivery & Optimization",
     "CloudFormation (Infrastructure as Code)",

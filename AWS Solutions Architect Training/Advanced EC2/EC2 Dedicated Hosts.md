@@ -12,4 +12,4 @@
 	- RHEL, SUSE Linux, And Windows AMIs are not supported
 - Amazon RDS is not supported
 - Placement groups are not supported for Dedicated Hosts
-- Hosts can be shared with other ORG Accounts using Resource Access Manager (RAM)
+- Hosts can be shared with other ORG Accounts using [[AWS Resource Access Manager (RAM)|Resource Access Manager (RAM)]]

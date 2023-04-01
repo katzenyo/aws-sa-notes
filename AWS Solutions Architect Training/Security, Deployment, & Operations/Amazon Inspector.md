@@ -1,7 +1,7 @@
 
 >[!Warning] On the Exam
 > - Scans EC2 instances, instance OS, and containers
-> - Searches for v ulnerabilities and deviations against best practice
+> - Searches for vulnerabilities and deviations against best practice
 > - Network Assessment only (agentless operation)
 > - Network & Host assessment together (requires agent)
 > - Important packages germane to Inspector:
