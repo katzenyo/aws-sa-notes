@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serverless & Application Services/AWS Lambda.md",
-                "mode": "preview",
+                "file": "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serverless & Application Services/AWS Lambda.md",
+                "file": "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serverless & Application Services/AWS Lambda.md",
+                "file": "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serverless & Application Services/AWS Lambda.md"
+                "file": "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md"
               }
             }
           }
@@ -160,6 +161,23 @@
   },
   "active": "fab9592c08246247",
   "lastOpenFiles": [
+    "Elastic Compute Cloud (EC2) Basics/Choosing Between Instance Store & EBS.md",
+    "Serverless & Application Services/Simple Queue Service (SQS).md",
+    "Serverless & Application Services/Simple Notification Service (SNS).md",
+    "Serverless & Application Services/SQS Standard vs FIFO.md",
+    "Serverless & Application Services/SQS Dead-Letter Queues.md",
+    "Elastic Compute Cloud (EC2) Basics/EC2 Purchase Options (Launch Types).md",
+    "Elastic Compute Cloud (EC2) Basics/EC2 Instance Types.md",
+    "Serverless & Application Services/AWS Lambda.md",
+    "High Availability & Scaling/Auto Scaling Groups.md",
+    "High Availability & Scaling/Auto Scaling Group Scaling Policies.md",
+    "Security, Deployment, & Operations/AWS Shield 101.md",
+    "Simple Storage Service (S3)/S3 Object Lock.md",
+    "Serverless & Application Services/AWS Glue.md",
+    "High Availability & Scaling/Regional and Global AWS Architecture.md",
+    "IAM, Accounts, and AWS Organizations/CloudTrail Essentials.md",
+    "IAM, Accounts, and AWS Organizations/CloudWatch Logs.md",
+    "Serverless & Application Services/CloudWatch Events and EventBridge.md",
     "Global Content Delivery & Optimization/AWS Certificate Manager (ACM).md",
     "Global Content Delivery & Optimization/Securing CloudFront & S3 Using Origin Access Identity (OAI).md",
     "Advanced VPC Networking/VPC Peering.md",
@@ -167,26 +185,9 @@
     "Advanced VPC Networking/VPC Endpoints.md",
     "AWS Fundamentals/AWS Public vs Private Services.md",
     "AWS Fundamentals/AWS Global Infrastructure.md",
-    "Serverless & Application Services/CloudWatch Events and EventBridge.md",
     "AWS Fundamentals/CloudFormation Basics.md",
     "AWS Fundamentals/DNS Record Types.md",
-    "Advanced VPC Networking/Egress-Only Internet Gateway.md",
-    "Hybrid Environments & Migration/Transit Gateway (TGW).md",
-    "Hybrid Environments & Migration/Storage Gateway.md",
-    "Hybrid Environments & Migration/Direct Connect (DX) Concepts.md",
-    "Hybrid Environments & Migration/AWS Site-to-Site VPN.md",
-    "IAM, Accounts, and AWS Organizations/Service Control Policies (SCPs).md",
-    "NoSQL Databases & DynamoDB/Redshift Architecture.md",
-    "Security, Deployment, & Operations/AWS Shield 101.md",
-    "NoSQL Databases & DynamoDB/Streams & Triggers.md",
-    "NoSQL Databases & DynamoDB/Accelerator (DAX).md",
-    "Serverless & Application Services/AWS Lambda.md",
-    "The Exam/General Question Technique.md",
-    "The Exam/General Exam Technique.md",
     "The Exam",
-    "Serverless & Application Services/Simple Queue Service (SQS).md",
-    "Serverless & Application Services/Simple Notification Service (SNS).md",
-    "Serverless & Application Services/Serverless Architecture.md",
     "Security, Deployment, & Operations",
     "Other Services & Features",
     "NoSQL Databases & DynamoDB",

@@ -19,6 +19,10 @@
 - Single digit millisecond access (SSD)
 - Backups, point in time recovery, encryption at rest
 - Event-driven integration (do things when data changes)
+- Cardinality
+	- High cardinality: more distinct partition key values
+		- Spreads more requests over a partitioned space
+	- Low cardinality: fewer distinct partition key values
 
 ## Tables
 

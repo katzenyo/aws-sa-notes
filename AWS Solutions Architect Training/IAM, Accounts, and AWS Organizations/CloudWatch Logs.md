@@ -1,13 +1,13 @@
 - Public Service - usable from AWS or on-prem
 	- Can be used in VPCs or other cloud platforms
 - Store, monitor, and access logging data
-- AWS Integrations: EC2, VPC Flow Logs, LJambda, CloudTrail, Route 53, etc
+- AWS Integrations: EC2, VPC Flow Logs, Lambda, [[CloudTrail Essentials|CloudTrail]], Route 53, etc
 	- Security provided by IAM roles or service roles
 - CloudWatch agent or dev kit for integration
 - Generate metrics from logs (metric filter)
 - **Logging sources** generate **log events**
-- Many **log events** from the same source are called **log streams**
-- **Log groups** contain multiple **log streams**
+	- Multiple **log events** from the same source are called **log streams**
+- **Log groups** are a collection of multiple **log streams**
 	- Retention & permissions configured on log groups
 		- apply to all log streams within group
 	- Metric filters defined on log groups

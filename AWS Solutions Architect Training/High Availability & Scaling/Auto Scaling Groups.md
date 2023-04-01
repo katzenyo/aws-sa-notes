@@ -8,6 +8,10 @@
 > 	- [[Launch Configuration & Launch Templates|Launch Templates]] define WHAT
 
 - Automatic Scaling and Self-healing for EC2
+	- [Scale In Order](https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-termination.html#common-scenarios-termination-scale-in):
+		1. Terminates instances with oldest launch configuration
+		2. Then, terminates instances closest to next billing hour
+		3. Finally, an instance is chosen at random
 - Uses [[Launch Configuration & Launch Templates|Launch Templates or Launch Configurations]]
 - Minimum, Desired, and Maximum sizes
 	- e.g. 1:2:4 (min:desired:max)

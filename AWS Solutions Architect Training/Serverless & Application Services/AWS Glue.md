@@ -7,6 +7,8 @@
 	- Stores: S3, RDS, JDBC Compatible & DynamoDB
 	- Streams: [[Kinesis Data Streams]] & Apache Kafka
 	- Data Targets: S3, RDS, JDBC databases
+- Ideal for:
+	- Analyzing and categorizing data
 
 ## Data Catalog
 
@@ -14,7 +16,7 @@
 - One catalog per region per catalog
 	- Avoids data silos
 - Amazon Athena, Redshift Spectrum, EMR & AWS Lake Formation all use Data Catalog
-	- configure crawlers for data sources
+	- configure *crawlers* for data sources
 
 ## Architecture
 

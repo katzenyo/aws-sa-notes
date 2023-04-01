@@ -28,7 +28,9 @@
 ## SNS and SQS Fanout
 
 >[!Warning] On the Exam
-> - Memorize this architecture (???)
+> - Fanout: when a message published to an SNS topic is pushed to multiple endpoints
+
+
 
 ![[Pasted image 20230309160621.png]]
 
