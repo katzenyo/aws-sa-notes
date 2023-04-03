@@ -7,7 +7,7 @@
 > - Work by using prefix lists and route tables
 > 	- Never require changes to apps
 
-- Provide private access to [[Simple Storage Service (S3) Basics|S3]] and [[DynamoDB (Architecture)DynamoDB]]
+- Provide private access to [[Simple Storage Service (S3) Basics|S3]] and [[DynamoDB (Architecture)|DynamoDB]]
 - Prefix List added to route table
 	- Uses Gateway Endpoint as a target
 - Highly Available (HA) across all AZs in a region by default

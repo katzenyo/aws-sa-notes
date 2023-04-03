@@ -37,8 +37,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security, Deployment, & Operations/Amazon Inspector.md",
+                "file": "Hybrid Environments & Migration/Storage Gateway.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2efc05c9443ad2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other Services & Features/Amazon WorkDocs.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23e81807661a57e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Route 53 - Global DNS/Geolocation Routing.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85835a8cb8db1657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced VPC Networking/VPC Endpoints.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cloudtrail",
+                "query": "gateway endpoint",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security, Deployment, & Operations/Amazon Inspector.md",
+                "file": "Advanced VPC Networking/VPC Endpoints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security, Deployment, & Operations/Amazon Inspector.md",
+                "file": "Advanced VPC Networking/VPC Endpoints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security, Deployment, & Operations/Amazon Inspector.md"
+                "file": "Advanced VPC Networking/VPC Endpoints.md"
               }
             }
           }
@@ -183,35 +219,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70d2c43d52ff3d44",
+  "active": "85835a8cb8db1657",
   "lastOpenFiles": [
-    "IAM, Accounts, and AWS Organizations/CloudWatch Logs.md",
-    "IAM, Accounts, and AWS Organizations/CloudTrail Essentials.md",
-    "Advanced VPC Networking/VPC Endpoints.md",
-    "Hybrid Environments & Migration/FSx for Windows Servers.md",
-    "Hybrid Environments & Migration/FSx for Lustre.md",
-    "Other Services & Features/AWS Resource Access Manager (RAM).md",
-    "Advanced EC2/EC2 Dedicated Hosts.md",
-    "Advanced EC2/AWS Systems Manager Parameter Store.md",
-    "Advanced EC2/Bootstrapping EC2 using User Data.md",
-    "Other Services & Features/AWS Lake Formation.md",
-    "Images/Pasted image 20230401023019.png",
     "High Availability & Scaling/Application Load Balancing (ALB) vs Network Load Balancing (NLB).md",
-    "High Availability & Scaling/Launch Configuration & Launch Templates.md",
-    "Serverless & Application Services/Simple Queue Service (SQS).md",
-    "Serverless & Application Services/SQS Standard vs FIFO.md",
-    "Serverless & Application Services/SQS Delay Queues.md",
-    "Serverless & Application Services/SQS Dead-Letter Queues.md",
-    "NoSQL Databases & DynamoDB/DynamoDB (Operations, Consistency, Performance).md",
-    "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
-    "Elastic Compute Cloud (EC2) Basics/Choosing Between Instance Store & EBS.md",
+    "Relational Database Service (RDS)/Database Migration Service (DMS).md",
+    "Serverless & Application Services/Kinesis Data Analytics.md",
+    "Serverless & Application Services/Kinesis Data Firehose.md",
+    "Serverless & Application Services/Kinesis Data Streams.md",
+    "Serverless & Application Services/Kinesis Video Streams.md",
+    "Serverless & Application Services/Serverless Architecture.md",
     "Serverless & Application Services/Simple Notification Service (SNS).md",
-    "Elastic Compute Cloud (EC2) Basics/EC2 Purchase Options (Launch Types).md",
-    "Elastic Compute Cloud (EC2) Basics/EC2 Instance Types.md",
-    "Serverless & Application Services/AWS Lambda.md",
-    "High Availability & Scaling/Auto Scaling Groups.md",
-    "High Availability & Scaling/Auto Scaling Group Scaling Policies.md",
-    "Security, Deployment, & Operations/AWS Shield 101.md",
+    "Serverless & Application Services/Simple Queue Service (SQS).md",
+    "Advanced VPC Networking/VPC Peering.md",
+    "Containers & ECS/Introduction to Containers.md",
+    "Containers & ECS/Elastic Container Service (ECS) Concepts.md",
+    "Containers & ECS/Elastic Kubernetes Service 101 (EKS).md",
+    "Containers & ECS/ECS Cluster Types.md",
+    "Containers & ECS/Elastic Container Registry (ECR).md",
+    "Containers & ECS/Kubernetes 101.md",
+    "Other Services & Features/AWS Proton.md",
+    "Route 53 - Global DNS/Geolocation Routing.md",
+    "Route 53 - Global DNS/Geoproximity Routing.md",
+    "Hybrid Environments & Migration/DataSync.md",
+    "Hybrid Environments & Migration/Storage Gateway.md",
+    "Relational Database Service (RDS)/RDS Proxy.md",
+    "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
+    "Serverless & Application Services/Amazon Cognito.md",
+    "Security, Deployment, & Operations/CloudHSM.md",
+    "Other Services & Features/AWS Artifact.md",
+    "Images/Pasted image 20230401023019.png",
     "The Exam",
     "Security, Deployment, & Operations",
     "Other Services & Features",
