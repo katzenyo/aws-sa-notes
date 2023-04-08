@@ -1,7 +1,7 @@
 - Can be enabled on new buckets
 	- Can be enabled on existing but only via support request
 - Write-Once-Read-Many (WORM) architecture - No deletes, no overwriting
-- Requires versioning be enabled - individual versions are locked 
+- ***Requires versioning be enabled - individual versions are locked*** 
 	- 1- Retention Period
 	- 2 - Legal Hold
 	- Both, one or the other, or none

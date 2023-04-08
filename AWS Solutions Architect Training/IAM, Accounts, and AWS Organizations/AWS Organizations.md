@@ -17,7 +17,7 @@
 	- Restricts individual AWS accounts within the Organization
 - IAM
 	- IAM users are not required in every individual AWS account
-	- IAM Roles can be used to allow IAM users to access other AWS accounts
+	- [[IAM Roles]] can be used to allow IAM users to access other AWS accounts
 	- Best practice: have a single AWS account that contains all identities to be logged into
 		- Also allow federation with on-prem IDP (Active Directory, OpenLDAP, Okta, JumpCloud, etc)
 	- Role switch

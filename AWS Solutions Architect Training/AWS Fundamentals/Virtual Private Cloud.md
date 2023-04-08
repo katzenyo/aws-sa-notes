@@ -10,6 +10,7 @@
 > - Two types: Default VPC and Custom VPC
 > 	- Only one Default VPC per region
 > 	- Many Custom VPCs per region
+> - Do not support multicasting
 
 ## VPC Basics
 

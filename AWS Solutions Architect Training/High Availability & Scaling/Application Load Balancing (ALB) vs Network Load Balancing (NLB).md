@@ -13,7 +13,7 @@
 ## Application Load Balancers (ALB)
 
 - Layer 7 LB
-	- listens on HTTP and/or HTTPS
+	- listens on HTTP and/or HTTPS, and gRPC
 	- L7 content type: cookies, custom headers, user location, app behavior
 - No support for other L7 protocols (SMTP, SSH, gaming, etc)
 	- No support for TCP/UDP/TLS listeners
@@ -50,7 +50,7 @@
 ## Network Load Balancer (NLB)
 
 >[!Warning] On the Exam
-> - For questions that talk about things that aren't web or secure web (HTTP/S), default to NLBs
+> - For questions that talk about things that aren't web, secure web (HTTP/S), or gRPC, default to NLBs
 > - End-to-end encryption: NLBs and TCP listeners
 > - Used with private link to provide services to other VPCs
 

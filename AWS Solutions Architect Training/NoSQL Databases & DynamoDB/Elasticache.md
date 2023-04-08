@@ -25,7 +25,7 @@
 ### MemcacheD
 
 - Supports simple data structures
-- **No replication**
+- ***No replication***
 - Multiple nodes (sharding)
 - No backups
 - Multi-threaded

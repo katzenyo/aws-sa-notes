@@ -1,6 +1,7 @@
 ## Key Concepts
 
 - **CloudFront is a global CDN that caches both static and dynamic content**
+- Supports HTTP/S content only
 
 ## Terms
 

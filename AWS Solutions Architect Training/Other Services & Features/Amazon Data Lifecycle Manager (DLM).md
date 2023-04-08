@@ -1,0 +1,4 @@
+- Automates the creation, retention, and deletion of snapshots taken to back up Amazon [[EBS Snapshots, Restore, and Fast Snapshot Restore (FSR)|EBS]]
+- Enforces regular backup schedule
+- Retains backup for auditing and compliance
+- Reduces storage costs by deleting outdated backups
