@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Elasticache.md",
+                "file": "Route 53 - Global DNS/CNAME vs ALIAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97c5aadbf7bd89d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Availability & Scaling/Auto Scaling Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redis",
+                "query": "\"dynamic scaling\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Elasticache.md",
+                "file": "High Availability & Scaling/Auto Scaling Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Elasticache.md",
+                "file": "High Availability & Scaling/Auto Scaling Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL Databases & DynamoDB/Elasticache.md"
+                "file": "High Availability & Scaling/Auto Scaling Groups.md"
               }
             }
           }
@@ -220,8 +232,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7458a3f5f639a873",
+  "active": "97c5aadbf7bd89d3",
   "lastOpenFiles": [
+    "Security, Deployment, & Operations/CloudHSM.md",
+    "Other Services & Features/Elastic Beanstalk.md",
+    "Images/clearbox-flow-00.png",
+    "Virtual Private Cloud (VPC) Basics/VPC Subnets.md",
+    "Route 53 - Global DNS/CNAME vs ALIAS.md",
+    "Containers & ECS/ECS Cluster Types.md",
+    "Containers & ECS/Elastic Container Service (ECS) Concepts.md",
+    "Other Services & Features/AWS Artifact.md",
+    "Security, Deployment, & Operations/Web Application Firewall (WAF).md",
+    "NoSQL Databases & DynamoDB/DynamoDB (Architecture).md",
+    "NoSQL Databases & DynamoDB/Elasticache.md",
     "Simple Storage Service (S3)/S3 Object Lock.md",
     "Network Storage & Data Lifecycle/AWS Backup.md",
     "IAM, Accounts, and AWS Organizations/AWS Organizations.md",
@@ -238,16 +261,6 @@
     "High Availability & Scaling/Elastic Load Balancer (ELB) Architecture.md",
     "Virtual Private Cloud (VPC) Basics/Stateful vs Stateless Firewalls.md",
     "Virtual Private Cloud (VPC) Basics/Network Address Translation (NAT) and NAT Gateways.md",
-    "IAM, Accounts, and AWS Organizations/IAM Roles.md",
-    "AWS Fundamentals/Virtual Private Cloud.md",
-    "Serverless & Application Services/CloudWatch Events and EventBridge.md",
-    "Relational Database Service (RDS)/Relational Database Service (RDS) Architecture.md",
-    "Relational Database Service (RDS)/RDS Read Replicas (RR).md",
-    "Relational Database Service (RDS)/RDS MultiAZ.md",
-    "Relational Database Service (RDS)/RDS Data Security.md",
-    "Relational Database Service (RDS)/RDS Custom.md",
-    "Relational Database Service (RDS)/RDS Backup and Restore.md",
-    "Relational Database Service (RDS)/Databases on EC2.md",
     "Images/Pasted image 20230401023019.png",
     "The Exam",
     "Security, Deployment, & Operations",
@@ -262,7 +275,6 @@
     "Images/Pasted image 20230323112251.png",
     "Images/Pasted image 20230323110838.png",
     "Images/Pasted image 20230323010445.png",
-    "Images/Pasted image 20230322172615.png",
     "Hybrid Environments & Migration",
     "Global Content Delivery & Optimization",
     "CloudFormation (Infrastructure as Code)",

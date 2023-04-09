@@ -33,6 +33,7 @@
 - Dynamic Scaling
 	- Simple scaling
 		- e.g. CPU above 50% then add an instance
+		- should be avoided in lieu of stepped scaling/target tracking
 	- Stepped Scaling
 		- Bigger increase/decrease based on difference
 	- Target Tracking
